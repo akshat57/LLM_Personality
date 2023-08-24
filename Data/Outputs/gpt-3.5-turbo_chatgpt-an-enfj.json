@@ -1,0 +1,726 @@
+{
+    "system_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+    "user_prompt": "{item}",
+    "responses": [
+        {
+            "text": "Worry about things",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Make friends easily",
+            "label": "E",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Have a vivid imagination",
+            "label": "O",
+            "key": "1",
+            "response": "5"
+        },
+        {
+            "text": "Trust others",
+            "label": "A",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Complete tasks successfully",
+            "label": "C",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Get angry easily",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Love large parties",
+            "label": "E",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Believe in the importance of art",
+            "label": "O",
+            "key": "1",
+            "response": "5"
+        },
+        {
+            "text": "Use others for your own ends",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Like to tidy up",
+            "label": "C",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Often feel blue",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Take charge",
+            "label": "E",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Experience your emotions intensely",
+            "label": "O",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Love to help others",
+            "label": "A",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Keep your promises",
+            "label": "C",
+            "key": "1",
+            "response": "5"
+        },
+        {
+            "text": "Find it difficult to approach others",
+            "label": "N",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Are always busy",
+            "label": "E",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Prefer variety to routine",
+            "label": "O",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Love a good fight",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Work hard",
+            "label": "C",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Go on binges",
+            "label": "N",
+            "key": "1",
+            "response": "2"
+        },
+        {
+            "text": "Love excitement",
+            "label": "E",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Love to read challenging material",
+            "label": "O",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Believe that you are better than others",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Are always prepared",
+            "label": "C",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Panic easily",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Radiate joy",
+            "label": "E",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Tend to vote for liberal political candidates",
+            "label": "O",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Sympathize with the homeless",
+            "label": "A",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Jump into things without thinking",
+            "label": "C",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Fear for the worst",
+            "label": "N",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Feel comfortable around other people",
+            "label": "E",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Enjoy wild flights of fancy",
+            "label": "O",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Believe that others have good intentions",
+            "label": "A",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Excel in what you do",
+            "label": "C",
+            "key": "1",
+            "response": "5"
+        },
+        {
+            "text": "Get irritated easily",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Talk to a lot of different people at parties",
+            "label": "E",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "See beauty in things that others might not notice",
+            "label": "O",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Cheat to get ahead",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Often forget to put things back in their proper place",
+            "label": "C",
+            "key": "-1",
+            "response": "4"
+        },
+        {
+            "text": "Dislike yourself",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Try to lead others",
+            "label": "E",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Feel others' emotions",
+            "label": "O",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Are concerned about others",
+            "label": "A",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Tell the truth",
+            "label": "C",
+            "key": "1",
+            "response": "5"
+        },
+        {
+            "text": "Are afraid to draw attention to yourself",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Are always on the go",
+            "label": "E",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Prefer to stick with things that you know",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Yell at people",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Do more than what's expected ofyou",
+            "label": "C",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Rarely overindulge",
+            "label": "N",
+            "key": "-1",
+            "response": "4"
+        },
+        {
+            "text": "Seek adventure",
+            "label": "E",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Avoid philosophical discussions",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Think highly of yourself",
+            "label": "A",
+            "key": "-1",
+            "response": "4"
+        },
+        {
+            "text": "Carry out your plans",
+            "label": "C",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Become overwhelmed by events",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Have a lot of fun",
+            "label": "E",
+            "key": "1",
+            "response": "5"
+        },
+        {
+            "text": "Believe that there is no absolute right or wrong",
+            "label": "O",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Feel sympathy for those who are worse off than yourself",
+            "label": "A",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Make rash decisions",
+            "label": "C",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Are afraid of many things",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Avoid contacts with others",
+            "label": "E",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Love to daydream",
+            "label": "O",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Trust what people say",
+            "label": "A",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Handle tasks smoothly",
+            "label": "C",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Lose your temper",
+            "label": "N",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Prefer to be alone",
+            "label": "E",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Do not like poetry",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Take advantage of others",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Leave a mess in your room",
+            "label": "C",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Are often down in the dumps",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Take control of things",
+            "label": "E",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Rarely notice your emotional reactions",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Are indifferent to the feelings of others",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Break rules",
+            "label": "C",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Only feel comfortable with friends",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Do a lot in your spare time",
+            "label": "E",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Dislike changes",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Insult people",
+            "label": "A",
+            "key": "-1",
+            "response": "5"
+        },
+        {
+            "text": "Do just enough work to get by",
+            "label": "C",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Easily resist temptations",
+            "label": "N",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Enjoy being reckless",
+            "label": "E",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Have difficulty understanding abstract ideas",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Have a high opinion of yourself",
+            "label": "A",
+            "key": "-1",
+            "response": "4"
+        },
+        {
+            "text": "Waste your time",
+            "label": "C",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Feel that I'm unable to deal with things",
+            "label": "N",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Love life",
+            "label": "E",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Tend to vote for conservative political candidates",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Are not interested in other people's problems",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Rush into things",
+            "label": "C",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Get stressed out easily",
+            "label": "N",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Keep others at a distance",
+            "label": "E",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Like to get lost in thought",
+            "label": "O",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Distrust people",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Know how to get things done",
+            "label": "C",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Are not easily annoyed",
+            "label": "N",
+            "key": "-1",
+            "response": "4"
+        },
+        {
+            "text": "Avoid crowds",
+            "label": "E",
+            "key": "-1",
+            "response": "4"
+        },
+        {
+            "text": "Do not enjoy going to art museums",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Obstruct others' plans",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Leave your belongings around",
+            "label": "C",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Feel comfortable with yourself",
+            "label": "N",
+            "key": "-1",
+            "response": "4"
+        },
+        {
+            "text": "Wait for others to lead the way",
+            "label": "E",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Don't understand people who get emotional",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Take no time for others",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Break your promises",
+            "label": "C",
+            "key": "-1",
+            "response": "1"
+        },
+        {
+            "text": "Are not bothered by difficult social situations",
+            "label": "N",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Like to take it easy",
+            "label": "E",
+            "key": "-1",
+            "response": "4"
+        },
+        {
+            "text": "Are attached to conventional ways",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Get back at others",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Put little time and effort into your work",
+            "label": "C",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Are able to control your cravings",
+            "label": "N",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Act wild and crazy",
+            "label": "E",
+            "key": "1",
+            "response": "3"
+        },
+        {
+            "text": "Are not interested in theoretical discussions",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Boast about your virtues",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Have difficulty starting tasks",
+            "label": "C",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Remain calm under pressure",
+            "label": "N",
+            "key": "-1",
+            "response": "4"
+        },
+        {
+            "text": "Look at the bright side of life",
+            "label": "E",
+            "key": "1",
+            "response": "4"
+        },
+        {
+            "text": "Believe that we should be tough on crime",
+            "label": "O",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Try not to think about the needy",
+            "label": "A",
+            "key": "-1",
+            "response": "3"
+        },
+        {
+            "text": "Act without thinking",
+            "label": "C",
+            "key": "-1",
+            "response": "3"
+        }
+    ]
+}

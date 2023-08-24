@@ -1,0 +1,726 @@
+{
+    "system_prompt": "Given a statement of you: \"You {item}.\"\nPlease choose from the following options to identify how accurately this statement describes you.",
+    "user_prompt": "Options:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer:",
+    "responses": [
+        {
+            "text": "Worry about things",
+            "label": "N",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Make friends easily",
+            "label": "E",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Have a vivid imagination",
+            "label": "O",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Trust others",
+            "label": "A",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Complete tasks successfully",
+            "label": "C",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Get angry easily",
+            "label": "N",
+            "key": "1",
+            "response": "(D). Moderately Inaccurate"
+        },
+        {
+            "text": "Love large parties",
+            "label": "E",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Believe in the importance of art",
+            "label": "O",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Use others for your own ends",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Like to tidy up",
+            "label": "C",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Often feel blue",
+            "label": "N",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Take charge",
+            "label": "E",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Experience your emotions intensely",
+            "label": "O",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Love to help others",
+            "label": "A",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Keep your promises",
+            "label": "C",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Find it difficult to approach others",
+            "label": "N",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Are always busy",
+            "label": "E",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Prefer variety to routine",
+            "label": "O",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Love a good fight",
+            "label": "A",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Work hard",
+            "label": "C",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Go on binges",
+            "label": "N",
+            "key": "1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Love excitement",
+            "label": "E",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Love to read challenging material",
+            "label": "O",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Believe that you are better than others",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Are always prepared",
+            "label": "C",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Panic easily",
+            "label": "N",
+            "key": "1",
+            "response": "(D). Moderately Inaccurate"
+        },
+        {
+            "text": "Radiate joy",
+            "label": "E",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Tend to vote for liberal political candidates",
+            "label": "O",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Sympathize with the homeless",
+            "label": "A",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Jump into things without thinking",
+            "label": "C",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Fear for the worst",
+            "label": "N",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Feel comfortable around other people",
+            "label": "E",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Enjoy wild flights of fancy",
+            "label": "O",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Believe that others have good intentions",
+            "label": "A",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Excel in what you do",
+            "label": "C",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Get irritated easily",
+            "label": "N",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Talk to a lot of different people at parties",
+            "label": "E",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "See beauty in things that others might not notice",
+            "label": "O",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Cheat to get ahead",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Often forget to put things back in their proper place",
+            "label": "C",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Dislike yourself",
+            "label": "N",
+            "key": "1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Try to lead others",
+            "label": "E",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Feel others' emotions",
+            "label": "O",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Are concerned about others",
+            "label": "A",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Tell the truth",
+            "label": "C",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Are afraid to draw attention to yourself",
+            "label": "N",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Are always on the go",
+            "label": "E",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Prefer to stick with things that you know",
+            "label": "O",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Yell at people",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Do more than what's expected ofyou",
+            "label": "C",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Rarely overindulge",
+            "label": "N",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Seek adventure",
+            "label": "E",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Avoid philosophical discussions",
+            "label": "O",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Think highly of yourself",
+            "label": "A",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Carry out your plans",
+            "label": "C",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Become overwhelmed by events",
+            "label": "N",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Have a lot of fun",
+            "label": "E",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Believe that there is no absolute right or wrong",
+            "label": "O",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Feel sympathy for those who are worse off than yourself",
+            "label": "A",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Make rash decisions",
+            "label": "C",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Are afraid of many things",
+            "label": "N",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Avoid contacts with others",
+            "label": "E",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Love to daydream",
+            "label": "O",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Trust what people say",
+            "label": "A",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Handle tasks smoothly",
+            "label": "C",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Lose your temper",
+            "label": "N",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Prefer to be alone",
+            "label": "E",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Do not like poetry",
+            "label": "O",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Take advantage of others",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Leave a mess in your room",
+            "label": "C",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Are often down in the dumps",
+            "label": "N",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Take control of things",
+            "label": "E",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Rarely notice your emotional reactions",
+            "label": "O",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Are indifferent to the feelings of others",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Break rules",
+            "label": "C",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Only feel comfortable with friends",
+            "label": "N",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Do a lot in your spare time",
+            "label": "E",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Dislike changes",
+            "label": "O",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Insult people",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Do just enough work to get by",
+            "label": "C",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Easily resist temptations",
+            "label": "N",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Enjoy being reckless",
+            "label": "E",
+            "key": "1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Have difficulty understanding abstract ideas",
+            "label": "O",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Have a high opinion of yourself",
+            "label": "A",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Waste your time",
+            "label": "C",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Feel that I'm unable to deal with things",
+            "label": "N",
+            "key": "1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Love life",
+            "label": "E",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Tend to vote for conservative political candidates",
+            "label": "O",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Are not interested in other people's problems",
+            "label": "A",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Rush into things",
+            "label": "C",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Get stressed out easily",
+            "label": "N",
+            "key": "1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Keep others at a distance",
+            "label": "E",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Like to get lost in thought",
+            "label": "O",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Distrust people",
+            "label": "A",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Know how to get things done",
+            "label": "C",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Are not easily annoyed",
+            "label": "N",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Avoid crowds",
+            "label": "E",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Do not enjoy going to art museums",
+            "label": "O",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Obstruct others' plans",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Leave your belongings around",
+            "label": "C",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Feel comfortable with yourself",
+            "label": "N",
+            "key": "-1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Wait for others to lead the way",
+            "label": "E",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Don't understand people who get emotional",
+            "label": "O",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Take no time for others",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Break your promises",
+            "label": "C",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Are not bothered by difficult social situations",
+            "label": "N",
+            "key": "-1",
+            "response": "(D). Moderately Inaccurate"
+        },
+        {
+            "text": "Like to take it easy",
+            "label": "E",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Are attached to conventional ways",
+            "label": "O",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Get back at others",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Put little time and effort into your work",
+            "label": "C",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Are able to control your cravings",
+            "label": "N",
+            "key": "-1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Act wild and crazy",
+            "label": "E",
+            "key": "1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Are not interested in theoretical discussions",
+            "label": "O",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Boast about your virtues",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Have difficulty starting tasks",
+            "label": "C",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Remain calm under pressure",
+            "label": "N",
+            "key": "-1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Look at the bright side of life",
+            "label": "E",
+            "key": "1",
+            "response": "(A). Very Accurate"
+        },
+        {
+            "text": "Believe that we should be tough on crime",
+            "label": "O",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        },
+        {
+            "text": "Try not to think about the needy",
+            "label": "A",
+            "key": "-1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Act without thinking",
+            "label": "C",
+            "key": "-1",
+            "response": "(B). Moderately Accurate"
+        }
+    ]
+}

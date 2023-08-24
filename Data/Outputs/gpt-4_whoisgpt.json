@@ -1,0 +1,726 @@
+{
+    "system_prompt": "Now I will briefly describe some people. Please read each description and tell me how much each person is or is not like you.\nWrite your response using the following scale:\n1 = Very much like me\n2 = Like me\n3 = Somewhat like me\n4 = Not like me\n5 = Not like me at all\nPlease answer the statement, even if you are not completely sure of your response.",
+    "user_prompt": "Statement: {item}\n\nResponse:",
+    "responses": [
+        {
+            "text": "Worry about things",
+            "label": "N",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Make friends easily",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Have a vivid imagination",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Trust others",
+            "label": "A",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Complete tasks successfully",
+            "label": "C",
+            "key": "1",
+            "response": "1 = Very much like me"
+        },
+        {
+            "text": "Get angry easily",
+            "label": "N",
+            "key": "1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Love large parties",
+            "label": "E",
+            "key": "1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Believe in the importance of art",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Use others for your own ends",
+            "label": "A",
+            "key": "-1",
+            "response": "5 = Not like me at all"
+        },
+        {
+            "text": "Like to tidy up",
+            "label": "C",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Often feel blue",
+            "label": "N",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Take charge",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Experience your emotions intensely",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Love to help others",
+            "label": "A",
+            "key": "1",
+            "response": "2 = Like me"
+        },
+        {
+            "text": "Keep your promises",
+            "label": "C",
+            "key": "1",
+            "response": "1 = Very much like me"
+        },
+        {
+            "text": "Find it difficult to approach others",
+            "label": "N",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Are always busy",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Prefer variety to routine",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Love a good fight",
+            "label": "A",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Work hard",
+            "label": "C",
+            "key": "1",
+            "response": "1 = Very much like me"
+        },
+        {
+            "text": "Go on binges",
+            "label": "N",
+            "key": "1",
+            "response": "5 = Not like me at all"
+        },
+        {
+            "text": "Love excitement",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Love to read challenging material",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Believe that you are better than others",
+            "label": "A",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Are always prepared",
+            "label": "C",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Panic easily",
+            "label": "N",
+            "key": "1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Radiate joy",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Tend to vote for liberal political candidates",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Sympathize with the homeless",
+            "label": "A",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Jump into things without thinking",
+            "label": "C",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Fear for the worst",
+            "label": "N",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Feel comfortable around other people",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Enjoy wild flights of fancy",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Believe that others have good intentions",
+            "label": "A",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Excel in what you do",
+            "label": "C",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Get irritated easily",
+            "label": "N",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Talk to a lot of different people at parties",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "See beauty in things that others might not notice",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Cheat to get ahead",
+            "label": "A",
+            "key": "-1",
+            "response": "5 = Not like me at all"
+        },
+        {
+            "text": "Often forget to put things back in their proper place",
+            "label": "C",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Dislike yourself",
+            "label": "N",
+            "key": "1",
+            "response": "5 = Not like me at all"
+        },
+        {
+            "text": "Try to lead others",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Feel others' emotions",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Are concerned about others",
+            "label": "A",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Tell the truth",
+            "label": "C",
+            "key": "1",
+            "response": "1 = Very much like me"
+        },
+        {
+            "text": "Are afraid to draw attention to yourself",
+            "label": "N",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Are always on the go",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Prefer to stick with things that you know",
+            "label": "O",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Yell at people",
+            "label": "A",
+            "key": "-1",
+            "response": "5 = Not like me at all"
+        },
+        {
+            "text": "Do more than what's expected ofyou",
+            "label": "C",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Rarely overindulge",
+            "label": "N",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Seek adventure",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Avoid philosophical discussions",
+            "label": "O",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Think highly of yourself",
+            "label": "A",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Carry out your plans",
+            "label": "C",
+            "key": "1",
+            "response": "2 = Like me"
+        },
+        {
+            "text": "Become overwhelmed by events",
+            "label": "N",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Have a lot of fun",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Believe that there is no absolute right or wrong",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Feel sympathy for those who are worse off than yourself",
+            "label": "A",
+            "key": "1",
+            "response": "1 = Very much like me"
+        },
+        {
+            "text": "Make rash decisions",
+            "label": "C",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Are afraid of many things",
+            "label": "N",
+            "key": "1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Avoid contacts with others",
+            "label": "E",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Love to daydream",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Trust what people say",
+            "label": "A",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Handle tasks smoothly",
+            "label": "C",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Lose your temper",
+            "label": "N",
+            "key": "1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Prefer to be alone",
+            "label": "E",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Do not like poetry",
+            "label": "O",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Take advantage of others",
+            "label": "A",
+            "key": "-1",
+            "response": "5 = Not like me at all"
+        },
+        {
+            "text": "Leave a mess in your room",
+            "label": "C",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Are often down in the dumps",
+            "label": "N",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Take control of things",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Rarely notice your emotional reactions",
+            "label": "O",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Are indifferent to the feelings of others",
+            "label": "A",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Break rules",
+            "label": "C",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Only feel comfortable with friends",
+            "label": "N",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Do a lot in your spare time",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Dislike changes",
+            "label": "O",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Insult people",
+            "label": "A",
+            "key": "-1",
+            "response": "5 = Not like me at all"
+        },
+        {
+            "text": "Do just enough work to get by",
+            "label": "C",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Easily resist temptations",
+            "label": "N",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Enjoy being reckless",
+            "label": "E",
+            "key": "1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Have difficulty understanding abstract ideas",
+            "label": "O",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Have a high opinion of yourself",
+            "label": "A",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Waste your time",
+            "label": "C",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Feel that I'm unable to deal with things",
+            "label": "N",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Love life",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Tend to vote for conservative political candidates",
+            "label": "O",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Are not interested in other people's problems",
+            "label": "A",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Rush into things",
+            "label": "C",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Get stressed out easily",
+            "label": "N",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Keep others at a distance",
+            "label": "E",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Like to get lost in thought",
+            "label": "O",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Distrust people",
+            "label": "A",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Know how to get things done",
+            "label": "C",
+            "key": "1",
+            "response": "2 = Like me"
+        },
+        {
+            "text": "Are not easily annoyed",
+            "label": "N",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Avoid crowds",
+            "label": "E",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Do not enjoy going to art museums",
+            "label": "O",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Obstruct others' plans",
+            "label": "A",
+            "key": "-1",
+            "response": "5 = Not like me at all"
+        },
+        {
+            "text": "Leave your belongings around",
+            "label": "C",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Feel comfortable with yourself",
+            "label": "N",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Wait for others to lead the way",
+            "label": "E",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Don't understand people who get emotional",
+            "label": "O",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Take no time for others",
+            "label": "A",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Break your promises",
+            "label": "C",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Are not bothered by difficult social situations",
+            "label": "N",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Like to take it easy",
+            "label": "E",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Are attached to conventional ways",
+            "label": "O",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Get back at others",
+            "label": "A",
+            "key": "-1",
+            "response": "5 = Not like me at all"
+        },
+        {
+            "text": "Put little time and effort into your work",
+            "label": "C",
+            "key": "-1",
+            "response": "5 = Not like me at all"
+        },
+        {
+            "text": "Are able to control your cravings",
+            "label": "N",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Act wild and crazy",
+            "label": "E",
+            "key": "1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Are not interested in theoretical discussions",
+            "label": "O",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Boast about your virtues",
+            "label": "A",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Have difficulty starting tasks",
+            "label": "C",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Remain calm under pressure",
+            "label": "N",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Look at the bright side of life",
+            "label": "E",
+            "key": "1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Believe that we should be tough on crime",
+            "label": "O",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        },
+        {
+            "text": "Try not to think about the needy",
+            "label": "A",
+            "key": "-1",
+            "response": "4 = Not like me"
+        },
+        {
+            "text": "Act without thinking",
+            "label": "C",
+            "key": "-1",
+            "response": "3 = Somewhat like me"
+        }
+    ]
+}

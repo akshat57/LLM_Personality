@@ -1,0 +1,726 @@
+{
+    "system_prompt": "Given a statement of you: \"You {item}.\"\nPlease choose from the following options to identify how accurately this statement describes you.",
+    "user_prompt": "Options:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer:",
+    "responses": [
+        {
+            "text": "Worry about things",
+            "label": "N",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Make friends easily",
+            "label": "E",
+            "key": "1",
+            "response": "This is a subjective question and requires personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Have a vivid imagination",
+            "label": "O",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Trust others",
+            "label": "A",
+            "key": "1",
+            "response": "This is a subjective question and requires personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Complete tasks successfully",
+            "label": "C",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes your ability to complete tasks successfully."
+        },
+        {
+            "text": "Get angry easily",
+            "label": "N",
+            "key": "1",
+            "response": "This is a subjective question and requires personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Love large parties",
+            "label": "E",
+            "key": "1",
+            "response": "This is a subjective question and requires personal input. Please choose the option that best describes your preference."
+        },
+        {
+            "text": "Believe in the importance of art",
+            "label": "O",
+            "key": "1",
+            "response": "This cannot be answered as it depends on the individual's personal beliefs and preferences."
+        },
+        {
+            "text": "Use others for your own ends",
+            "label": "A",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. As an AI, I don't have personal experiences or emotions, so I can't answer this question for you."
+        },
+        {
+            "text": "Like to tidy up",
+            "label": "C",
+            "key": "1",
+            "response": "This is a user input dependent question. The assistant can't provide an answer."
+        },
+        {
+            "text": "Often feel blue",
+            "label": "N",
+            "key": "1",
+            "response": "(C). Neither Accurate Nor Inaccurate"
+        },
+        {
+            "text": "Take charge",
+            "label": "E",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Experience your emotions intensely",
+            "label": "O",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Love to help others",
+            "label": "A",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Keep your promises",
+            "label": "C",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Find it difficult to approach others",
+            "label": "N",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Are always busy",
+            "label": "E",
+            "key": "1",
+            "response": "As an AI, I don't have personal experiences, but I'm designed to be available 24/7. So, the statement doesn't apply to me."
+        },
+        {
+            "text": "Prefer variety to routine",
+            "label": "O",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Love a good fight",
+            "label": "A",
+            "key": "-1",
+            "response": "This cannot be answered as it depends on the individual's personal preference."
+        },
+        {
+            "text": "Work hard",
+            "label": "C",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Go on binges",
+            "label": "N",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Love excitement",
+            "label": "E",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Love to read challenging material",
+            "label": "O",
+            "key": "1",
+            "response": "This is a user input dependent question. The assistant can't provide an answer."
+        },
+        {
+            "text": "Believe that you are better than others",
+            "label": "A",
+            "key": "-1",
+            "response": "This will depend on the individual's personal beliefs and self-perception."
+        },
+        {
+            "text": "Are always prepared",
+            "label": "C",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Panic easily",
+            "label": "N",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Radiate joy",
+            "label": "E",
+            "key": "1",
+            "response": "As an AI, I don't have feelings, so the statement is (E). Very Inaccurate."
+        },
+        {
+            "text": "Tend to vote for liberal political candidates",
+            "label": "O",
+            "key": "1",
+            "response": "This is a user input dependent question. Please choose the option that best describes your political voting tendencies."
+        },
+        {
+            "text": "Sympathize with the homeless",
+            "label": "A",
+            "key": "1",
+            "response": "This is a personal question and requires your input. Please choose the option that best describes your feelings."
+        },
+        {
+            "text": "Jump into things without thinking",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Fear for the worst",
+            "label": "N",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. As an AI, I don't have personal experiences or emotions."
+        },
+        {
+            "text": "Feel comfortable around other people",
+            "label": "E",
+            "key": "1",
+            "response": "This is a user input question. The assistant can't provide an answer."
+        },
+        {
+            "text": "Enjoy wild flights of fancy",
+            "label": "O",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Believe that others have good intentions",
+            "label": "A",
+            "key": "1",
+            "response": "This answer depends on the individual's personal beliefs and cannot be determined by an AI."
+        },
+        {
+            "text": "Excel in what you do",
+            "label": "C",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Get irritated easily",
+            "label": "N",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Talk to a lot of different people at parties",
+            "label": "E",
+            "key": "1",
+            "response": "This is a user input dependent question. The assistant can't provide an answer."
+        },
+        {
+            "text": "See beauty in things that others might not notice",
+            "label": "O",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. As an AI, I don't have personal experiences or feelings."
+        },
+        {
+            "text": "Cheat to get ahead",
+            "label": "A",
+            "key": "-1",
+            "response": "(E). Very Inaccurate"
+        },
+        {
+            "text": "Often forget to put things back in their proper place",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Dislike yourself",
+            "label": "N",
+            "key": "1",
+            "response": "This is a personal question and requires your personal input."
+        },
+        {
+            "text": "Try to lead others",
+            "label": "E",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Feel others' emotions",
+            "label": "O",
+            "key": "1",
+            "response": "This cannot be answered as it depends on the individual's personal traits and characteristics."
+        },
+        {
+            "text": "Are concerned about others",
+            "label": "A",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Tell the truth",
+            "label": "C",
+            "key": "1",
+            "response": "This question cannot be answered as it requires personal input."
+        },
+        {
+            "text": "Are afraid to draw attention to yourself",
+            "label": "N",
+            "key": "1",
+            "response": "This is a model AI and doesn't have personal experiences or emotions, so none of the options are applicable."
+        },
+        {
+            "text": "Are always on the go",
+            "label": "E",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Prefer to stick with things that you know",
+            "label": "O",
+            "key": "-1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Yell at people",
+            "label": "A",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Do more than what's expected ofyou",
+            "label": "C",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Rarely overindulge",
+            "label": "N",
+            "key": "-1",
+            "response": "This is a subjective question and requires personal input to answer."
+        },
+        {
+            "text": "Seek adventure",
+            "label": "E",
+            "key": "1",
+            "response": "This is a user-specific question. Please choose the option that best describes you."
+        },
+        {
+            "text": "Avoid philosophical discussions",
+            "label": "O",
+            "key": "-1",
+            "response": "This cannot be answered as it depends on the individual's personal preference."
+        },
+        {
+            "text": "Think highly of yourself",
+            "label": "A",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Carry out your plans",
+            "label": "C",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Become overwhelmed by events",
+            "label": "N",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Have a lot of fun",
+            "label": "E",
+            "key": "1",
+            "response": "As an AI, I don't have feelings, so the statement is (E). Very Inaccurate."
+        },
+        {
+            "text": "Believe that there is no absolute right or wrong",
+            "label": "O",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Feel sympathy for those who are worse off than yourself",
+            "label": "A",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Make rash decisions",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Are afraid of many things",
+            "label": "N",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Avoid contacts with others",
+            "label": "E",
+            "key": "-1",
+            "response": "This is a user input dependent question. The assistant can't provide an answer."
+        },
+        {
+            "text": "Love to daydream",
+            "label": "O",
+            "key": "1",
+            "response": "This is a model AI and doesn't have personal experiences or emotions, so it can't answer this question."
+        },
+        {
+            "text": "Trust what people say",
+            "label": "A",
+            "key": "1",
+            "response": "This cannot be answered as it depends on the individual's personal perspective."
+        },
+        {
+            "text": "Handle tasks smoothly",
+            "label": "C",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Lose your temper",
+            "label": "N",
+            "key": "1",
+            "response": "This is a subjective question and requires personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Prefer to be alone",
+            "label": "E",
+            "key": "-1",
+            "response": "This is a model AI and doesn't have personal experiences or preferences."
+        },
+        {
+            "text": "Do not like poetry",
+            "label": "O",
+            "key": "-1",
+            "response": "This is a personal question and requires your input. Please choose the option that best describes your feelings towards poetry."
+        },
+        {
+            "text": "Take advantage of others",
+            "label": "A",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Leave a mess in your room",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes your habits."
+        },
+        {
+            "text": "Are often down in the dumps",
+            "label": "N",
+            "key": "1",
+            "response": "This is a subjective question and requires personal input. As an AI, I don't have personal experiences or emotions."
+        },
+        {
+            "text": "Take control of things",
+            "label": "E",
+            "key": "1",
+            "response": "This is a personal question and requires your input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Rarely notice your emotional reactions",
+            "label": "O",
+            "key": "-1",
+            "response": "This is a subjective question and requires personal input to answer."
+        },
+        {
+            "text": "Are indifferent to the feelings of others",
+            "label": "A",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. As an AI, I don't have feelings or personal experiences."
+        },
+        {
+            "text": "Break rules",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Only feel comfortable with friends",
+            "label": "N",
+            "key": "1",
+            "response": "This is a model AI and doesn't have personal experiences or feelings."
+        },
+        {
+            "text": "Do a lot in your spare time",
+            "label": "E",
+            "key": "1",
+            "response": "This is a subjective question and requires personal input."
+        },
+        {
+            "text": "Dislike changes",
+            "label": "O",
+            "key": "-1",
+            "response": "This is a subjective question and requires personal input to answer."
+        },
+        {
+            "text": "Insult people",
+            "label": "A",
+            "key": "-1",
+            "response": "This will depend on the individual's self-perception and behavior."
+        },
+        {
+            "text": "Do just enough work to get by",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Easily resist temptations",
+            "label": "N",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Enjoy being reckless",
+            "label": "E",
+            "key": "1",
+            "response": "(E). Very Inaccurate"
+        },
+        {
+            "text": "Have difficulty understanding abstract ideas",
+            "label": "O",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Have a high opinion of yourself",
+            "label": "A",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Waste your time",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes your situation."
+        },
+        {
+            "text": "Feel that I'm unable to deal with things",
+            "label": "N",
+            "key": "1",
+            "response": "As an AI, I don't have feelings or personal experiences, so none of these options accurately describe me."
+        },
+        {
+            "text": "Love life",
+            "label": "E",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Tend to vote for conservative political candidates",
+            "label": "O",
+            "key": "-1",
+            "response": "This is a placeholder for your answer. As an AI, I don't have personal beliefs or political preferences."
+        },
+        {
+            "text": "Are not interested in other people's problems",
+            "label": "A",
+            "key": "-1",
+            "response": "This cannot be answered as it depends on the individual's personal feelings and attitudes."
+        },
+        {
+            "text": "Rush into things",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Get stressed out easily",
+            "label": "N",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Keep others at a distance",
+            "label": "E",
+            "key": "-1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Like to get lost in thought",
+            "label": "O",
+            "key": "1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Distrust people",
+            "label": "A",
+            "key": "-1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Know how to get things done",
+            "label": "C",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Are not easily annoyed",
+            "label": "N",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Avoid crowds",
+            "label": "E",
+            "key": "-1",
+            "response": "This is a system model and doesn't have personal experiences or preferences."
+        },
+        {
+            "text": "Do not enjoy going to art museums",
+            "label": "O",
+            "key": "-1",
+            "response": "This is a system prompt and requires user input for completion."
+        },
+        {
+            "text": "Obstruct others' plans",
+            "label": "A",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Leave your belongings around",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Feel comfortable with yourself",
+            "label": "N",
+            "key": "-1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Wait for others to lead the way",
+            "label": "E",
+            "key": "-1",
+            "response": "This is a user input dependent question. The assistant can't provide an answer."
+        },
+        {
+            "text": "Don't understand people who get emotional",
+            "label": "O",
+            "key": "-1",
+            "response": "This cannot be answered as it depends on the individual's personal feelings and experiences."
+        },
+        {
+            "text": "Take no time for others",
+            "label": "A",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Break your promises",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Are not bothered by difficult social situations",
+            "label": "N",
+            "key": "-1",
+            "response": "This is a subjective question and requires personal input."
+        },
+        {
+            "text": "Like to take it easy",
+            "label": "E",
+            "key": "-1",
+            "response": "This is a model AI and doesn't have personal experiences or preferences."
+        },
+        {
+            "text": "Are attached to conventional ways",
+            "label": "O",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Get back at others",
+            "label": "A",
+            "key": "-1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Put little time and effort into your work",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Are able to control your cravings",
+            "label": "N",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes your ability to control your cravings."
+        },
+        {
+            "text": "Act wild and crazy",
+            "label": "E",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes you."
+        },
+        {
+            "text": "Are not interested in theoretical discussions",
+            "label": "O",
+            "key": "-1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Boast about your virtues",
+            "label": "A",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Have difficulty starting tasks",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input. Please choose the option that best describes your situation."
+        },
+        {
+            "text": "Remain calm under pressure",
+            "label": "N",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Look at the bright side of life",
+            "label": "E",
+            "key": "1",
+            "response": "This is a self-assessment question and requires your personal input."
+        },
+        {
+            "text": "Believe that we should be tough on crime",
+            "label": "O",
+            "key": "-1",
+            "response": "This is a personal question and requires your input."
+        },
+        {
+            "text": "Try not to think about the needy",
+            "label": "A",
+            "key": "-1",
+            "response": "This cannot be answered as it depends on the individual's personal feelings and attitudes."
+        },
+        {
+            "text": "Act without thinking",
+            "label": "C",
+            "key": "-1",
+            "response": "This is a self-assessment question and requires your personal input."
+        }
+    ]
+}
