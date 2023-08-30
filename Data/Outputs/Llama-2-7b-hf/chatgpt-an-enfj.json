@@ -1,0 +1,1086 @@
+{
+    "system_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+    "user_prompt": "{item}\n\n",
+    "responses": [
+        {
+            "text_first_person": "Worry about things",
+            "text_second_person": "Worry about things",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI worry about things\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI worry about things\n\nI am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI"
+        },
+        {
+            "text_first_person": "Make friends easily",
+            "text_second_person": "Make friends easily",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI make friends easily\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI make friends easily\n\nI am a good listener\n\nI am a good conversationalist\n\nI am a good storyteller\n\nI am a good story listener\n\nI am a good storyteller\n\nI am a good story listener\n\nI am a good storyteller\n\nI am a good story listener\n\nI am a good",
+            "processed_response": "<s> I am a good listener\n\nI am a good conversationalist\n\nI am a good storyteller\n\nI am a good story listener\n\nI am a good storyteller\n\nI am a good story listener\n\nI am a good storyteller\n\nI am a good story listener\n\nI am a good"
+        },
+        {
+            "text_first_person": "Have a vivid imagination",
+            "text_second_person": "Have a vivid imagination",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI have a vivid imagination\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI have a vivid imagination\n\nI am a good listener\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good leader\n\nI am a good team player\n\nI am a good organizer\n\nI am a good planner\n\nI am a good problem",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good leader\n\nI am a good team player\n\nI am a good organizer\n\nI am a good planner\n\nI am a good problem"
+        },
+        {
+            "text_first_person": "Trust others",
+            "text_second_person": "Trust others",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI trust others\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI trust others\n\nI trust myself\n\nI am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good problem creator\n\nI am a",
+            "processed_response": "<s> I trust myself\n\nI am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good problem creator\n\nI am a"
+        },
+        {
+            "text_first_person": "Complete tasks successfully",
+            "text_second_person": "Complete tasks successfully",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI complete tasks successfully\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI complete tasks successfully\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good communicator\n\nI am a good leader\n\nI am a good team player\n\nI am a good listener\n\nI am a good planner\n\nI am a good organizer\n\nI am a good problem solver",
+            "processed_response": "<s> I am a good problem solver\n\nI am a good decision maker\n\nI am a good communicator\n\nI am a good leader\n\nI am a good team player\n\nI am a good listener\n\nI am a good planner\n\nI am a good organizer\n\nI am a good problem solver"
+        },
+        {
+            "text_first_person": "Get angry easily",
+            "text_second_person": "Get angry easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI get angry easily\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI get angry easily\n\nI am a good listener\n\nI am a good friend\n\nI am a good leader\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision maker",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good leader\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision maker"
+        },
+        {
+            "text_first_person": "Love large parties",
+            "text_second_person": "Love large parties",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love large parties\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love large parties\n\nI love small parties\n\nI love to go to the movies\n\nI love to go to the theater\n\nI love to go to the opera\n\nI love to go to the ballet\n\nI love to go to the symphony\n\nI love to go to the museum\n\nI love to go to the art",
+            "processed_response": "<s> I love small parties\n\nI love to go to the movies\n\nI love to go to the theater\n\nI love to go to the opera\n\nI love to go to the ballet\n\nI love to go to the symphony\n\nI love to go to the museum\n\nI love to go to the art"
+        },
+        {
+            "text_first_person": "Believe in the importance of art",
+            "text_second_person": "Believe in the importance of art",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI believe in the importance of art\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI believe in the importance of art\n\nI believe in the importance of science\n\nI believe in the importance of religion\n\nI believe in the importance of philosophy\n\nI believe in the importance of politics\n\nI believe in the importance of economics\n\nI believe in the importance of history\n\nI believe in the importance of literature\n\nI believe in the",
+            "processed_response": "<s> I believe in the importance of science\n\nI believe in the importance of religion\n\nI believe in the importance of philosophy\n\nI believe in the importance of politics\n\nI believe in the importance of economics\n\nI believe in the importance of history\n\nI believe in the importance of literature\n\nI believe in the"
+        },
+        {
+            "text_first_person": "Use others for my own ends",
+            "text_second_person": "Use others for your own ends",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI use others for my own ends\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my",
+            "processed_response": "<s> I use others for my own ends\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my own ends\n\nI use others for my"
+        },
+        {
+            "text_first_person": "Like to tidy up",
+            "text_second_person": "Like to tidy up",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI like to tidy up\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy",
+            "processed_response": "<s> I like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy up\n\nI like to tidy"
+        },
+        {
+            "text_first_person": "Often feel blue",
+            "text_second_person": "Often feel blue",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI often feel blue\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI often feel blue\n\nI often feel sad\n\nI often feel depressed\n\nI often feel anxious\n\nI often feel lonely\n\nI often feel angry\n\nI often feel frustrated\n\nI often feel irritated\n\nI often feel tired\n\nI often feel stressed\n\nI often feel worried\n\nI often feel",
+            "processed_response": "<s> I often feel sad\n\nI often feel depressed\n\nI often feel anxious\n\nI often feel lonely\n\nI often feel angry\n\nI often feel frustrated\n\nI often feel irritated\n\nI often feel tired\n\nI often feel stressed\n\nI often feel worried\n\nI often feel"
+        },
+        {
+            "text_first_person": "Take charge",
+            "text_second_person": "Take charge",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI take charge\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI take charge\n\nI am a good listener\n\nI am a good communicator\n\nI am a good leader\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good organizer\n\nI am a good planner\n\nI am a good problem solver\n",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good leader\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good organizer\n\nI am a good planner\n\nI am a good problem solver\n"
+        },
+        {
+            "text_first_person": "Experience my emotions intensely",
+            "text_second_person": "Experience your emotions intensely",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI experience my emotions intensely\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI experience my emotions intensely\n\nI am a good listener\n\nI am a good friend\n\nI am a good partner\n\nI am a good parent\n\nI am a good teacher\n\nI am a good leader\n\nI am a good manager\n\nI am a good employee\n\nI am a good student\n\nI am a good citiz",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good partner\n\nI am a good parent\n\nI am a good teacher\n\nI am a good leader\n\nI am a good manager\n\nI am a good employee\n\nI am a good student\n\nI am a good citiz"
+        },
+        {
+            "text_first_person": "Love to help others",
+            "text_second_person": "Love to help others",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love to help others\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love to help others\n\nI am a good listener\n\nI am a good friend\n\nI am a good leader\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision mak",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good leader\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision mak"
+        },
+        {
+            "text_first_person": "Keep my promises",
+            "text_second_person": "Keep your promises",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI keep my promises\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI keep my promises\n\nI am a good listener\n\nI am a good friend\n\nI am a good leader\n\nI am a good team player\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good problem solver",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good leader\n\nI am a good team player\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good problem solver"
+        },
+        {
+            "text_first_person": "Find it difficult to approach others",
+            "text_second_person": "Find it difficult to approach others",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI find it difficult to approach others\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to",
+            "processed_response": "<s> I find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to approach others\n\nI find it difficult to"
+        },
+        {
+            "text_first_person": "Am always busy",
+            "text_second_person": "Are always busy",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am always busy\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n",
+            "processed_response": "<s> I am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n\nI am always busy\n"
+        },
+        {
+            "text_first_person": "Prefer variety to routine",
+            "text_second_person": "Prefer variety to routine",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI prefer variety to routine\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI prefer variety to routine\n\nI like to be in control\n\nI like to be in charge\n\nI like to be in control\n\nI like to be in charge\n\nI like to be in control\n\nI like to be in charge\n\nI like to be in control\n\nI like to be in charge\n\nI like to be in control",
+            "processed_response": "<s> I like to be in control\n\nI like to be in charge\n\nI like to be in control\n\nI like to be in charge\n\nI like to be in control\n\nI like to be in charge\n\nI like to be in control\n\nI like to be in charge\n\nI like to be in control"
+        },
+        {
+            "text_first_person": "Love a good fight",
+            "text_second_person": "Love a good fight",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love a good fight\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\n",
+            "processed_response": "<s> I love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\nI love a good fight\n\n"
+        },
+        {
+            "text_first_person": "Work hard",
+            "text_second_person": "Work hard",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI work hard\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI work hard\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI work hard\n\nI am a good person\n\nI am",
+            "processed_response": "<s> I am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI work hard\n\nI am a good person\n\nI am"
+        },
+        {
+            "text_first_person": "Go on binges",
+            "text_second_person": "Go on binges",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI go on binges\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI go on binges\n\nI am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n"
+        },
+        {
+            "text_first_person": "Love excitement",
+            "text_second_person": "Love excitement",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love excitement\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love excitement\n\nI love to be alone\n\nI love to be with people\n\nI love to be in nature\n\nI love to be in the city\n\nI love to be in the country\n\nI love to be in the mountains\n\nI love to be in the desert\n\nI love to be in the ocean\n\nI love to be",
+            "processed_response": "<s> I love to be alone\n\nI love to be with people\n\nI love to be in nature\n\nI love to be in the city\n\nI love to be in the country\n\nI love to be in the mountains\n\nI love to be in the desert\n\nI love to be in the ocean\n\nI love to be"
+        },
+        {
+            "text_first_person": "Love to read challenging material",
+            "text_second_person": "Love to read challenging material",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love to read challenging material\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challeng",
+            "processed_response": "<s> I love to read challenging material\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challenging material\n\nI love to read challeng"
+        },
+        {
+            "text_first_person": "Believe that I am better than others",
+            "text_second_person": "Believe that you are better than others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI believe that i am better than others\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI believe that i am better than others\n\nI believe that i am better than others\n\nI believe that i am better than others\n\nI believe that i am better than others\n\nI believe that i am better than others\n\nI believe that i am better than others\n\nI believe that i am better than others\n\nI believe that i am better than",
+            "processed_response": "<s> I believe that i am better than others\n\nI believe that i am better than others\n\nI believe that i am better than others\n\nI believe that i am better than others\n\nI believe that i am better than others\n\nI believe that i am better than others\n\nI believe that i am better than"
+        },
+        {
+            "text_first_person": "Am always prepared",
+            "text_second_person": "Are always prepared",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am always prepared\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n",
+            "processed_response": "<s> I am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n\nI am always prepared\n"
+        },
+        {
+            "text_first_person": "Panic easily",
+            "text_second_person": "Panic easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI panic easily\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI panic easily\n\nI am a good listener\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good team leader\n\nI am a good team follower",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good team leader\n\nI am a good team follower"
+        },
+        {
+            "text_first_person": "Radiate joy",
+            "text_second_person": "Radiate joy",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI radiate joy\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI radiate joy\n\nI radiate happiness\n\nI radiate love\n\nI radiate peace\n\nI radiate harmony\n\nI radiate calm\n\nI radiate serenity\n\nI radiate tranquility\n\nI radiate contentment\n\nI radiate bliss\n\nI radiate ecstasy\n\nI radi",
+            "processed_response": "<s> I radiate happiness\n\nI radiate love\n\nI radiate peace\n\nI radiate harmony\n\nI radiate calm\n\nI radiate serenity\n\nI radiate tranquility\n\nI radiate contentment\n\nI radiate bliss\n\nI radiate ecstasy\n\nI radi"
+        },
+        {
+            "text_first_person": "Tend to vote for liberal political candidates",
+            "text_second_person": "Tend to vote for liberal political candidates",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI tend to vote for liberal political candidates\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI tend to vote for liberal political candidates\n\nI tend to vote for conservative political candidates\n\nI tend to vote for moderate political candidates\n\nI tend to vote for libertarian political candidates\n\nI tend to vote for socialist political candidates\n\nI tend to vote for communist political candidates\n\nI tend to vote for anarchist political candidates\n\n",
+            "processed_response": "<s> I tend to vote for conservative political candidates\n\nI tend to vote for moderate political candidates\n\nI tend to vote for libertarian political candidates\n\nI tend to vote for socialist political candidates\n\nI tend to vote for communist political candidates\n\nI tend to vote for anarchist political candidates\n\n"
+        },
+        {
+            "text_first_person": "Sympathize with the homeless",
+            "text_second_person": "Sympathize with the homeless",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI sympathize with the homeless\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the",
+            "processed_response": "<s> I sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the homeless\n\nI sympathize with the"
+        },
+        {
+            "text_first_person": "Jump into things without thinking",
+            "text_second_person": "Jump into things without thinking",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI jump into things without thinking\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI jump into things without thinking\n\nI am a good listener\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good team builder\n\nI am a good team",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good team builder\n\nI am a good team"
+        },
+        {
+            "text_first_person": "Fear for the worst",
+            "text_second_person": "Fear for the worst",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI fear for the worst\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI fear for the worst\n\nI fear for the best\n\nI am not afraid of anything\n\nI am afraid of everything\n\nI am afraid of nothing\n\nI am afraid of everything\n\nI am afraid of nothing\n\nI am afraid of everything\n\nI am afraid of nothing\n\nI am afraid of everything\n\nI am afraid of nothing\n",
+            "processed_response": "<s> I fear for the best\n\nI am not afraid of anything\n\nI am afraid of everything\n\nI am afraid of nothing\n\nI am afraid of everything\n\nI am afraid of nothing\n\nI am afraid of everything\n\nI am afraid of nothing\n\nI am afraid of everything\n\nI am afraid of nothing\n"
+        },
+        {
+            "text_first_person": "Feel comfortable around other people",
+            "text_second_person": "Feel comfortable around other people",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI feel comfortable around other people\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other",
+            "processed_response": "<s> I feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other people\n\nI feel comfortable around other"
+        },
+        {
+            "text_first_person": "Enjoy wild flights of fancy",
+            "text_second_person": "Enjoy wild flights of fancy",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI enjoy wild flights of fancy\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI enjoy wild flights of fancy\n\nI am a very practical person\n\nI am a very imaginative person\n\nI am a very creative person\n\nI am a very logical person\n\nI am a very emotional person\n\nI am a very rational person\n\nI am a very impulsive person\n\nI am a very patient person",
+            "processed_response": "<s> I am a very practical person\n\nI am a very imaginative person\n\nI am a very creative person\n\nI am a very logical person\n\nI am a very emotional person\n\nI am a very rational person\n\nI am a very impulsive person\n\nI am a very patient person"
+        },
+        {
+            "text_first_person": "Believe that others have good intentions",
+            "text_second_person": "Believe that others have good intentions",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI believe that others have good intentions\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI believe that others have good intentions\n\nI believe that others are trustworthy\n\nI believe that others are reliable\n\nI believe that others are honest\n\nI believe that others are fair\n\nI believe that others are kind\n\nI believe that others are generous\n\nI believe that others are helpful\n\nI believe that others are considerate\n",
+            "processed_response": "<s> I believe that others are trustworthy\n\nI believe that others are reliable\n\nI believe that others are honest\n\nI believe that others are fair\n\nI believe that others are kind\n\nI believe that others are generous\n\nI believe that others are helpful\n\nI believe that others are considerate\n"
+        },
+        {
+            "text_first_person": "Excel in what I do",
+            "text_second_person": "Excel in what you do",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI excel in what i do\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI excel in what i do\n\nI am a good listener\n\nI am a good communicator\n\nI am a good team player\n\nI am a good leader\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good team player\n\nI am a good leader\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a"
+        },
+        {
+            "text_first_person": "Get irritated easily",
+            "text_second_person": "Get irritated easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI get irritated easily\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated",
+            "processed_response": "<s> I get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated easily\n\nI get irritated"
+        },
+        {
+            "text_first_person": "Talk to a lot of different people at parties",
+            "text_second_person": "Talk to a lot of different people at parties",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI talk to a lot of different people at parties\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI talk to a lot of different people at parties\n\n1 2 3 4 5\n\nI am a good listener\n\n1 2 3 4 5\n\nI am a good conversationalist\n\n1 2 3 4 5\n\nI am a good storyteller\n\n1 2 3 4",
+            "processed_response": "<s> 1 2 3 4 5\n\nI am a good listener\n\n1 2 3 4 5\n\nI am a good conversationalist\n\n1 2 3 4 5\n\nI am a good storyteller\n\n1 2 3 4"
+        },
+        {
+            "text_first_person": "See beauty in things that others might not notice",
+            "text_second_person": "See beauty in things that others might not notice",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI see beauty in things that others might not notice\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI see beauty in things that others might not notice\n\nI am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am"
+        },
+        {
+            "text_first_person": "Cheat to get ahead",
+            "text_second_person": "Cheat to get ahead",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI cheat to get ahead\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI cheat to get ahead\n\nI am honest\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good employee\n\nI am a good citizen\n\nI am a good parent\n\nI am a good spouse\n\nI am a good person\n\nI am a good person\n",
+            "processed_response": "<s> I am honest\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good employee\n\nI am a good citizen\n\nI am a good parent\n\nI am a good spouse\n\nI am a good person\n\nI am a good person\n"
+        },
+        {
+            "text_first_person": "Often forget to put things back in their proper place",
+            "text_second_person": "Often forget to put things back in their proper place",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI often forget to put things back in their proper place\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI often forget to put things back in their proper place\n\nI often lose things\n\nI often forget to do things\n\nI often forget to do things on time\n\nI often forget to do things I have to do\n\nI often forget to do things I have to do on time\n\nI often forget to do things I have to do on time\n\n",
+            "processed_response": "<s> I often lose things\n\nI often forget to do things\n\nI often forget to do things on time\n\nI often forget to do things I have to do\n\nI often forget to do things I have to do on time\n\nI often forget to do things I have to do on time\n\n"
+        },
+        {
+            "text_first_person": "Dislike myself",
+            "text_second_person": "Dislike yourself",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI dislike myself\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI dislike myself\n\nI am a good person\n\nI am a bad person\n\nI am a good person\n\nI am a bad person\n\nI am a good person\n\nI am a bad person\n\nI am a good person\n\nI am a bad person\n\nI am a good person\n\nI am a bad person\n\nI",
+            "processed_response": "<s> I am a good person\n\nI am a bad person\n\nI am a good person\n\nI am a bad person\n\nI am a good person\n\nI am a bad person\n\nI am a good person\n\nI am a bad person\n\nI am a good person\n\nI am a bad person\n\nI"
+        },
+        {
+            "text_first_person": "Try to lead others",
+            "text_second_person": "Try to lead others",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI try to lead others\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\n",
+            "processed_response": "<s> I try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\nI try to lead others\n\n"
+        },
+        {
+            "text_first_person": "Feel others' emotions",
+            "text_second_person": "Feel others' emotions",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI feel others' emotions\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emot",
+            "processed_response": "<s> I feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emotions\n\nI feel others' emot"
+        },
+        {
+            "text_first_person": "Am concerned about others",
+            "text_second_person": "Are concerned about others",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am concerned about others\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am concerned about others\n\nI am concerned about myself\n\nI am concerned about my family\n\nI am concerned about my friends\n\nI am concerned about my community\n\nI am concerned about my country\n\nI am concerned about the world\n\nI am concerned about the environment\n\nI am concerned about animals\n\nI am concerned about the economy\n\n",
+            "processed_response": "<s> I am concerned about myself\n\nI am concerned about my family\n\nI am concerned about my friends\n\nI am concerned about my community\n\nI am concerned about my country\n\nI am concerned about the world\n\nI am concerned about the environment\n\nI am concerned about animals\n\nI am concerned about the economy\n\n"
+        },
+        {
+            "text_first_person": "Tell the truth",
+            "text_second_person": "Tell the truth",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI tell the truth\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI tell the truth\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI tell the truth\n\nI am a good person\n\n",
+            "processed_response": "<s> I am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI tell the truth\n\nI am a good person\n\n"
+        },
+        {
+            "text_first_person": "Am afraid to draw attention to myself",
+            "text_second_person": "Are afraid to draw attention to yourself",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am afraid to draw attention to myself\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to",
+            "processed_response": "<s> I am afraid to draw attention to myself\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to myself\n\nI am afraid to draw attention to"
+        },
+        {
+            "text_first_person": "Am always on the go",
+            "text_second_person": "Are always on the go",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am always on the go\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the",
+            "processed_response": "<s> I am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the go\n\nI am always on the"
+        },
+        {
+            "text_first_person": "Prefer to stick with things that I know",
+            "text_second_person": "Prefer to stick with things that you know",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI prefer to stick with things that i know\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI prefer to stick with things that i know\n\nI like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like",
+            "processed_response": "<s> I like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like to try new things\n\nI like"
+        },
+        {
+            "text_first_person": "Yell at people",
+            "text_second_person": "Yell at people",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI yell at people\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI yell at people\n\nI am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\n",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\n"
+        },
+        {
+            "text_first_person": "Do more than what's expected of me",
+            "text_second_person": "Do more than what's expected of you",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI do more than what's expected of me\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI do more than what's expected of me\n\nI do less than what's expected of me\n\nI do what's expected of me\n\nI do more than what's expected of me\n\nI do less than what's expected of me\n\nI do what's expected of me\n\nI do more than what's expected of",
+            "processed_response": "<s> I do less than what's expected of me\n\nI do what's expected of me\n\nI do more than what's expected of me\n\nI do less than what's expected of me\n\nI do what's expected of me\n\nI do more than what's expected of"
+        },
+        {
+            "text_first_person": "Rarely overindulge",
+            "text_second_person": "Rarely overindulge",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI rarely overindulge\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindul",
+            "processed_response": "<s> I rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindulge\n\nI rarely overindul"
+        },
+        {
+            "text_first_person": "Seek adventure",
+            "text_second_person": "Seek adventure",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI seek adventure\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI seek adventure\n\nI seek comfort\n\nI seek to be liked\n\nI seek to be respected\n\nI seek to be loved\n\nI seek to be feared\n\nI seek to be admired\n\nI seek to be envied\n\nI seek to be hated\n\nI seek to be pitied\n\nI seek to be",
+            "processed_response": "<s> I seek comfort\n\nI seek to be liked\n\nI seek to be respected\n\nI seek to be loved\n\nI seek to be feared\n\nI seek to be admired\n\nI seek to be envied\n\nI seek to be hated\n\nI seek to be pitied\n\nI seek to be"
+        },
+        {
+            "text_first_person": "Avoid philosophical discussions",
+            "text_second_person": "Avoid philosophical discussions",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI avoid philosophical discussions\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI avoid philosophical discussions\n\nI avoid political discussions\n\nI avoid religious discussions\n\nI avoid discussions about my personal life\n\nI avoid discussions about my work\n\nI avoid discussions about my hobbies\n\nI avoid discussions about my family\n\nI avoid discussions about my friends\n\nI avoid discussions about my health",
+            "processed_response": "<s> I avoid political discussions\n\nI avoid religious discussions\n\nI avoid discussions about my personal life\n\nI avoid discussions about my work\n\nI avoid discussions about my hobbies\n\nI avoid discussions about my family\n\nI avoid discussions about my friends\n\nI avoid discussions about my health"
+        },
+        {
+            "text_first_person": "Think highly of myself",
+            "text_second_person": "Think highly of yourself",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI think highly of myself\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI think highly of myself\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good employee\n\nI am a good citizen\n\nI am a good parent\n\nI am a good spouse\n\nI am a good person\n\nI am a good friend\n\nI am a good student",
+            "processed_response": "<s> I am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good employee\n\nI am a good citizen\n\nI am a good parent\n\nI am a good spouse\n\nI am a good person\n\nI am a good friend\n\nI am a good student"
+        },
+        {
+            "text_first_person": "Carry out my plans",
+            "text_second_person": "Carry out your plans",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI carry out my plans\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI carry out my plans\n\nI am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good team player\n\nI am a good organizer\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good communicator\n\nI am a good planner\n",
+            "processed_response": "<s> I am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good team player\n\nI am a good organizer\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good communicator\n\nI am a good planner\n"
+        },
+        {
+            "text_first_person": "Become overwhelmed by events",
+            "text_second_person": "Become overwhelmed by events",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI become overwhelmed by events\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI become overwhelmed by events\n\nI am easily distracted\n\nI am a perfectionist\n\nI am a procrastinator\n\nI am a people pleaser\n\nI am a workaholic\n\nI am a control freak\n\nI am a worrier\n\nI am a people-watcher\n\n",
+            "processed_response": "<s> I am easily distracted\n\nI am a perfectionist\n\nI am a procrastinator\n\nI am a people pleaser\n\nI am a workaholic\n\nI am a control freak\n\nI am a worrier\n\nI am a people-watcher\n\n"
+        },
+        {
+            "text_first_person": "Have a lot of fun",
+            "text_second_person": "Have a lot of fun",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI have a lot of fun\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of",
+            "processed_response": "<s> I have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of fun\n\nI have a lot of"
+        },
+        {
+            "text_first_person": "Believe that there is no absolute right or wrong",
+            "text_second_person": "Believe that there is no absolute right or wrong",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI believe that there is no absolute right or wrong\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI believe that there is no absolute right or wrong\n\nI believe that there is no absolute right or wrong\n\nI believe that there is no absolute right or wrong\n\nI believe that there is no absolute right or wrong\n\nI believe that there is no absolute right or wrong\n\nI believe that there is no absolute right or wrong\n\nI believe that there is",
+            "processed_response": "<s> I believe that there is no absolute right or wrong\n\nI believe that there is no absolute right or wrong\n\nI believe that there is no absolute right or wrong\n\nI believe that there is no absolute right or wrong\n\nI believe that there is no absolute right or wrong\n\nI believe that there is"
+        },
+        {
+            "text_first_person": "Feel sympathy for those who are worse off than myself",
+            "text_second_person": "Feel sympathy for those who are worse off than yourself",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI feel sympathy for those who are worse off than myself\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI feel sympathy for those who are worse off than myself\n\nI feel sympathy for those who are worse off than myself\n\nI feel sympathy for those who are worse off than myself\n\nI feel sympathy for those who are worse off than myself\n\nI feel sympathy for those who are worse off than myself\n\nI feel sympathy for those who are worse off than myself\n",
+            "processed_response": "<s> I feel sympathy for those who are worse off than myself\n\nI feel sympathy for those who are worse off than myself\n\nI feel sympathy for those who are worse off than myself\n\nI feel sympathy for those who are worse off than myself\n\nI feel sympathy for those who are worse off than myself\n"
+        },
+        {
+            "text_first_person": "Make rash decisions",
+            "text_second_person": "Make rash decisions",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI make rash decisions\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI make rash decisions\n\nI am a good listener\n\nI am a good communicator\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good"
+        },
+        {
+            "text_first_person": "Am afraid of many things",
+            "text_second_person": "Are afraid of many things",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am afraid of many things\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am afraid of many things\n\n1.\n\n2.\n\n3.\n\n4.\n\n5.\n\nI am afraid of many things\n\n1.\n\n2.\n\n3.\n\n4.\n\n5.\n\nI am afraid of many things\n\n1.\n\n2.\n\n3.\n\n4",
+            "processed_response": "<s> 1.\n\n2.\n\n3.\n\n4.\n\n5.\n\nI am afraid of many things\n\n1.\n\n2.\n\n3.\n\n4.\n\n5.\n\nI am afraid of many things\n\n1.\n\n2.\n\n3.\n\n4"
+        },
+        {
+            "text_first_person": "Avoid contacts with others",
+            "text_second_person": "Avoid contacts with others",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI avoid contacts with others\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI avoid contacts with others\n\nI am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good team leader\n\nI am a good team member\n\nI am a good team follower\n\nI am a good team member\n\n",
+            "processed_response": "<s> I am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good team leader\n\nI am a good team member\n\nI am a good team follower\n\nI am a good team member\n\n"
+        },
+        {
+            "text_first_person": "Love to daydream",
+            "text_second_person": "Love to daydream",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love to daydream\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love to daydream\n\nI am a good listener\n\nI am a good friend\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n"
+        },
+        {
+            "text_first_person": "Trust what people say",
+            "text_second_person": "Trust what people say",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI trust what people say\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI trust what people say\n\nI trust what people do\n\nI trust what people write\n\nI trust what people think\n\nI trust what people feel\n\nI trust what people believe\n\nI trust what people know\n\nI trust what people say\n\nI trust what people do\n\nI trust what people write\n\nI trust what people think\n\n",
+            "processed_response": "<s> I trust what people do\n\nI trust what people write\n\nI trust what people think\n\nI trust what people feel\n\nI trust what people believe\n\nI trust what people know\n\nI trust what people say\n\nI trust what people do\n\nI trust what people write\n\nI trust what people think\n\n"
+        },
+        {
+            "text_first_person": "Handle tasks smoothly",
+            "text_second_person": "Handle tasks smoothly",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI handle tasks smoothly\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI handle tasks smoothly\n\nI am a good listener\n\nI am a good communicator\n\nI am a good team player\n\nI am a good leader\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good organizer\n\nI am a good planner\n\nI am a good problem sol",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good team player\n\nI am a good leader\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good organizer\n\nI am a good planner\n\nI am a good problem sol"
+        },
+        {
+            "text_first_person": "Lose my temper",
+            "text_second_person": "Lose your temper",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI lose my temper\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI lose my temper\n\nI am a perfectionist\n\nI am a workaholic\n\nI am a procrastinator\n\nI am a people-pleaser\n\nI am a control freak\n\nI am a micromanager\n\nI am a know-it-all\n\nI am a people-pleaser\n",
+            "processed_response": "<s> I am a perfectionist\n\nI am a workaholic\n\nI am a procrastinator\n\nI am a people-pleaser\n\nI am a control freak\n\nI am a micromanager\n\nI am a know-it-all\n\nI am a people-pleaser\n"
+        },
+        {
+            "text_first_person": "Prefer to be alone",
+            "text_second_person": "Prefer to be alone",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI prefer to be alone\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI prefer to be alone\n\nI prefer to be with people\n\nI like to be in the spotlight\n\nI like to be in the background\n\nI like to be in the middle\n\nI like to be in the middle\n\nI like to be in the middle\n\nI like to be in the middle\n\nI like to be in the middle",
+            "processed_response": "<s> I prefer to be with people\n\nI like to be in the spotlight\n\nI like to be in the background\n\nI like to be in the middle\n\nI like to be in the middle\n\nI like to be in the middle\n\nI like to be in the middle\n\nI like to be in the middle"
+        },
+        {
+            "text_first_person": "Do not like poetry",
+            "text_second_person": "Do not like poetry",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI do not like poetry\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\n",
+            "processed_response": "<s> I do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\nI do not like poetry\n\n"
+        },
+        {
+            "text_first_person": "Take advantage of others",
+            "text_second_person": "Take advantage of others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI take advantage of others\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI take advantage of others\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI take advantage of others\n\nI am a good person",
+            "processed_response": "<s> I am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good citizen\n\nI take advantage of others\n\nI am a good person"
+        },
+        {
+            "text_first_person": "Leave a mess in my room",
+            "text_second_person": "Leave a mess in your room",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI leave a mess in my room\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI leave a mess in my room\n\n1\n\n2\n\n3\n\n4\n\n5\n\nI leave a mess in my room\n\n1\n\n2\n\n3\n\n4\n\n5\n\nI leave a mess in my room\n\n1\n\n2\n\n3\n\n4\n\n5\n\nI leave a mess in",
+            "processed_response": "<s> 1\n\n2\n\n3\n\n4\n\n5\n\nI leave a mess in my room\n\n1\n\n2\n\n3\n\n4\n\n5\n\nI leave a mess in my room\n\n1\n\n2\n\n3\n\n4\n\n5\n\nI leave a mess in"
+        },
+        {
+            "text_first_person": "Am often down in the dumps",
+            "text_second_person": "Are often down in the dumps",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am often down in the dumps\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am often down in the dumps\n\n1 2 3 4 5\n\nI am often in a bad mood\n\n1 2 3 4 5\n\nI am often in a good mood\n\n1 2 3 4 5\n\nI am often in a good mood\n\n1 2 ",
+            "processed_response": "<s> 1 2 3 4 5\n\nI am often in a bad mood\n\n1 2 3 4 5\n\nI am often in a good mood\n\n1 2 3 4 5\n\nI am often in a good mood\n\n1 2 "
+        },
+        {
+            "text_first_person": "Take control of things",
+            "text_second_person": "Take control of things",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI take control of things\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI take control of things\n\nI am a good listener\n\nI am a good communicator\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good problem avoider\n\nI am a good problem",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good decision maker\n\nI am a good problem solver\n\nI am a good problem avoider\n\nI am a good problem"
+        },
+        {
+            "text_first_person": "Rarely notice my emotional reactions",
+            "text_second_person": "Rarely notice your emotional reactions",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI rarely notice my emotional reactions\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI rarely notice my emotional reactions\n\nI often notice my emotional reactions\n\nI am able to control my emotional reactions\n\nI am not able to control my emotional reactions\n\nI am able to control my emotional reactions\n\nI am not able to control my emotional reactions\n\nI am able to control my emot",
+            "processed_response": "<s> I often notice my emotional reactions\n\nI am able to control my emotional reactions\n\nI am not able to control my emotional reactions\n\nI am able to control my emotional reactions\n\nI am not able to control my emotional reactions\n\nI am able to control my emot"
+        },
+        {
+            "text_first_person": "Am indifferent to the feelings of others",
+            "text_second_person": "Are indifferent to the feelings of others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am indifferent to the feelings of others\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am indifferent to the feelings of others\n\nI am indifferent to the feelings of others\n\nI am indifferent to the feelings of others\n\nI am indifferent to the feelings of others\n\nI am indifferent to the feelings of others\n\nI am indifferent to the feelings of others\n\nI am indifferent to the feelings of others\n\n",
+            "processed_response": "<s> I am indifferent to the feelings of others\n\nI am indifferent to the feelings of others\n\nI am indifferent to the feelings of others\n\nI am indifferent to the feelings of others\n\nI am indifferent to the feelings of others\n\nI am indifferent to the feelings of others\n\n"
+        },
+        {
+            "text_first_person": "Break rules",
+            "text_second_person": "Break rules",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI break rules\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI break rules\n\nI am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good team leader\n\nI am a good team follower\n\nI am a good team member\n\nI am a good team builder\n\nI am",
+            "processed_response": "<s> I am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good team leader\n\nI am a good team follower\n\nI am a good team member\n\nI am a good team builder\n\nI am"
+        },
+        {
+            "text_first_person": "Only feel comfortable with friends",
+            "text_second_person": "Only feel comfortable with friends",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI only feel comfortable with friends\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with",
+            "processed_response": "<s> I only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with friends\n\nI only feel comfortable with"
+        },
+        {
+            "text_first_person": "Do a lot in my spare time",
+            "text_second_person": "Do a lot in your spare time",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI do a lot in my spare time\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI do a lot in my spare time\n\nI am a good listener\n\nI am a good friend\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good"
+        },
+        {
+            "text_first_person": "Dislike changes",
+            "text_second_person": "Dislike changes",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI dislike changes\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI dislike changes\n\nI like changes\n\nI like to be in control\n\nI like to be spontaneous\n\nI like to be in control\n\nI like to be spontaneous\n\nI like to be in control\n\nI like to be spontaneous\n\nI like to be in control\n\nI like to be spontaneous",
+            "processed_response": "<s> I like changes\n\nI like to be in control\n\nI like to be spontaneous\n\nI like to be in control\n\nI like to be spontaneous\n\nI like to be in control\n\nI like to be spontaneous\n\nI like to be in control\n\nI like to be spontaneous"
+        },
+        {
+            "text_first_person": "Insult people",
+            "text_second_person": "Insult people",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI insult people\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI insult people\n\nI am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI"
+        },
+        {
+            "text_first_person": "Do just enough work to get by",
+            "text_second_person": "Do just enough work to get by",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI do just enough work to get by\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI do just enough work to get by\n\nI am a perfectionist\n\nI am a workaholic\n\nI am a procrastinator\n\nI am a slacker\n\nI am a lazy person\n\nI am a hard worker\n\nI am a good student\n\nI am a good employee\n\nI am a good",
+            "processed_response": "<s> I am a perfectionist\n\nI am a workaholic\n\nI am a procrastinator\n\nI am a slacker\n\nI am a lazy person\n\nI am a hard worker\n\nI am a good student\n\nI am a good employee\n\nI am a good"
+        },
+        {
+            "text_first_person": "Easily resist temptations",
+            "text_second_person": "Easily resist temptations",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI easily resist temptations\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI easily resist temptations\n\nI am a good listener\n\nI am a good friend\n\nI am a good student\n\nI am a good person\n\nI am a good citizen\n\nI am a good son/daughter\n\nI am a good brother/sister\n\nI am a good neighbor\n\nI am a good teammate",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good student\n\nI am a good person\n\nI am a good citizen\n\nI am a good son/daughter\n\nI am a good brother/sister\n\nI am a good neighbor\n\nI am a good teammate"
+        },
+        {
+            "text_first_person": "Enjoy being reckless",
+            "text_second_person": "Enjoy being reckless",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI enjoy being reckless\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\n",
+            "processed_response": "<s> I enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\nI enjoy being reckless\n\n"
+        },
+        {
+            "text_first_person": "Have difficulty understanding abstract ideas",
+            "text_second_person": "Have difficulty understanding abstract ideas",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI have difficulty understanding abstract ideas\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract",
+            "processed_response": "<s> I have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract ideas\n\nI have difficulty understanding abstract"
+        },
+        {
+            "text_first_person": "Have a high opinion of myself",
+            "text_second_person": "Have a high opinion of yourself",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI have a high opinion of myself\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI have a high opinion of myself\n\nI am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good employee\n\nI am a good citizen\n\nI am a good parent\n\nI am a good spouse\n\nI am a good person\n\nI am a good friend\n\nI am a",
+            "processed_response": "<s> I am a good person\n\nI am a good friend\n\nI am a good student\n\nI am a good employee\n\nI am a good citizen\n\nI am a good parent\n\nI am a good spouse\n\nI am a good person\n\nI am a good friend\n\nI am a"
+        },
+        {
+            "text_first_person": "Waste my time",
+            "text_second_person": "Waste your time",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI waste my time\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI waste my time\n\nI am a good student\n\nI am a good person\n\nI am a good friend\n\nI am a good citizen\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\n",
+            "processed_response": "<s> I am a good student\n\nI am a good person\n\nI am a good friend\n\nI am a good citizen\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\n"
+        },
+        {
+            "text_first_person": "Feel that I'm unable to deal with things",
+            "text_second_person": "Feel that you\u2019re unable to deal with things",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI feel that i'm unable to deal with things\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI feel that i'm unable to deal with things\n\nI feel that i'm unable to deal with things\n\nI feel that i'm unable to deal with things\n\nI feel that i'm unable to deal with things\n\nI feel that i'm unable to deal with things\n\nI feel that i'm unable to deal with things\n",
+            "processed_response": "<s> I feel that i'm unable to deal with things\n\nI feel that i'm unable to deal with things\n\nI feel that i'm unable to deal with things\n\nI feel that i'm unable to deal with things\n\nI feel that i'm unable to deal with things\n"
+        },
+        {
+            "text_first_person": "Love life",
+            "text_second_person": "Love life",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love life\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI love life\n\nI love my life\n\nI love my family\n\nI love my friends\n\nI love my job\n\nI love my country\n\nI love my city\n\nI love my school\n\nI love my university\n\nI love my hometown\n\nI love my hobbies\n\nI love my pets\n\nI",
+            "processed_response": "<s> I love my life\n\nI love my family\n\nI love my friends\n\nI love my job\n\nI love my country\n\nI love my city\n\nI love my school\n\nI love my university\n\nI love my hometown\n\nI love my hobbies\n\nI love my pets\n\nI"
+        },
+        {
+            "text_first_person": "Tend to vote for conservative political candidates",
+            "text_second_person": "Tend to vote for conservative political candidates",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI tend to vote for conservative political candidates\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI tend to vote for conservative political candidates\n\nI tend to vote for liberal political candidates\n\nI tend to vote for moderate political candidates\n\nI tend to vote for libertarian political candidates\n\nI tend to vote for socialist political candidates\n\nI tend to vote for communist political candidates\n\nI tend to vote for anarchist political candidates\n\n",
+            "processed_response": "<s> I tend to vote for liberal political candidates\n\nI tend to vote for moderate political candidates\n\nI tend to vote for libertarian political candidates\n\nI tend to vote for socialist political candidates\n\nI tend to vote for communist political candidates\n\nI tend to vote for anarchist political candidates\n\n"
+        },
+        {
+            "text_first_person": "Am not interested in other people's problems",
+            "text_second_person": "Are not interested in other people's problems",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am not interested in other people's problems\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am not interested in other people's problems\n\nI am not interested in other people's problems\n\nI am not interested in other people's problems\n\nI am not interested in other people's problems\n\nI am not interested in other people's problems\n\nI am not interested in other people's problems\n\nI am not interested in",
+            "processed_response": "<s> I am not interested in other people's problems\n\nI am not interested in other people's problems\n\nI am not interested in other people's problems\n\nI am not interested in other people's problems\n\nI am not interested in other people's problems\n\nI am not interested in"
+        },
+        {
+            "text_first_person": "Rush into things",
+            "text_second_person": "Rush into things",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI rush into things\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI rush into things\n\nI am a good listener\n\nI am a good communicator\n\nI am a good team player\n\nI am a good leader\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good planner\n\nI am a good organizer\n\nI am a good problem sol",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good team player\n\nI am a good leader\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good planner\n\nI am a good organizer\n\nI am a good problem sol"
+        },
+        {
+            "text_first_person": "Get stressed out easily",
+            "text_second_person": "Get stressed out easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI get stressed out easily\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI get stressed out easily\n\nI am a perfectionist\n\nI am a procrastinator\n\nI am a workaholic\n\nI am a people pleaser\n\nI am a control freak\n\nI am a worrier\n\nI am a pessimist\n\nI am a realist\n\nI am a",
+            "processed_response": "<s> I am a perfectionist\n\nI am a procrastinator\n\nI am a workaholic\n\nI am a people pleaser\n\nI am a control freak\n\nI am a worrier\n\nI am a pessimist\n\nI am a realist\n\nI am a"
+        },
+        {
+            "text_first_person": "Keep others at a distance",
+            "text_second_person": "Keep others at a distance",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI keep others at a distance\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI keep others at a distance\n\nI am a good listener\n\nI am a good friend\n\nI am a good partner\n\nI am a good parent\n\nI am a good teacher\n\nI am a good leader\n\nI am a good citizen\n\nI am a good person\n\nI am a good person\n\nI am a good person",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good partner\n\nI am a good parent\n\nI am a good teacher\n\nI am a good leader\n\nI am a good citizen\n\nI am a good person\n\nI am a good person\n\nI am a good person"
+        },
+        {
+            "text_first_person": "Like to get lost in thought",
+            "text_second_person": "Like to get lost in thought",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI like to get lost in thought\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost",
+            "processed_response": "<s> I like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost in thought\n\nI like to get lost"
+        },
+        {
+            "text_first_person": "Distrust people",
+            "text_second_person": "Distrust people",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI distrust people\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI distrust people\n\nI am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n",
+            "processed_response": "<s> I am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n\nI am a good judge of character\n"
+        },
+        {
+            "text_first_person": "Know how to get things done",
+            "text_second_person": "Know how to get things done",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI know how to get things done\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI know how to get things done\n\nI am a good listener\n\nI am a good communicator\n\nI am a good team player\n\nI am a good leader\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good organizer\n\nI am a good planner\n\nI am a good",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good team player\n\nI am a good leader\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good organizer\n\nI am a good planner\n\nI am a good"
+        },
+        {
+            "text_first_person": "Am not easily annoyed",
+            "text_second_person": "Are not easily annoyed",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am not easily annoyed\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily anno",
+            "processed_response": "<s> I am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily annoyed\n\nI am not easily anno"
+        },
+        {
+            "text_first_person": "Avoid crowds",
+            "text_second_person": "Avoid crowds",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI avoid crowds\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI avoid crowds\n\nI avoid people\n\nI avoid social situations\n\nI avoid social gatherings\n\nI avoid social events\n\nI avoid socializing\n\nI avoid socializing with others\n\nI avoid socializing with people\n\nI avoid socializing with friends\n\nI avoid socializing with family\n\nI avoid socializing with my friends\n\n",
+            "processed_response": "<s> I avoid people\n\nI avoid social situations\n\nI avoid social gatherings\n\nI avoid social events\n\nI avoid socializing\n\nI avoid socializing with others\n\nI avoid socializing with people\n\nI avoid socializing with friends\n\nI avoid socializing with family\n\nI avoid socializing with my friends\n\n"
+        },
+        {
+            "text_first_person": "Do not enjoy going to art museums",
+            "text_second_person": "Do not enjoy going to art museums",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI do not enjoy going to art museums\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI do not enjoy going to art museums\n\nI do not enjoy going to art museums\n\nI do not enjoy going to art museums\n\nI do not enjoy going to art museums\n\nI do not enjoy going to art museums\n\nI do not enjoy going to art museums\n\nI do not enjoy going to art museums\n\n",
+            "processed_response": "<s> I do not enjoy going to art museums\n\nI do not enjoy going to art museums\n\nI do not enjoy going to art museums\n\nI do not enjoy going to art museums\n\nI do not enjoy going to art museums\n\nI do not enjoy going to art museums\n\n"
+        },
+        {
+            "text_first_person": "Obstruct others' plans",
+            "text_second_person": "Obstruct others' plans",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI obstruct others' plans\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI obstruct others' plans\n\nI am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good team leader\n\nI am a good team member\n\nI am a good team follower\n\nI am a good team member\n",
+            "processed_response": "<s> I am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good follower\n\nI am a good team player\n\nI am a good team leader\n\nI am a good team member\n\nI am a good team follower\n\nI am a good team member\n"
+        },
+        {
+            "text_first_person": "Leave my belongings around",
+            "text_second_person": "Leave your belongings around",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI leave my belongings around\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI leave my belongings around\n\nI am a neat person\n\nI am a messy person\n\nI am a clean person\n\nI am a dirty person\n\nI am a tidy person\n\nI am a sloppy person\n\nI am a tidy person\n\nI am a sloppy person\n\nI am a neat person\n\nI",
+            "processed_response": "<s> I am a neat person\n\nI am a messy person\n\nI am a clean person\n\nI am a dirty person\n\nI am a tidy person\n\nI am a sloppy person\n\nI am a tidy person\n\nI am a sloppy person\n\nI am a neat person\n\nI"
+        },
+        {
+            "text_first_person": "Feel comfortable with myself",
+            "text_second_person": "Feel comfortable with yourself",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI feel comfortable with myself\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI feel comfortable with myself\n\nI feel comfortable with others\n\nI feel comfortable with my body\n\nI feel comfortable with my sexuality\n\nI feel comfortable with my gender\n\nI feel comfortable with my race\n\nI feel comfortable with my religion\n\nI feel comfortable with my age\n\nI feel comfortable with my class\n\nI feel comfortable with my dis",
+            "processed_response": "<s> I feel comfortable with others\n\nI feel comfortable with my body\n\nI feel comfortable with my sexuality\n\nI feel comfortable with my gender\n\nI feel comfortable with my race\n\nI feel comfortable with my religion\n\nI feel comfortable with my age\n\nI feel comfortable with my class\n\nI feel comfortable with my dis"
+        },
+        {
+            "text_first_person": "Wait for others to lead the way",
+            "text_second_person": "Wait for others to lead the way",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI wait for others to lead the way\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI wait for others to lead the way\n\nI am a good listener\n\nI am a good communicator\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good leader\n\nI am a good follower\n\nI am a good manager\n\nI am a good",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good leader\n\nI am a good follower\n\nI am a good manager\n\nI am a good"
+        },
+        {
+            "text_first_person": "Don't understand people who get emotional",
+            "text_second_person": "Don't understand people who get emotional",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI don't understand people who get emotional\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI don't understand people who get emotional\n\nI don't understand people who get emotional\n\nI don't understand people who get emotional\n\nI don't understand people who get emotional\n\nI don't understand people who get emotional\n\nI don't understand people who get emotional\n\nI don't understand",
+            "processed_response": "<s> I don't understand people who get emotional\n\nI don't understand people who get emotional\n\nI don't understand people who get emotional\n\nI don't understand people who get emotional\n\nI don't understand people who get emotional\n\nI don't understand"
+        },
+        {
+            "text_first_person": "Take no time for others",
+            "text_second_person": "Take no time for others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI take no time for others\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI take no time for others\n\nI take no time for myself\n\nI take no time for my family\n\nI take no time for my friends\n\nI take no time for my hobbies\n\nI take no time for my work\n\nI take no time for my studies\n\nI take no time for my health\n\nI take no time for",
+            "processed_response": "<s> I take no time for myself\n\nI take no time for my family\n\nI take no time for my friends\n\nI take no time for my hobbies\n\nI take no time for my work\n\nI take no time for my studies\n\nI take no time for my health\n\nI take no time for"
+        },
+        {
+            "text_first_person": "Break my promises",
+            "text_second_person": "Break your promises",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI break my promises\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI break my promises\n\nI am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI"
+        },
+        {
+            "text_first_person": "Am not bothered by difficult social situations",
+            "text_second_person": "Are not bothered by difficult social situations",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am not bothered by difficult social situations\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am not bothered by difficult social situations\n\nI am not bothered by difficult social situations\n\nI am not bothered by difficult social situations\n\nI am not bothered by difficult social situations\n\nI am not bothered by difficult social situations\n\nI am not bothered by difficult social situations\n\nI am not bothered by difficult social situations\n\n",
+            "processed_response": "<s> I am not bothered by difficult social situations\n\nI am not bothered by difficult social situations\n\nI am not bothered by difficult social situations\n\nI am not bothered by difficult social situations\n\nI am not bothered by difficult social situations\n\nI am not bothered by difficult social situations\n\n"
+        },
+        {
+            "text_first_person": "Like to take it easy",
+            "text_second_person": "Like to take it easy",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI like to take it easy\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI like to take it easy\n\nI like to be busy\n\nI like to be alone\n\nI like to be with people\n\nI like to be in control\n\nI like to be spontaneous\n\nI like to be organized\n\nI like to be creative\n\nI like to be logical\n\nI like to be adventurous\n",
+            "processed_response": "<s> I like to be busy\n\nI like to be alone\n\nI like to be with people\n\nI like to be in control\n\nI like to be spontaneous\n\nI like to be organized\n\nI like to be creative\n\nI like to be logical\n\nI like to be adventurous\n"
+        },
+        {
+            "text_first_person": "Am attached to conventional ways",
+            "text_second_person": "Are attached to conventional ways",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am attached to conventional ways\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional",
+            "processed_response": "<s> I am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional ways\n\nI am attached to conventional"
+        },
+        {
+            "text_first_person": "Get back at others",
+            "text_second_person": "Get back at others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI get back at others\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\n",
+            "processed_response": "<s> I get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\nI get back at others\n\n"
+        },
+        {
+            "text_first_person": "Put little time and effort into my work",
+            "text_second_person": "Put little time and effort into your work",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI put little time and effort into my work\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI put little time and effort into my work\n\n1 2 3 4 5\n\nI am satisfied with my job\n\n1 2 3 4 5\n\nI am satisfied with my life\n\n1 2 3 4 5\n\nI am satisfied with my relationships\n\n1 2 3 4 5",
+            "processed_response": "<s> 1 2 3 4 5\n\nI am satisfied with my job\n\n1 2 3 4 5\n\nI am satisfied with my life\n\n1 2 3 4 5\n\nI am satisfied with my relationships\n\n1 2 3 4 5"
+        },
+        {
+            "text_first_person": "Am able to control my cravings",
+            "text_second_person": "Are able to control your cravings",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am able to control my cravings\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am able to control my cravings\n\nI am able to control my cravings\n\nI am able to control my cravings\n\nI am able to control my cravings\n\nI am able to control my cravings\n\nI am able to control my cravings\n\nI am able to control my cravings\n\n",
+            "processed_response": "<s> I am able to control my cravings\n\nI am able to control my cravings\n\nI am able to control my cravings\n\nI am able to control my cravings\n\nI am able to control my cravings\n\nI am able to control my cravings\n\n"
+        },
+        {
+            "text_first_person": "Act wild and crazy",
+            "text_second_person": "Act wild and crazy",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI act wild and crazy\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI act wild and crazy\n\nI am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good student\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n"
+        },
+        {
+            "text_first_person": "Am not interested in theoretical discussions",
+            "text_second_person": "Are not interested in theoretical discussions",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am not interested in theoretical discussions\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discuss",
+            "processed_response": "<s> I am not interested in theoretical discussions\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discussions\n\nI am not interested in theoretical discuss"
+        },
+        {
+            "text_first_person": "Boast about my virtues",
+            "text_second_person": "Boast about your virtues",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI boast about my virtues\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI boast about my virtues\n\nI am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person",
+            "processed_response": "<s> I am a good listener\n\nI am a good friend\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person\n\nI am a good person"
+        },
+        {
+            "text_first_person": "Have difficulty starting tasks",
+            "text_second_person": "Have difficulty starting tasks",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI have difficulty starting tasks\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI have difficulty starting tasks\n\nI have difficulty finishing tasks\n\nI have difficulty organizing my time\n\nI have difficulty organizing my space\n\nI have difficulty organizing my thoughts\n\nI have difficulty organizing my emotions\n\nI have difficulty organizing my feelings\n\nI have difficulty organizing my relationships\n\nI have difficulty organizing my life\n",
+            "processed_response": "<s> I have difficulty finishing tasks\n\nI have difficulty organizing my time\n\nI have difficulty organizing my space\n\nI have difficulty organizing my thoughts\n\nI have difficulty organizing my emotions\n\nI have difficulty organizing my feelings\n\nI have difficulty organizing my relationships\n\nI have difficulty organizing my life\n"
+        },
+        {
+            "text_first_person": "Remain calm under pressure",
+            "text_second_person": "Remain calm under pressure",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI remain calm under pressure\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI remain calm under pressure\n\nI am a good listener\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good team player\n\nI am a good leader\n\nI am a good follower\n\nI am a good decision maker\n\nI am a good planner\n\nI am a good organizer",
+            "processed_response": "<s> I am a good listener\n\nI am a good communicator\n\nI am a good problem solver\n\nI am a good team player\n\nI am a good leader\n\nI am a good follower\n\nI am a good decision maker\n\nI am a good planner\n\nI am a good organizer"
+        },
+        {
+            "text_first_person": "Look at the bright side of life",
+            "text_second_person": "Look at the bright side of life",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI look at the bright side of life\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI look at the bright side of life\n\nI am a positive person\n\nI am a pessimist\n\nI am a realist\n\nI am a cynic\n\nI am a skeptic\n\nI am a pragmatist\n\nI am a romantic\n\nI am a realist\n\nI am a cynic",
+            "processed_response": "<s> I am a positive person\n\nI am a pessimist\n\nI am a realist\n\nI am a cynic\n\nI am a skeptic\n\nI am a pragmatist\n\nI am a romantic\n\nI am a realist\n\nI am a cynic"
+        },
+        {
+            "text_first_person": "Believe that we should be tough on crime",
+            "text_second_person": "Believe that we should be tough on crime",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI believe that we should be tough on crime\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI believe that we should be tough on crime\n\nI believe that we should be tough on crime\n\nI believe that we should be tough on crime\n\nI believe that we should be tough on crime\n\nI believe that we should be tough on crime\n\nI believe that we should be tough on crime\n\nI believe that we should",
+            "processed_response": "<s> I believe that we should be tough on crime\n\nI believe that we should be tough on crime\n\nI believe that we should be tough on crime\n\nI believe that we should be tough on crime\n\nI believe that we should be tough on crime\n\nI believe that we should"
+        },
+        {
+            "text_first_person": "Try not to think about the needy",
+            "text_second_person": "Try not to think about the needy",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI try not to think about the needy\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI try not to think about the needy\n\nI try not to think about the needy\n\nI try not to think about the needy\n\nI try not to think about the needy\n\nI try not to think about the needy\n\nI try not to think about the needy\n\nI try not to think about the needy\n\n",
+            "processed_response": "<s> I try not to think about the needy\n\nI try not to think about the needy\n\nI try not to think about the needy\n\nI try not to think about the needy\n\nI try not to think about the needy\n\nI try not to think about the needy\n\n"
+        },
+        {
+            "text_first_person": "Act without thinking",
+            "text_second_person": "Act without thinking",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI act without thinking\n\n",
+            "response": "<s> You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.\n\nI act without thinking\n\nI am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good communicator\n\nI am a good organizer\n\nI am a good planner\n\n",
+            "processed_response": "<s> I am a good listener\n\nI am a good speaker\n\nI am a good leader\n\nI am a good team player\n\nI am a good problem solver\n\nI am a good decision maker\n\nI am a good communicator\n\nI am a good organizer\n\nI am a good planner\n\n"
+        }
+    ]
+}

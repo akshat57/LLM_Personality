@@ -1,0 +1,1086 @@
+{
+    "system_prompt": "Given a statement of you: \"{item}.\"\nPlease choose from the following options to identify how accurately this statement describes you.",
+    "user_prompt": "Options:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+    "responses": [
+        {
+            "text_first_person": "Worry about things",
+            "text_second_person": "Worry about things",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I worry about things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I worry about things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Make friends easily",
+            "text_second_person": "Make friends easily",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I make friends easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I make friends easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Have a vivid imagination",
+            "text_second_person": "Have a vivid imagination",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I have a vivid imagination.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I have a vivid imagination.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Trust others",
+            "text_second_person": "Trust others",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I trust others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I trust others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate</s>",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate</s>"
+        },
+        {
+            "text_first_person": "Complete tasks successfully",
+            "text_second_person": "Complete tasks successfully",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I complete tasks successfully.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I complete tasks successfully.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Get angry easily",
+            "text_second_person": "Get angry easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I get angry easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I get angry easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Love large parties",
+            "text_second_person": "Love large parties",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love large parties.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I love large parties.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Believe in the importance of art",
+            "text_second_person": "Believe in the importance of art",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I believe in the importance of art.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I believe in the importance of art.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Use others for my own ends",
+            "text_second_person": "Use others for your own ends",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I use others for my own ends.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I use others for my own ends.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Like to tidy up",
+            "text_second_person": "Like to tidy up",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I like to tidy up.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I like to tidy up.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Often feel blue",
+            "text_second_person": "Often feel blue",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I often feel blue.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I often feel blue.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate</s>",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate</s>"
+        },
+        {
+            "text_first_person": "Take charge",
+            "text_second_person": "Take charge",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I take charge.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I take charge.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Experience my emotions intensely",
+            "text_second_person": "Experience your emotions intensely",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I experience my emotions intensely.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I experience my emotions intensely.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(A). Very Accurate</s>",
+            "processed_response": "<s> \n(A). Very Accurate</s>"
+        },
+        {
+            "text_first_person": "Love to help others",
+            "text_second_person": "Love to help others",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love to help others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I love to help others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(A). Very Accurate</s>",
+            "processed_response": "<s> \n(A). Very Accurate</s>"
+        },
+        {
+            "text_first_person": "Keep my promises",
+            "text_second_person": "Keep your promises",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I keep my promises.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I keep my promises.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(A). Very Accurate</s>",
+            "processed_response": "<s> \n(A). Very Accurate</s>"
+        },
+        {
+            "text_first_person": "Find it difficult to approach others",
+            "text_second_person": "Find it difficult to approach others",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I find it difficult to approach others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I find it difficult to approach others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nPlease provide additional information to help me understand your situation",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nPlease provide additional information to help me understand your situation"
+        },
+        {
+            "text_first_person": "Am always busy",
+            "text_second_person": "Are always busy",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am always busy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am always busy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Prefer variety to routine",
+            "text_second_person": "Prefer variety to routine",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I prefer variety to routine.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I prefer variety to routine.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Love a good fight",
+            "text_second_person": "Love a good fight",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I love a good fight.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I love a good fight.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Work hard",
+            "text_second_person": "Work hard",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I work hard.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I work hard.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Go on binges",
+            "text_second_person": "Go on binges",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I go on binges.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I go on binges.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Love excitement",
+            "text_second_person": "Love excitement",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love excitement.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I love excitement.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(A). Very Accurate</s>",
+            "processed_response": "<s> \n(A). Very Accurate</s>"
+        },
+        {
+            "text_first_person": "Love to read challenging material",
+            "text_second_person": "Love to read challenging material",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love to read challenging material.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I love to read challenging material.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(A). Very Accurate</s>",
+            "processed_response": "<s> \n(A). Very Accurate</s>"
+        },
+        {
+            "text_first_person": "Believe that I am better than others",
+            "text_second_person": "Believe that you are better than others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I believe that i am better than others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I believe that i am better than others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Am always prepared",
+            "text_second_person": "Are always prepared",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am always prepared.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am always prepared.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(A). Very Accurate</s>",
+            "processed_response": "<s> \n(A). Very Accurate</s>"
+        },
+        {
+            "text_first_person": "Panic easily",
+            "text_second_person": "Panic easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I panic easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I panic easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate</s>",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate</s>"
+        },
+        {
+            "text_first_person": "Radiate joy",
+            "text_second_person": "Radiate joy",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I radiate joy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I radiate joy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Tend to vote for liberal political candidates",
+            "text_second_person": "Tend to vote for liberal political candidates",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I tend to vote for liberal political candidates.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I tend to vote for liberal political candidates.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Sympathize with the homeless",
+            "text_second_person": "Sympathize with the homeless",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I sympathize with the homeless.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I sympathize with the homeless.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nSympathy is a",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nSympathy is a"
+        },
+        {
+            "text_first_person": "Jump into things without thinking",
+            "text_second_person": "Jump into things without thinking",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I jump into things without thinking.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I jump into things without thinking.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Fear for the worst",
+            "text_second_person": "Fear for the worst",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I fear for the worst.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I fear for the worst.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I fear for the",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I fear for the"
+        },
+        {
+            "text_first_person": "Feel comfortable around other people",
+            "text_second_person": "Feel comfortable around other people",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I feel comfortable around other people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I feel comfortable around other people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Enjoy wild flights of fancy",
+            "text_second_person": "Enjoy wild flights of fancy",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I enjoy wild flights of fancy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I enjoy wild flights of fancy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Believe that others have good intentions",
+            "text_second_person": "Believe that others have good intentions",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I believe that others have good intentions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I believe that others have good intentions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Excel in what I do",
+            "text_second_person": "Excel in what you do",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I excel in what i do.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I excel in what i do.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(A). Very Accurate</s>",
+            "processed_response": "<s> \n(A). Very Accurate</s>"
+        },
+        {
+            "text_first_person": "Get irritated easily",
+            "text_second_person": "Get irritated easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I get irritated easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I get irritated easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Talk to a lot of different people at parties",
+            "text_second_person": "Talk to a lot of different people at parties",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I talk to a lot of different people at parties.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I talk to a lot of different people at parties.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "See beauty in things that others might not notice",
+            "text_second_person": "See beauty in things that others might not notice",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I see beauty in things that others might not notice.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I see beauty in things that others might not notice.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(A). Very Accurate</s>",
+            "processed_response": "<s> \n(A). Very Accurate</s>"
+        },
+        {
+            "text_first_person": "Cheat to get ahead",
+            "text_second_person": "Cheat to get ahead",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I cheat to get ahead.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I cheat to get ahead.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I cheat",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I cheat"
+        },
+        {
+            "text_first_person": "Often forget to put things back in their proper place",
+            "text_second_person": "Often forget to put things back in their proper place",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I often forget to put things back in their proper place.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I often forget to put things back in their proper place.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe"
+        },
+        {
+            "text_first_person": "Dislike myself",
+            "text_second_person": "Dislike yourself",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I dislike myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I dislike myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ose</s>",
+            "processed_response": "<s> ose</s>"
+        },
+        {
+            "text_first_person": "Try to lead others",
+            "text_second_person": "Try to lead others",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I try to lead others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I try to lead others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Feel others' emotions",
+            "text_second_person": "Feel others' emotions",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I feel others' emotions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I feel others' emotions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Am concerned about others",
+            "text_second_person": "Are concerned about others",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am concerned about others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am concerned about others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Tell the truth",
+            "text_second_person": "Tell the truth",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I tell the truth.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I tell the truth.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate</s>",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate</s>"
+        },
+        {
+            "text_first_person": "Am afraid to draw attention to myself",
+            "text_second_person": "Are afraid to draw attention to yourself",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am afraid to draw attention to myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am afraid to draw attention to myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I"
+        },
+        {
+            "text_first_person": "Am always on the go",
+            "text_second_person": "Are always on the go",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am always on the go.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am always on the go.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Prefer to stick with things that I know",
+            "text_second_person": "Prefer to stick with things that you know",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I prefer to stick with things that i know.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I prefer to stick with things that i know.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Yell at people",
+            "text_second_person": "Yell at people",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I yell at people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I yell at people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I yell at",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I yell at"
+        },
+        {
+            "text_first_person": "Do more than what's expected of me",
+            "text_second_person": "Do more than what's expected of you",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I do more than what's expected of me.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I do more than what's expected of me.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Rarely overindulge",
+            "text_second_person": "Rarely overindulge",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I rarely overindulge.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I rarely overindulge.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate</s>",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate</s>"
+        },
+        {
+            "text_first_person": "Seek adventure",
+            "text_second_person": "Seek adventure",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I seek adventure.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I seek adventure.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(A). Very Accurate</s>",
+            "processed_response": "<s> \n(A). Very Accurate</s>"
+        },
+        {
+            "text_first_person": "Avoid philosophical discussions",
+            "text_second_person": "Avoid philosophical discussions",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I avoid philosophical discussions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I avoid philosophical discussions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate</s>",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate</s>"
+        },
+        {
+            "text_first_person": "Think highly of myself",
+            "text_second_person": "Think highly of yourself",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I think highly of myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I think highly of myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Carry out my plans",
+            "text_second_person": "Carry out your plans",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I carry out my plans.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I carry out my plans.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Become overwhelmed by events",
+            "text_second_person": "Become overwhelmed by events",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I become overwhelmed by events.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I become overwhelmed by events.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nPlease provide additional information to help me understand your",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nPlease provide additional information to help me understand your"
+        },
+        {
+            "text_first_person": "Have a lot of fun",
+            "text_second_person": "Have a lot of fun",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I have a lot of fun.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I have a lot of fun.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Believe that there is no absolute right or wrong",
+            "text_second_person": "Believe that there is no absolute right or wrong",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I believe that there is no absolute right or wrong.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I believe that there is no absolute right or wrong.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement"
+        },
+        {
+            "text_first_person": "Feel sympathy for those who are worse off than myself",
+            "text_second_person": "Feel sympathy for those who are worse off than yourself",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I feel sympathy for those who are worse off than myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I feel sympathy for those who are worse off than myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \nientes</s>",
+            "processed_response": "<s> \nientes</s>"
+        },
+        {
+            "text_first_person": "Make rash decisions",
+            "text_second_person": "Make rash decisions",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I make rash decisions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I make rash decisions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Am afraid of many things",
+            "text_second_person": "Are afraid of many things",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am afraid of many things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am afraid of many things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Avoid contacts with others",
+            "text_second_person": "Avoid contacts with others",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I avoid contacts with others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I avoid contacts with others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate</s>",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate</s>"
+        },
+        {
+            "text_first_person": "Love to daydream",
+            "text_second_person": "Love to daydream",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love to daydream.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I love to daydream.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Trust what people say",
+            "text_second_person": "Trust what people say",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I trust what people say.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I trust what people say.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\n\nThe statement \"I trust what",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\n\nThe statement \"I trust what"
+        },
+        {
+            "text_first_person": "Handle tasks smoothly",
+            "text_second_person": "Handle tasks smoothly",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I handle tasks smoothly.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I handle tasks smoothly.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Lose my temper",
+            "text_second_person": "Lose your temper",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I lose my temper.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I lose my temper.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Prefer to be alone",
+            "text_second_person": "Prefer to be alone",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I prefer to be alone.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I prefer to be alone.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Do not like poetry",
+            "text_second_person": "Do not like poetry",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I do not like poetry.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I do not like poetry.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I do not like",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I do not like"
+        },
+        {
+            "text_first_person": "Take advantage of others",
+            "text_second_person": "Take advantage of others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I take advantage of others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I take advantage of others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Leave a mess in my room",
+            "text_second_person": "Leave a mess in your room",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I leave a mess in my room.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I leave a mess in my room.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Am often down in the dumps",
+            "text_second_person": "Are often down in the dumps",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am often down in the dumps.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am often down in the dumps.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B\u0440\u043e\u0432\u0430 Accurate)</s>",
+            "processed_response": "<s> \n(B\u0440\u043e\u0432\u0430 Accurate)</s>"
+        },
+        {
+            "text_first_person": "Take control of things",
+            "text_second_person": "Take control of things",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I take control of things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I take control of things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Rarely notice my emotional reactions",
+            "text_second_person": "Rarely notice your emotional reactions",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I rarely notice my emotional reactions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I rarely notice my emotional reactions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nPlease provide your answer and any additional information you",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nPlease provide your answer and any additional information you"
+        },
+        {
+            "text_first_person": "Am indifferent to the feelings of others",
+            "text_second_person": "Are indifferent to the feelings of others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am indifferent to the feelings of others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am indifferent to the feelings of others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \""
+        },
+        {
+            "text_first_person": "Break rules",
+            "text_second_person": "Break rules",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I break rules.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I break rules.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Only feel comfortable with friends",
+            "text_second_person": "Only feel comfortable with friends",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I only feel comfortable with friends.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I only feel comfortable with friends.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Do a lot in my spare time",
+            "text_second_person": "Do a lot in your spare time",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I do a lot in my spare time.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I do a lot in my spare time.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Dislike changes",
+            "text_second_person": "Dislike changes",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I dislike changes.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I dislike changes.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I dislike changes\"",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I dislike changes\""
+        },
+        {
+            "text_first_person": "Insult people",
+            "text_second_person": "Insult people",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I insult people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I insult people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I insult people\"",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I insult people\""
+        },
+        {
+            "text_first_person": "Do just enough work to get by",
+            "text_second_person": "Do just enough work to get by",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I do just enough work to get by.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I do just enough work to get by.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I"
+        },
+        {
+            "text_first_person": "Easily resist temptations",
+            "text_second_person": "Easily resist temptations",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I easily resist temptations.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I easily resist temptations.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate</s>",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate</s>"
+        },
+        {
+            "text_first_person": "Enjoy being reckless",
+            "text_second_person": "Enjoy being reckless",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I enjoy being reckless.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I enjoy being reckless.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Have difficulty understanding abstract ideas",
+            "text_second_person": "Have difficulty understanding abstract ideas",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I have difficulty understanding abstract ideas.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I have difficulty understanding abstract ideas.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nI have difficulty understanding abstract ideas",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nI have difficulty understanding abstract ideas"
+        },
+        {
+            "text_first_person": "Have a high opinion of myself",
+            "text_second_person": "Have a high opinion of yourself",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I have a high opinion of myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I have a high opinion of myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Waste my time",
+            "text_second_person": "Waste your time",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I waste my time.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I waste my time.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease choose the option that best describes how accurately the statement \"I waste my time\" describes you.\n\nPlease select one of",
+            "processed_response": "<s> \n\nPlease choose the option that best describes how accurately the statement \"I waste my time\" describes you.\n\nPlease select one of"
+        },
+        {
+            "text_first_person": "Feel that I'm unable to deal with things",
+            "text_second_person": "Feel that you\u2019re unable to deal with things",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I feel that i'm unable to deal with things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I feel that i'm unable to deal with things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nPlease provide additional information to help",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nPlease provide additional information to help"
+        },
+        {
+            "text_first_person": "Love life",
+            "text_second_person": "Love life",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love life.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I love life.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Tend to vote for conservative political candidates",
+            "text_second_person": "Tend to vote for conservative political candidates",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I tend to vote for conservative political candidates.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I tend to vote for conservative political candidates.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Am not interested in other people's problems",
+            "text_second_person": "Are not interested in other people's problems",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am not interested in other people's problems.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am not interested in other people's problems.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThis statement",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThis statement"
+        },
+        {
+            "text_first_person": "Rush into things",
+            "text_second_person": "Rush into things",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I rush into things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I rush into things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Get stressed out easily",
+            "text_second_person": "Get stressed out easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I get stressed out easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I get stressed out easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Keep others at a distance",
+            "text_second_person": "Keep others at a distance",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I keep others at a distance.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I keep others at a distance.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThis statement does not accurately",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThis statement does not accurately"
+        },
+        {
+            "text_first_person": "Like to get lost in thought",
+            "text_second_person": "Like to get lost in thought",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I like to get lost in thought.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I like to get lost in thought.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Distrust people",
+            "text_second_person": "Distrust people",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I distrust people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I distrust people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I distrust people\"",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I distrust people\""
+        },
+        {
+            "text_first_person": "Know how to get things done",
+            "text_second_person": "Know how to get things done",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I know how to get things done.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I know how to get things done.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Am not easily annoyed",
+            "text_second_person": "Are not easily annoyed",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am not easily annoyed.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am not easily annoyed.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate</s>",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate</s>"
+        },
+        {
+            "text_first_person": "Avoid crowds",
+            "text_second_person": "Avoid crowds",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I avoid crowds.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I avoid crowds.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate</s>",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate</s>"
+        },
+        {
+            "text_first_person": "Do not enjoy going to art museums",
+            "text_second_person": "Do not enjoy going to art museums",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I do not enjoy going to art museums.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I do not enjoy going to art museums.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \""
+        },
+        {
+            "text_first_person": "Obstruct others' plans",
+            "text_second_person": "Obstruct others' plans",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I obstruct others' plans.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I obstruct others' plans.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Leave my belongings around",
+            "text_second_person": "Leave your belongings around",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I leave my belongings around.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I leave my belongings around.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I leave my",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I leave my"
+        },
+        {
+            "text_first_person": "Feel comfortable with myself",
+            "text_second_person": "Feel comfortable with yourself",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I feel comfortable with myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I feel comfortable with myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Wait for others to lead the way",
+            "text_second_person": "Wait for others to lead the way",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I wait for others to lead the way.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I wait for others to lead the way.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThis statement does not",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThis statement does not"
+        },
+        {
+            "text_first_person": "Don't understand people who get emotional",
+            "text_second_person": "Don't understand people who get emotional",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I don't understand people who get emotional.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I don't understand people who get emotional.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThis statement",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThis statement"
+        },
+        {
+            "text_first_person": "Take no time for others",
+            "text_second_person": "Take no time for others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I take no time for others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I take no time for others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I take no",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I take no"
+        },
+        {
+            "text_first_person": "Break my promises",
+            "text_second_person": "Break your promises",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I break my promises.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I break my promises.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I break my promises\"",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I break my promises\""
+        },
+        {
+            "text_first_person": "Am not bothered by difficult social situations",
+            "text_second_person": "Are not bothered by difficult social situations",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am not bothered by difficult social situations.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am not bothered by difficult social situations.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease choose the option that best describes how accurately the statement \"I am not bothered by difficult social situations",
+            "processed_response": "<s> \n\nPlease choose the option that best describes how accurately the statement \"I am not bothered by difficult social situations"
+        },
+        {
+            "text_first_person": "Like to take it easy",
+            "text_second_person": "Like to take it easy",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I like to take it easy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I like to take it easy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate</s>",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate</s>"
+        },
+        {
+            "text_first_person": "Am attached to conventional ways",
+            "text_second_person": "Are attached to conventional ways",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am attached to conventional ways.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am attached to conventional ways.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Get back at others",
+            "text_second_person": "Get back at others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I get back at others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I get back at others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Put little time and effort into my work",
+            "text_second_person": "Put little time and effort into your work",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I put little time and effort into my work.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I put little time and effort into my work.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \""
+        },
+        {
+            "text_first_person": "Am able to control my cravings",
+            "text_second_person": "Are able to control your cravings",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am able to control my cravings.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am able to control my cravings.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease choose the option that best describes how accurately the statement \"I am able to control my cravings",
+            "processed_response": "<s> \n\nPlease choose the option that best describes how accurately the statement \"I am able to control my cravings"
+        },
+        {
+            "text_first_person": "Act wild and crazy",
+            "text_second_person": "Act wild and crazy",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I act wild and crazy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I act wild and crazy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Am not interested in theoretical discussions",
+            "text_second_person": "Are not interested in theoretical discussions",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am not interested in theoretical discussions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I am not interested in theoretical discussions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Dit Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"",
+            "processed_response": "<s> \n(C). Neither Dit Accurate Nor Inaccurate\n\nExplanation:\nThe statement \""
+        },
+        {
+            "text_first_person": "Boast about my virtues",
+            "text_second_person": "Boast about your virtues",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I boast about my virtues.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I boast about my virtues.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Have difficulty starting tasks",
+            "text_second_person": "Have difficulty starting tasks",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I have difficulty starting tasks.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I have difficulty starting tasks.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nPlease provide a brief explanation for your answer.\n\nI",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nPlease provide a brief explanation for your answer.\n\nI"
+        },
+        {
+            "text_first_person": "Remain calm under pressure",
+            "text_second_person": "Remain calm under pressure",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I remain calm under pressure.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I remain calm under pressure.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Look at the bright side of life",
+            "text_second_person": "Look at the bright side of life",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I look at the bright side of life.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I look at the bright side of life.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Believe that we should be tough on crime",
+            "text_second_person": "Believe that we should be tough on crime",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I believe that we should be tough on crime.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I believe that we should be tough on crime.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        },
+        {
+            "text_first_person": "Try not to think about the needy",
+            "text_second_person": "Try not to think about the needy",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I try not to think about the needy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I try not to think about the needy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"",
+            "processed_response": "<s> \n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \""
+        },
+        {
+            "text_first_person": "Act without thinking",
+            "text_second_person": "Act without thinking",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I act without thinking.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "<s> Given a statement of you: \"I act without thinking.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate</s>",
+            "processed_response": "<s> \n(B). Moderately Accurate</s>"
+        }
+    ]
+}

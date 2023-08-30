@@ -2,7 +2,7 @@
 chat_prompts = {}
 
 chat_prompts['mpi-gpt35'] = {}
-chat_prompts['mpi-gpt35']['system_message'] = '''Given a statement of you: "You {item}."
+chat_prompts['mpi-gpt35']['system_message'] = '''Given a statement of you: "{item}."
 Please choose from the following options to identify how accurately this statement describes you.'''
 
 chat_prompts['mpi-gpt35']['user_message'] = '''Options:
@@ -12,12 +12,27 @@ chat_prompts['mpi-gpt35']['user_message'] = '''Options:
 (D). Moderately Inaccurate
 (E). Very Inaccurate
 
-Answer:'''
+Answer: '''
+
+
+chat_prompts['mpi-gpt35-reverse'] = {}
+chat_prompts['mpi-gpt35-reverse']['system_message'] = '''Given a statement of you: "{item}."
+Please choose from the following options to identify how accurately this statement describes you.'''
+
+chat_prompts['mpi-gpt35-reverse']['user_message'] = '''Options:
+(A). Very Inaccurate
+(B). Moderately Inaccurate
+(C). Neither Accurate Nor Inaccurate
+(D). Moderately Accurate
+(E). Very Accurate
+
+Answer: '''
+
 
 
 chat_prompts['chatgpt-an-enfj'] = {}
 chat_prompts['chatgpt-an-enfj']['system_message'] = '''You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.'''
-chat_prompts['chatgpt-an-enfj']['user_message'] = '''{item}'''
+chat_prompts['chatgpt-an-enfj']['user_message'] = '''{item}\n\n'''
 
 
 chat_prompts['whoisgpt'] = {}
@@ -31,6 +46,6 @@ Write your response using the following scale:
 Please answer the statement, even if you are not completely sure of your response.'''
 chat_prompts['whoisgpt']['user_message'] = '''Statement: {item}
 
-Response:'''
+Response: '''
 
 

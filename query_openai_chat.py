@@ -2,6 +2,7 @@ import csv
 import json
 import openai
 import time
+import os
 from chat_prompts import chat_prompts
 
 def ask_gpt_chat(model_name, sys_prompt, user_prompt, temperature = 0, top_p = 1):
@@ -32,6 +33,18 @@ def ask_gpt_chat(model_name, sys_prompt, user_prompt, temperature = 0, top_p = 1
     return None
 
 
+def get_question_text(prompt_type, question):
+    #writing an if condition for each prompt so that the correct prompt is used everytime
+
+    if prompt_type in ['mpi-gpt35', 'mpi-gpt35-reverse']:
+        question_text = 'I ' + question['text_first_person'].lower()
+    elif prompt_type == 'whoisgpt':
+        question_text = 'I ' +  question['text_first_person'].lower()
+    elif prompt_type == 'chatgpt-an-enfj':
+        question_text = 'I ' +  question['text_first_person'].lower()
+
+    return question_text
+
 def read_ocean(filename):
 
     ocean_data = []
@@ -39,21 +52,32 @@ def read_ocean(filename):
         csvreader = csv.reader(csvfile)
         for r, row in enumerate(csvreader):
             if r > 0:
-                text, label, key = row[4], row[6], row[8]
-                ocean_data.append({'text':text, 'label':label, 'key':key})
-
+                text_first_person, text_second_person, label, key = row[4], row[5], row[7], row[9]
+                ocean_data.append({'text_first_person':text_first_person, 'text_second_person':text_second_person, 'label':label, 'key':key})
 
     return ocean_data
 
+
 if __name__ == '__main__':
-    filename = 'Data/ocean_120.csv'
+    #Read ipip questions 
+    filename = 'Data/Tests/ocean_120_corrected.csv'
     ocean_data = read_ocean(filename)
 
-    #model_name = 'gpt-3.5-turbo'
-    model_name = 'gpt-4'
+    #Model definitions
+    model_dir = '/data/akshat/models/'
+    model_name = 'gpt-3.5-turbo'
+    model_location = model_dir + model_name
+    temperature = 0.01
+    top_p = 1
+    max_tokens = 120
 
+    #Prepare model and output directories
+    output_directory = 'Data/Outputs/' + model_name.replace('/', '-') + '/'
+    os.makedirs(output_directory, exist_ok=True)
+
+    #START EXPERIMENTS
     for prompt_type in chat_prompts.keys():
-        output_filename = 'Data/Outputs/' + model_name + '_' + prompt_type + '.json'
+        output_filename = output_directory + prompt_type + '.json'
 
         system_message = chat_prompts[prompt_type]['system_message']
         user_message = chat_prompts[prompt_type]['user_message']
@@ -65,14 +89,19 @@ if __name__ == '__main__':
 
         for q, question in enumerate(ocean_data):
             print(prompt_type, q)
-            system_prompt = system_message.replace('{item}', question['text'])
-            user_prompt = user_message.replace('{item}', question['text'])
+
+            question_text = get_question_text(prompt_type, question)
+            system_prompt = system_message.replace('{item}', question_text)
+            user_prompt = user_message.replace('{item}', question_text)
 
             response = None
             while not response:
                 response = ask_gpt_chat(model_name, system_prompt, user_prompt)
 
-            question['response'] = response
+            #store question and response
+            question['input_prompt_system'] = system_prompt
+            question['input_prompt_user'] = user_prompt
+            question['processed_response'] = response
 
             output_dict['responses'].append(question)
 
