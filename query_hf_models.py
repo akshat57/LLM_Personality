@@ -75,9 +75,6 @@ if __name__ == '__main__':
 
     #START EXPERIMENTS
     for prompt_type in chat_prompts.keys():
-        if prompt_type != 'mpi-gpt35-reverse':
-            continue
-        print(prompt_type)
         output_filename = output_directory + prompt_type + '.json'
 
         system_message = chat_prompts[prompt_type]['system_message']
