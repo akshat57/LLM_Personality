@@ -1,5 +1,5 @@
 {
-    "system_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+    "system_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
     "user_prompt": "{item}\n\n",
     "responses": [
         {
@@ -7,7 +7,7 @@
             "text_second_person": "Worry about things",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I worry about things\n\n",
             "processed_response": "4"
         },
@@ -16,7 +16,7 @@
             "text_second_person": "Make friends easily",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I make friends easily\n\n",
             "processed_response": "4"
         },
@@ -25,7 +25,7 @@
             "text_second_person": "Have a vivid imagination",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I have a vivid imagination\n\n",
             "processed_response": "4"
         },
@@ -34,16 +34,16 @@
             "text_second_person": "Trust others",
             "label": "A",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I trust others\n\n",
-            "processed_response": "3"
+            "processed_response": "4"
         },
         {
             "text_first_person": "Complete tasks successfully",
             "text_second_person": "Complete tasks successfully",
             "label": "C",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I complete tasks successfully\n\n",
             "processed_response": "4"
         },
@@ -52,7 +52,7 @@
             "text_second_person": "Get angry easily",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I get angry easily\n\n",
             "processed_response": "3"
         },
@@ -61,34 +61,34 @@
             "text_second_person": "Love large parties",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I love large parties\n\n",
-            "processed_response": "3"
+            "processed_response": "4"
         },
         {
             "text_first_person": "Believe in the importance of art",
             "text_second_person": "Believe in the importance of art",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I believe in the importance of art\n\n",
-            "processed_response": "4"
+            "processed_response": "5"
         },
         {
             "text_first_person": "Use others for my own ends",
             "text_second_person": "Use others for your own ends",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I use others for my own ends\n\n",
-            "processed_response": "3"
+            "processed_response": "2"
         },
         {
             "text_first_person": "Like to tidy up",
             "text_second_person": "Like to tidy up",
             "label": "C",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I like to tidy up\n\n",
             "processed_response": "4"
         },
@@ -97,7 +97,7 @@
             "text_second_person": "Often feel blue",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I often feel blue\n\n",
             "processed_response": "3"
         },
@@ -106,7 +106,7 @@
             "text_second_person": "Take charge",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I take charge\n\n",
             "processed_response": "4"
         },
@@ -115,7 +115,7 @@
             "text_second_person": "Experience your emotions intensely",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I experience my emotions intensely\n\n",
             "processed_response": "4"
         },
@@ -124,16 +124,16 @@
             "text_second_person": "Love to help others",
             "label": "A",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I love to help others\n\n",
-            "processed_response": "4"
+            "processed_response": "5"
         },
         {
             "text_first_person": "Keep my promises",
             "text_second_person": "Keep your promises",
             "label": "C",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I keep my promises\n\n",
             "processed_response": "4"
         },
@@ -142,16 +142,16 @@
             "text_second_person": "Find it difficult to approach others",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I find it difficult to approach others\n\n",
-            "processed_response": "3"
+            "processed_response": "4"
         },
         {
             "text_first_person": "Am always busy",
             "text_second_person": "Are always busy",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am always busy\n\n",
             "processed_response": "3"
         },
@@ -160,7 +160,7 @@
             "text_second_person": "Prefer variety to routine",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I prefer variety to routine\n\n",
             "processed_response": "4"
         },
@@ -169,7 +169,7 @@
             "text_second_person": "Love a good fight",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I love a good fight\n\n",
             "processed_response": "3"
         },
@@ -178,7 +178,7 @@
             "text_second_person": "Work hard",
             "label": "C",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I work hard\n\n",
             "processed_response": "4"
         },
@@ -187,16 +187,16 @@
             "text_second_person": "Go on binges",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I go on binges\n\n",
-            "processed_response": "3"
+            "processed_response": "2"
         },
         {
             "text_first_person": "Love excitement",
             "text_second_person": "Love excitement",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I love excitement\n\n",
             "processed_response": "4"
         },
@@ -205,7 +205,7 @@
             "text_second_person": "Love to read challenging material",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I love to read challenging material\n\n",
             "processed_response": "4"
         },
@@ -214,7 +214,7 @@
             "text_second_person": "Believe that you are better than others",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I believe that i am better than others\n\n",
             "processed_response": "3"
         },
@@ -223,7 +223,7 @@
             "text_second_person": "Are always prepared",
             "label": "C",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am always prepared\n\n",
             "processed_response": "4"
         },
@@ -232,7 +232,7 @@
             "text_second_person": "Panic easily",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I panic easily\n\n",
             "processed_response": "3"
         },
@@ -241,7 +241,7 @@
             "text_second_person": "Radiate joy",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I radiate joy\n\n",
             "processed_response": "3"
         },
@@ -250,7 +250,7 @@
             "text_second_person": "Tend to vote for liberal political candidates",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I tend to vote for liberal political candidates\n\n",
             "processed_response": "3"
         },
@@ -259,16 +259,16 @@
             "text_second_person": "Sympathize with the homeless",
             "label": "A",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I sympathize with the homeless\n\n",
-            "processed_response": "4"
+            "processed_response": "5"
         },
         {
             "text_first_person": "Jump into things without thinking",
             "text_second_person": "Jump into things without thinking",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I jump into things without thinking\n\n",
             "processed_response": "3"
         },
@@ -277,7 +277,7 @@
             "text_second_person": "Fear for the worst",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I fear for the worst\n\n",
             "processed_response": "3"
         },
@@ -286,7 +286,7 @@
             "text_second_person": "Feel comfortable around other people",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I feel comfortable around other people\n\n",
             "processed_response": "4"
         },
@@ -295,7 +295,7 @@
             "text_second_person": "Enjoy wild flights of fancy",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I enjoy wild flights of fancy\n\n",
             "processed_response": "4"
         },
@@ -304,7 +304,7 @@
             "text_second_person": "Believe that others have good intentions",
             "label": "A",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I believe that others have good intentions\n\n",
             "processed_response": "4"
         },
@@ -313,7 +313,7 @@
             "text_second_person": "Excel in what you do",
             "label": "C",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I excel in what i do\n\n",
             "processed_response": "4"
         },
@@ -322,7 +322,7 @@
             "text_second_person": "Get irritated easily",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I get irritated easily\n\n",
             "processed_response": "3"
         },
@@ -331,7 +331,7 @@
             "text_second_person": "Talk to a lot of different people at parties",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I talk to a lot of different people at parties\n\n",
             "processed_response": "3"
         },
@@ -340,7 +340,7 @@
             "text_second_person": "See beauty in things that others might not notice",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I see beauty in things that others might not notice\n\n",
             "processed_response": "4"
         },
@@ -349,16 +349,16 @@
             "text_second_person": "Cheat to get ahead",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I cheat to get ahead\n\n",
-            "processed_response": "3"
+            "processed_response": "1"
         },
         {
             "text_first_person": "Often forget to put things back in their proper place",
             "text_second_person": "Often forget to put things back in their proper place",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I often forget to put things back in their proper place\n\n",
             "processed_response": "3"
         },
@@ -367,7 +367,7 @@
             "text_second_person": "Dislike yourself",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I dislike myself\n\n",
             "processed_response": "3"
         },
@@ -376,7 +376,7 @@
             "text_second_person": "Try to lead others",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I try to lead others\n\n",
             "processed_response": "4"
         },
@@ -385,7 +385,7 @@
             "text_second_person": "Feel others' emotions",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I feel others' emotions\n\n",
             "processed_response": "3"
         },
@@ -394,25 +394,25 @@
             "text_second_person": "Are concerned about others",
             "label": "A",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am concerned about others\n\n",
-            "processed_response": "4"
+            "processed_response": "5"
         },
         {
             "text_first_person": "Tell the truth",
             "text_second_person": "Tell the truth",
             "label": "C",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I tell the truth\n\n",
-            "processed_response": "4"
+            "processed_response": "5"
         },
         {
             "text_first_person": "Am afraid to draw attention to myself",
             "text_second_person": "Are afraid to draw attention to yourself",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am afraid to draw attention to myself\n\n",
             "processed_response": "3"
         },
@@ -421,7 +421,7 @@
             "text_second_person": "Are always on the go",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am always on the go\n\n",
             "processed_response": "3"
         },
@@ -430,7 +430,7 @@
             "text_second_person": "Prefer to stick with things that you know",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I prefer to stick with things that i know\n\n",
             "processed_response": "3"
         },
@@ -439,16 +439,16 @@
             "text_second_person": "Yell at people",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I yell at people\n\n",
-            "processed_response": "3"
+            "processed_response": "2"
         },
         {
             "text_first_person": "Do more than what's expected of me",
             "text_second_person": "Do more than what's expected of you",
             "label": "C",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I do more than what's expected of me\n\n",
             "processed_response": "4"
         },
@@ -457,7 +457,7 @@
             "text_second_person": "Rarely overindulge",
             "label": "N",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I rarely overindulge\n\n",
             "processed_response": "4"
         },
@@ -466,7 +466,7 @@
             "text_second_person": "Seek adventure",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I seek adventure\n\n",
             "processed_response": "4"
         },
@@ -475,7 +475,7 @@
             "text_second_person": "Avoid philosophical discussions",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I avoid philosophical discussions\n\n",
             "processed_response": "3"
         },
@@ -484,16 +484,16 @@
             "text_second_person": "Think highly of yourself",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I think highly of myself\n\n",
-            "processed_response": "3"
+            "processed_response": "4"
         },
         {
             "text_first_person": "Carry out my plans",
             "text_second_person": "Carry out your plans",
             "label": "C",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I carry out my plans\n\n",
             "processed_response": "4"
         },
@@ -502,7 +502,7 @@
             "text_second_person": "Become overwhelmed by events",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I become overwhelmed by events\n\n",
             "processed_response": "4"
         },
@@ -511,34 +511,34 @@
             "text_second_person": "Have a lot of fun",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I have a lot of fun\n\n",
-            "processed_response": "4"
+            "processed_response": "5"
         },
         {
             "text_first_person": "Believe that there is no absolute right or wrong",
             "text_second_person": "Believe that there is no absolute right or wrong",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I believe that there is no absolute right or wrong\n\n",
-            "processed_response": "3"
+            "processed_response": "4"
         },
         {
             "text_first_person": "Feel sympathy for those who are worse off than myself",
             "text_second_person": "Feel sympathy for those who are worse off than yourself",
             "label": "A",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I feel sympathy for those who are worse off than myself\n\n",
-            "processed_response": "4"
+            "processed_response": "5"
         },
         {
             "text_first_person": "Make rash decisions",
             "text_second_person": "Make rash decisions",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I make rash decisions\n\n",
             "processed_response": "3"
         },
@@ -547,7 +547,7 @@
             "text_second_person": "Are afraid of many things",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am afraid of many things\n\n",
             "processed_response": "3"
         },
@@ -556,7 +556,7 @@
             "text_second_person": "Avoid contacts with others",
             "label": "E",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I avoid contacts with others\n\n",
             "processed_response": "3"
         },
@@ -565,7 +565,7 @@
             "text_second_person": "Love to daydream",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I love to daydream\n\n",
             "processed_response": "4"
         },
@@ -574,7 +574,7 @@
             "text_second_person": "Trust what people say",
             "label": "A",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I trust what people say\n\n",
             "processed_response": "3"
         },
@@ -583,7 +583,7 @@
             "text_second_person": "Handle tasks smoothly",
             "label": "C",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I handle tasks smoothly\n\n",
             "processed_response": "4"
         },
@@ -592,7 +592,7 @@
             "text_second_person": "Lose your temper",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I lose my temper\n\n",
             "processed_response": "3"
         },
@@ -601,7 +601,7 @@
             "text_second_person": "Prefer to be alone",
             "label": "E",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I prefer to be alone\n\n",
             "processed_response": "3"
         },
@@ -610,7 +610,7 @@
             "text_second_person": "Do not like poetry",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I do not like poetry\n\n",
             "processed_response": "3"
         },
@@ -619,16 +619,16 @@
             "text_second_person": "Take advantage of others",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I take advantage of others\n\n",
-            "processed_response": "2"
+            "processed_response": "1"
         },
         {
             "text_first_person": "Leave a mess in my room",
             "text_second_person": "Leave a mess in your room",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I leave a mess in my room\n\n",
             "processed_response": "3"
         },
@@ -637,7 +637,7 @@
             "text_second_person": "Are often down in the dumps",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am often down in the dumps\n\n",
             "processed_response": "3"
         },
@@ -646,7 +646,7 @@
             "text_second_person": "Take control of things",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I take control of things\n\n",
             "processed_response": "3"
         },
@@ -655,7 +655,7 @@
             "text_second_person": "Rarely notice your emotional reactions",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I rarely notice my emotional reactions\n\n",
             "processed_response": "3"
         },
@@ -664,7 +664,7 @@
             "text_second_person": "Are indifferent to the feelings of others",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am indifferent to the feelings of others\n\n",
             "processed_response": "3"
         },
@@ -673,7 +673,7 @@
             "text_second_person": "Break rules",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I break rules\n\n",
             "processed_response": "3"
         },
@@ -682,7 +682,7 @@
             "text_second_person": "Only feel comfortable with friends",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I only feel comfortable with friends\n\n",
             "processed_response": "3"
         },
@@ -691,7 +691,7 @@
             "text_second_person": "Do a lot in your spare time",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I do a lot in my spare time\n\n",
             "processed_response": "4"
         },
@@ -700,7 +700,7 @@
             "text_second_person": "Dislike changes",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I dislike changes\n\n",
             "processed_response": "3"
         },
@@ -709,16 +709,16 @@
             "text_second_person": "Insult people",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I insult people\n\n",
-            "processed_response": "3"
+            "processed_response": "2"
         },
         {
             "text_first_person": "Do just enough work to get by",
             "text_second_person": "Do just enough work to get by",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I do just enough work to get by\n\n",
             "processed_response": "3"
         },
@@ -727,7 +727,7 @@
             "text_second_person": "Easily resist temptations",
             "label": "N",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I easily resist temptations\n\n",
             "processed_response": "3"
         },
@@ -736,16 +736,16 @@
             "text_second_person": "Enjoy being reckless",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I enjoy being reckless\n\n",
-            "processed_response": "3"
+            "processed_response": "2"
         },
         {
             "text_first_person": "Have difficulty understanding abstract ideas",
             "text_second_person": "Have difficulty understanding abstract ideas",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I have difficulty understanding abstract ideas\n\n",
             "processed_response": "3"
         },
@@ -754,16 +754,16 @@
             "text_second_person": "Have a high opinion of yourself",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I have a high opinion of myself\n\n",
-            "processed_response": "3"
+            "processed_response": "4"
         },
         {
             "text_first_person": "Waste my time",
             "text_second_person": "Waste your time",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I waste my time\n\n",
             "processed_response": "3"
         },
@@ -772,7 +772,7 @@
             "text_second_person": "Feel that you\u2019re unable to deal with things",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I feel that i'm unable to deal with things\n\n",
             "processed_response": "3"
         },
@@ -781,7 +781,7 @@
             "text_second_person": "Love life",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I love life\n\n",
             "processed_response": "4"
         },
@@ -790,7 +790,7 @@
             "text_second_person": "Tend to vote for conservative political candidates",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I tend to vote for conservative political candidates\n\n",
             "processed_response": "3"
         },
@@ -799,7 +799,7 @@
             "text_second_person": "Are not interested in other people's problems",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am not interested in other people's problems\n\n",
             "processed_response": "3"
         },
@@ -808,7 +808,7 @@
             "text_second_person": "Rush into things",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I rush into things\n\n",
             "processed_response": "3"
         },
@@ -817,7 +817,7 @@
             "text_second_person": "Get stressed out easily",
             "label": "N",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I get stressed out easily\n\n",
             "processed_response": "4"
         },
@@ -826,7 +826,7 @@
             "text_second_person": "Keep others at a distance",
             "label": "E",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I keep others at a distance\n\n",
             "processed_response": "3"
         },
@@ -835,7 +835,7 @@
             "text_second_person": "Like to get lost in thought",
             "label": "O",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I like to get lost in thought\n\n",
             "processed_response": "4"
         },
@@ -844,7 +844,7 @@
             "text_second_person": "Distrust people",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I distrust people\n\n",
             "processed_response": "3"
         },
@@ -853,7 +853,7 @@
             "text_second_person": "Know how to get things done",
             "label": "C",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I know how to get things done\n\n",
             "processed_response": "4"
         },
@@ -862,7 +862,7 @@
             "text_second_person": "Are not easily annoyed",
             "label": "N",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am not easily annoyed\n\n",
             "processed_response": "4"
         },
@@ -871,7 +871,7 @@
             "text_second_person": "Avoid crowds",
             "label": "E",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I avoid crowds\n\n",
             "processed_response": "4"
         },
@@ -880,7 +880,7 @@
             "text_second_person": "Do not enjoy going to art museums",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I do not enjoy going to art museums\n\n",
             "processed_response": "3"
         },
@@ -889,7 +889,7 @@
             "text_second_person": "Obstruct others' plans",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I obstruct others' plans\n\n",
             "processed_response": "2"
         },
@@ -898,7 +898,7 @@
             "text_second_person": "Leave your belongings around",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I leave my belongings around\n\n",
             "processed_response": "3"
         },
@@ -907,7 +907,7 @@
             "text_second_person": "Feel comfortable with yourself",
             "label": "N",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I feel comfortable with myself\n\n",
             "processed_response": "4"
         },
@@ -916,7 +916,7 @@
             "text_second_person": "Wait for others to lead the way",
             "label": "E",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I wait for others to lead the way\n\n",
             "processed_response": "3"
         },
@@ -925,7 +925,7 @@
             "text_second_person": "Don't understand people who get emotional",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I don't understand people who get emotional\n\n",
             "processed_response": "3"
         },
@@ -934,7 +934,7 @@
             "text_second_person": "Take no time for others",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I take no time for others\n\n",
             "processed_response": "3"
         },
@@ -943,7 +943,7 @@
             "text_second_person": "Break your promises",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I break my promises\n\n",
             "processed_response": "3"
         },
@@ -952,7 +952,7 @@
             "text_second_person": "Are not bothered by difficult social situations",
             "label": "N",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am not bothered by difficult social situations\n\n",
             "processed_response": "3"
         },
@@ -961,7 +961,7 @@
             "text_second_person": "Like to take it easy",
             "label": "E",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I like to take it easy\n\n",
             "processed_response": "4"
         },
@@ -970,7 +970,7 @@
             "text_second_person": "Are attached to conventional ways",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am attached to conventional ways\n\n",
             "processed_response": "3"
         },
@@ -979,16 +979,16 @@
             "text_second_person": "Get back at others",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I get back at others\n\n",
-            "processed_response": "3"
+            "processed_response": "2"
         },
         {
             "text_first_person": "Put little time and effort into my work",
             "text_second_person": "Put little time and effort into your work",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I put little time and effort into my work\n\n",
             "processed_response": "3"
         },
@@ -997,7 +997,7 @@
             "text_second_person": "Are able to control your cravings",
             "label": "N",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am able to control my cravings\n\n",
             "processed_response": "4"
         },
@@ -1006,7 +1006,7 @@
             "text_second_person": "Act wild and crazy",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I act wild and crazy\n\n",
             "processed_response": "3"
         },
@@ -1015,7 +1015,7 @@
             "text_second_person": "Are not interested in theoretical discussions",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I am not interested in theoretical discussions\n\n",
             "processed_response": "3"
         },
@@ -1024,16 +1024,16 @@
             "text_second_person": "Boast about your virtues",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I boast about my virtues\n\n",
-            "processed_response": "3"
+            "processed_response": "2"
         },
         {
             "text_first_person": "Have difficulty starting tasks",
             "text_second_person": "Have difficulty starting tasks",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I have difficulty starting tasks\n\n",
             "processed_response": "4"
         },
@@ -1042,7 +1042,7 @@
             "text_second_person": "Remain calm under pressure",
             "label": "N",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I remain calm under pressure\n\n",
             "processed_response": "4"
         },
@@ -1051,7 +1051,7 @@
             "text_second_person": "Look at the bright side of life",
             "label": "E",
             "key": "1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I look at the bright side of life\n\n",
             "processed_response": "4"
         },
@@ -1060,7 +1060,7 @@
             "text_second_person": "Believe that we should be tough on crime",
             "label": "O",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I believe that we should be tough on crime\n\n",
             "processed_response": "4"
         },
@@ -1069,7 +1069,7 @@
             "text_second_person": "Try not to think about the needy",
             "label": "A",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I try not to think about the needy\n\n",
             "processed_response": "3"
         },
@@ -1078,7 +1078,7 @@
             "text_second_person": "Act without thinking",
             "label": "C",
             "key": "-1",
-            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree.",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being disagree and 5 being agree.",
             "input_prompt_user": "I act without thinking\n\n",
             "processed_response": "3"
         }

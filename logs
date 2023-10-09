@@ -1,55 +1,243 @@
-Llama-2-7b-chat-hf mpi-gpt35 O 3.92 0.4 MOST COMMON: B
-Llama-2-7b-chat-hf mpi-gpt35 C 4.0 0.41 MOST COMMON: B
-Llama-2-7b-chat-hf mpi-gpt35 E 4.0 0.29 MOST COMMON: B
-Llama-2-7b-chat-hf mpi-gpt35 A 3.96 0.35 MOST COMMON: B
-Llama-2-7b-chat-hf mpi-gpt35 N 3.96 0.2 MOST COMMON: B
-Llama-2-7b-chat-hf mpi-gpt35-reverse O 2.42 0.57 MOST COMMON: B
-Llama-2-7b-chat-hf mpi-gpt35-reverse C 2.46 0.71 MOST COMMON: B
-Llama-2-7b-chat-hf mpi-gpt35-reverse E 2.54 0.76 MOST COMMON: B
-Llama-2-7b-chat-hf mpi-gpt35-reverse A 2.58 0.76 MOST COMMON: B
-Llama-2-7b-chat-hf mpi-gpt35-reverse N 2.21 0.41 MOST COMMON: B
-falcon-7b-instruct mpi-gpt35 O 4.0 0.0 MOST COMMON: B
-falcon-7b-instruct mpi-gpt35 C 4.0 0.0 MOST COMMON: B
-falcon-7b-instruct mpi-gpt35 E 4.0 0.0 MOST COMMON: B
-falcon-7b-instruct mpi-gpt35 A 4.0 0.0 MOST COMMON: B
-falcon-7b-instruct mpi-gpt35 N 4.0 0.0 MOST COMMON: B
-falcon-7b-instruct whoisgpt O 2.62 1.93 MOST COMMON: 5
-falcon-7b-instruct whoisgpt C 3.39 1.93 MOST COMMON: 1
-falcon-7b-instruct whoisgpt E 2.33 1.89 MOST COMMON: 5
-falcon-7b-instruct whoisgpt A 3.17 1.99 MOST COMMON: 1
-falcon-7b-instruct whoisgpt N 3.83 1.82 MOST COMMON: 1
-falcon-7b-instruct mpi-gpt35-reverse O 2.0 0.0 MOST COMMON: B
-falcon-7b-instruct mpi-gpt35-reverse C 2.0 0.0 MOST COMMON: B
-falcon-7b-instruct mpi-gpt35-reverse E 2.0 0.0 MOST COMMON: B
-falcon-7b-instruct mpi-gpt35-reverse A 2.0 0.0 MOST COMMON: B
-falcon-7b-instruct mpi-gpt35-reverse N 2.0 0.0 MOST COMMON: B
-gpt-3.5-turbo mpi-gpt35 O 4.5 0.5 MOST COMMON: A
-gpt-3.5-turbo mpi-gpt35 C 4.25 0.83 MOST COMMON: B
-gpt-3.5-turbo mpi-gpt35 E 4.46 0.76 MOST COMMON: A
-gpt-3.5-turbo mpi-gpt35 A 3.29 1.4 MOST COMMON: B
-gpt-3.5-turbo mpi-gpt35 N 4.29 0.45 MOST COMMON: B
-gpt-3.5-turbo chatgpt-an-enfj O 2.62 0.48 MOST COMMON: 3
-gpt-3.5-turbo chatgpt-an-enfj C 2.5 0.5 MOST COMMON: 4
-gpt-3.5-turbo chatgpt-an-enfj E 2.5 0.5 MOST COMMON: 4
-gpt-3.5-turbo chatgpt-an-enfj A 2.88 0.53 MOST COMMON: 3
-gpt-3.5-turbo chatgpt-an-enfj N 2.67 0.47 MOST COMMON: 3
-gpt-3.5-turbo whoisgpt O 3.21 0.58 MOST COMMON: 3
-gpt-3.5-turbo whoisgpt C 3.29 0.68 MOST COMMON: 3
-gpt-3.5-turbo whoisgpt E 3.25 0.66 MOST COMMON: 3
-gpt-3.5-turbo whoisgpt A 2.79 0.71 MOST COMMON: 3
-gpt-3.5-turbo whoisgpt N 3.12 0.44 MOST COMMON: 3
-gpt-3.5-turbo mpi-gpt35-reverse O 4.08 0.28 MOST COMMON: D
-gpt-3.5-turbo mpi-gpt35-reverse C 4.04 0.2 MOST COMMON: D
-gpt-3.5-turbo mpi-gpt35-reverse E 4.04 0.2 MOST COMMON: D
-gpt-3.5-turbo mpi-gpt35-reverse A 3.83 0.55 MOST COMMON: D
-gpt-3.5-turbo mpi-gpt35-reverse N 4.0 0.0 MOST COMMON: D
-Llama-2-13b-chat-hf mpi-gpt35 O 3.75 0.66 MOST COMMON: B
-Llama-2-13b-chat-hf mpi-gpt35 C 3.83 0.64 MOST COMMON: B
-Llama-2-13b-chat-hf mpi-gpt35 E 3.88 0.53 MOST COMMON: B
-Llama-2-13b-chat-hf mpi-gpt35 A 3.57 0.58 MOST COMMON: C
-Llama-2-13b-chat-hf mpi-gpt35 N 3.5 0.5 MOST COMMON: B
-Llama-2-13b-chat-hf mpi-gpt35-reverse O 3.61 0.57 MOST COMMON: D
-Llama-2-13b-chat-hf mpi-gpt35-reverse C 3.79 0.5 MOST COMMON: D
-Llama-2-13b-chat-hf mpi-gpt35-reverse E 3.78 0.41 MOST COMMON: D
-Llama-2-13b-chat-hf mpi-gpt35-reverse A 3.75 0.52 MOST COMMON: D
-Llama-2-13b-chat-hf mpi-gpt35-reverse N 3.23 0.42 MOST COMMON: C
+B. Moderately Accurate. B
+B. Moderately Accurate. B
+(A) Very Accurate A
+B. Moderately Accurate. B
+(A) Very Accurate A
+B. Moderately Accurate. B
+(B). Moderately Accurate B
+(A) Very Accurate A
+(B). Moderately Accurate B
+B. Moderately Accurate. B
+I would choose option (A) Very Accurate. A
+(A). Very Accurate A
+(A) Very Accurate. A
+(A) Very Accurate A
+B. Moderately Accurate. B
+(B). Moderately Accurate B
+(A). Very Accurate A
+(A) Very Accurate. A
+I would choose option (B) Moderately Accurate. B
+B. Moderately Accurate. B
+(A) Very Accurate A
+(A) Very Accurate A
+I would choose option (E) Very Inaccurate. E
+(B). Moderately Accurate B
+B. Moderately Accurate. B
+I would choose option (A) Very Accurate. I am programmed to radiate joy and positivity, and I strive to maintain a cheerful and uplifting demeanor in all of my interactions. I believe that this statement accurately reflects my nature and the way I interact with others. A
+(A) Very Accurate A
+I would choose option (B) Moderately Accurate. B
+(A). Very Accurate A
+(B). Moderately Accurate. B
+B. Moderately Accurate. B
+(A) Very Accurate A
+(A) Very Accurate A
+(A) Very Accurate A
+B. Moderately Accurate. B
+(B) Moderately Accurate B
+(A). Very Accurate A
+(B). Moderately Accurate. B
+B. Moderately Accurate. B
+B. Moderately Accurate. B
+(A). Very Accurate A
+B. Moderately Accurate. B
+I would choose option (A) Very Accurate. I strive to be as honest and transparent as possible in all my interactions, and I believe that my statement "I tell the truth" accurately reflects my commitment to truthfulness. While I am not perfect and may make mistakes or unintentionally provide incorrect information, I always strive to provide accurate and reliable information to the best of my knowledge and abilities. A
+(B). Moderately Accurate. B
+(B). Moderately Accurate B
+(B). Moderately Accurate B
+(D). Moderately Inaccurate D
+(A) Very Accurate A
+B. Moderately Accurate. B
+(A) Very Accurate A
+(B). Moderately Accurate B
+B. Moderately Accurate B
+(A) Very Accurate A
+B. Moderately Accurate. B
+(A) Very Accurate A
+(A) Very Accurate. A
+B. Moderately Accurate. B
+(B). Moderately Accurate B
+(B). Moderately Accurate. B
+(B). Moderately Accurate B
+(A) Very Accurate A
+(B). Moderately Accurate B
+B. Moderately Accurate. B
+B. Moderately Accurate. B
+(B). Moderately Accurate B
+(B). Moderately Accurate B
+I would choose option (C) Neither Accurate Nor Inaccurate. C
+(B). Moderately Accurate B
+B. Moderately Accurate. B
+B. Moderately Accurate. B
+(B). Moderately Accurate. B
+I would choose option (C) Neither Accurate Nor Inaccurate. C
+I would choose option (A) Very Accurate. A
+(B). Moderately Accurate B
+I would choose option (B) Moderately Accurate. B
+(B). Moderately Accurate B
+B. Moderately Accurate. B
+(B). Moderately Accurate B
+(B). Moderately Accurate B
+(B). Moderately Accurate B
+(B). Moderately Accurate B
+(B). Moderately Accurate B
+B. Moderately Accurate. B
+(A) Very Accurate. A
+B. Moderately Accurate. B
+(B) Moderately Accurate B
+(A). Very Accurate A
+B. Moderately Accurate. B
+B. Moderately Accurate. B
+(A) Very Accurate. A
+(B). Moderately Accurate B
+(A) Very Accurate A
+(B). Moderately Accurate B
+(B). Moderately Accurate B
+(B). Moderately Accurate B
+(B). Moderately Accurate B
+(B). Moderately Accurate B
+(A) Very Accurate A
+B. Moderately Accurate. B
+(C). Neither Accurate Nor Inaccurate C
+(D). Moderately Inaccurate D
+(D). Moderately Inaccurate D
+(C). Neither Accurate Nor Inaccurate C
+B. Moderately Accurate. B
+B. Moderately Accurate. B
+I would choose option (B) Moderately Accurate. B
+(D). Moderately Inaccurate D
+B. Moderately Accurate. B
+(E). Very Inaccurate E
+(B). Moderately Accurate B
+(B). Moderately Accurate B
+B. Moderately Accurate. B
+B. Moderately Accurate. B
+B. Moderately Accurate. B
+I would choose option (A) Very Accurate. A
+I would choose option (C) Neither Accurate Nor Inaccurate. C
+(B). Moderately Accurate B
+Llama-2-70b-chat-hf-api-llamaprompt mpi-gpt35 O 4.5 0.58 MOST COMMON: A LEN: 24
+Llama-2-70b-chat-hf-api-llamaprompt mpi-gpt35 C 4.25 0.83 MOST COMMON: B LEN: 24
+Llama-2-70b-chat-hf-api-llamaprompt mpi-gpt35 E 4.12 0.78 MOST COMMON: B LEN: 24
+Llama-2-70b-chat-hf-api-llamaprompt mpi-gpt35 A 3.67 0.99 MOST COMMON: B LEN: 21
+Llama-2-70b-chat-hf-api-llamaprompt mpi-gpt35 N 4.0 0.29 MOST COMMON: B LEN: 24
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(E). Very Accurate E
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(E). Very Accurate E
+I would choose option (D) Moderately Accurate. D
+(E). Very Accurate E
+(E). Very Accurate E
+(E). Very Accurate E
+I would choose option (E) Very Accurate. E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+I would choose option (D) Moderately Accurate. D
+(E). Very Accurate E
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+I would choose option (E) Very Accurate. E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+Based on the statement you provided, the best answer would be (D) Moderately Accurate. D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(E). Very Accurate E
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+I would choose option (D) Moderately Accurate. D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+I would choose option (E) Very Accurate. E
+(D). Moderately Accurate D
+(E). Very Accurate E
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+(D). Moderately Accurate D
+I would choose option (D) Moderately Accurate. D
+(D). Moderately Accurate D
+Llama-2-70b-chat-hf-api-llamaprompt mpi-gpt35-reverse O 4.5 0.5 MOST COMMON: E LEN: 24
+Llama-2-70b-chat-hf-api-llamaprompt mpi-gpt35-reverse C 4.3 0.46 MOST COMMON: D LEN: 23
+Llama-2-70b-chat-hf-api-llamaprompt mpi-gpt35-reverse E 4.33 0.47 MOST COMMON: D LEN: 24
+Llama-2-70b-chat-hf-api-llamaprompt mpi-gpt35-reverse A 4.57 0.49 MOST COMMON: E LEN: 21
+Llama-2-70b-chat-hf-api-llamaprompt mpi-gpt35-reverse N 4.25 0.43 MOST COMMON: D LEN: 24

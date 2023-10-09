@@ -26,7 +26,7 @@ def get_score(model_name, prompt_type, data):
     option_list = {'O':[], 'C':[], 'E':[], 'A':[], 'N':[]}
 
     if prompt_type in ['mpi-gpt35.json', 'mpi-gpt35-reverse.json']:
-        if model_name in ['Llama-2-7b-chat-hf', 'Llama-2-13b-chat-hf', 'gpt-3.5-turbo', 'falcon-7b-instruct']:
+        if model_name in ['Llama-2-70b-chat-hf-api-llamaprompt', 'Llama-2-7b-chat-hf', 'Llama-2-13b-chat-hf', 'gpt-3.5-turbo', 'falcon-7b-instruct']:
             
             for response in data['responses']:
                 if model_name == 'gpt-3.5-turbo':
@@ -34,13 +34,19 @@ def get_score(model_name, prompt_type, data):
                 else:
                     label, key, answer = response['label'], response['key'], response['processed_response']
 
-                pattern = r"\((\w)\)"
-                match = re.search(pattern, answer)
+                answer = answer.split('\n\n')[0]
+                pattern = r'\((A|B|C|D|E)\)|([A-E])\.'
+                compiled_pattern = re.compile(pattern)
+                match = compiled_pattern.findall(answer)
 
-                if match:
-                    score_index = match.group(1)
+                if len(match) == 1:
+
+                    if len(match[0][0]):
+                        score_index = match[0][0]
+                    else:
+                        score_index = match[0][1]
+
                     option_list[label].append(score_index)
-
                     if score_index in score_map:
                         score = score_map[score_index]
                         if prompt_type.find('reverse') != -1:
@@ -50,6 +56,7 @@ def get_score(model_name, prompt_type, data):
                             score = invert_score[score]
                     
                         score_list[label].append(score)
+
 
     if prompt_type == 'whoisgpt.json' and model_name == 'gpt-3.5-turbo':
         for response in data['responses']:
@@ -64,8 +71,28 @@ def get_score(model_name, prompt_type, data):
             
                 score_list[label].append(score)
 
+    if prompt_type in ['whoisgpt.json', 'whoisgpt-reverse.json'] and model_name in ['Llama-2-70b-chat-hf-api-llamaprompt']:
+        for response in data['responses']:
+            label, key, answer = response['label'], response['key'], response['processed_response'] 
 
-    if (prompt_type == 'chatgpt-an-enfj.json' and model_name == 'gpt-3.5-turbo') or (prompt_type == 'whoisgpt.json' and model_name == 'falcon-7b-instruct'):
+            pattern = r'\b[1-5]\b'
+            compiled_pattern = re.compile(pattern)
+            match = compiled_pattern.findall(answer)
+            if len(match) == 1:
+                score_index = match[0]
+                option_list[label].append(score_index)
+
+                if score_index in score_map:
+                    score = score_map[score_index]
+                    if prompt_type.find('reverse') != -1:
+                        score = invert_score[score]
+                    if key == -1:
+                        score = invert_score[score]
+                
+                    score_list[label].append(score)
+
+
+    if (prompt_type in ['chatgpt-an-enfj.json', 'chatgpt-an-enfj-reverse.json'] and model_name in ['gpt-3.5-turbo', 'Llama-2-70b-chat-hf-api-llamaprompt']) or (prompt_type == 'whoisgpt.json' and model_name == 'falcon-7b-instruct'):
         for response in data['responses']:
             if model_name == 'gpt-3.5-turbo':
                 label, key, answer = response['label'], response['key'], response['response']    
@@ -73,14 +100,15 @@ def get_score(model_name, prompt_type, data):
                 label, key, answer = response['label'], response['key'], response['processed_response']
 
             score_index = answer.strip()
-            option_list[label].append(score_index)
+            if len(score_index) == 1:
+                option_list[label].append(score_index)
 
-            if score_index in score_map:
-                score = score_map[score_index]
-                if key == -1:
-                    score = invert_score[score]
-            
-                score_list[label].append(score)
+                if score_index in score_map:
+                    score = score_map[score_index]
+                    if key == -1:
+                        score = invert_score[score]
+                
+                    score_list[label].append(score)
 
 
 
@@ -97,6 +125,9 @@ if __name__ == '__main__':
     for model_name in os.listdir(location):
         file_location = location + model_name + '/'
 
+        if model_name != 'Llama-2-70b-chat-hf-api-llamaprompt':
+            continue
+
         for prompt_type in os.listdir(file_location):
             filename = file_location + prompt_type
 
@@ -110,7 +141,7 @@ if __name__ == '__main__':
                     mean_score = round(np.mean(np.array(score_list[trait])), 2)
                     std = round(np.std(np.array(score_list[trait])), 2)
                     most_common_score = most_common_element(option_list[trait])
-                    print(model_name, prompt_type.replace('.json', ''), trait, mean_score, std, 'MOST COMMON:', most_common_score)
+                    print(model_name, prompt_type.replace('.json', ''), trait, mean_score, std, 'MOST COMMON:', most_common_score, 'LEN:', len(score_list[trait]), 'A:', option_list[trait])
 
 
 

@@ -38,9 +38,9 @@ def get_question_text(prompt_type, question):
 
     if prompt_type in ['mpi-gpt35', 'mpi-gpt35-reverse']:
         question_text = 'I ' + question['text_first_person'].lower()
-    elif prompt_type == 'whoisgpt':
+    elif prompt_type in ['whoisgpt', 'whoisgpt-reverse']:
         question_text = 'I ' +  question['text_first_person'].lower()
-    elif prompt_type == 'chatgpt-an-enfj':
+    elif prompt_type in ['chatgpt-an-enfj', 'chatgpt-an-enfj-reverse']:
         question_text = 'I ' +  question['text_first_person'].lower()
 
     return question_text
@@ -64,9 +64,7 @@ if __name__ == '__main__':
     ocean_data = read_ocean(filename)
 
     #Model definitions
-    model_dir = '/data/akshat/models/'
     model_name = 'gpt-3.5-turbo'
-    model_location = model_dir + model_name
     temperature = 0.01
     top_p = 1
     max_tokens = 120
@@ -77,6 +75,8 @@ if __name__ == '__main__':
 
     #START EXPERIMENTS
     for prompt_type in chat_prompts.keys():
+        if prompt_type in ['mpi-gpt35', 'mpi-gpt35-reverse', 'chatgpt-an-enfj']:
+            continue
         output_filename = output_directory + prompt_type + '.json'
 
         system_message = chat_prompts[prompt_type]['system_message']

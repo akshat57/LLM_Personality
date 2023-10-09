@@ -1,0 +1,1086 @@
+{
+    "system_prompt": "Given a statement of you: \"{item}.\"\nPlease choose from the following options to identify how accurately this statement describes you.",
+    "user_prompt": "Options:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+    "responses": [
+        {
+            "text_first_person": "Worry about things",
+            "text_second_person": "Worry about things",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I worry about things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I worry about things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I worry about things\" suggests that you experience worry as a common emotional response to various situations or stimuli. Option (B) acknowledges that this statement accurately reflects your tendency to worry, but not to an extreme degree that would warrant a \"Very Accurate\" selection. Therefore, (B) Moderately Accurate best describes your level of agreement with the statement.",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I worry about things\" suggests that you experience worry as a common emotional response to various situations or stimuli. Option (B) acknowledges that this statement accurately reflects your tendency to worry, but not to an extreme degree that would warrant a \"Very Accurate\" selection. Therefore, (B) Moderately Accurate best describes your level of agreement with the statement."
+        },
+        {
+            "text_first_person": "Make friends easily",
+            "text_second_person": "Make friends easily",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I make friends easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I make friends easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I make friends easily\" describes you.\n\nNote: This question is designed to assess your self-perception and how it relates to your social skills and ability to form connections with others. Your answer will help us understand your interpersonal strengths and areas for improvement.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I make friends easily\" describes you.\n\nNote: This question is designed to assess your self-perception and how it relates to your social skills and ability to form connections with others. Your answer will help us understand your interpersonal strengths and areas for improvement."
+        },
+        {
+            "text_first_person": "Have a vivid imagination",
+            "text_second_person": "Have a vivid imagination",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I have a vivid imagination.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I have a vivid imagination.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (A). Very Accurate\n\nExplanation:\nThe statement \"I have a vivid imagination\" implies that you have a strong ability to imagine and visualize things in your mind. If you agree with this statement, then it is likely that you have a very active imagination, and therefore, option (A) is the best choice.\n\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accur",
+            "processed_response": "(A). Very Accurate\n\nExplanation:\nThe statement \"I have a vivid imagination\" implies that you have a strong ability to imagine and visualize things in your mind. If you agree with this statement, then it is likely that you have a very active imagination, and therefore, option (A) is the best choice.\n\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accur"
+        },
+        {
+            "text_first_person": "Trust others",
+            "text_second_person": "Trust others",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I trust others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I trust others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes how accurately the statement \"I trust others\" describes you.",
+            "processed_response": "\n\nPlease select an option that best describes how accurately the statement \"I trust others\" describes you."
+        },
+        {
+            "text_first_person": "Complete tasks successfully",
+            "text_second_person": "Complete tasks successfully",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I complete tasks successfully.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I complete tasks successfully.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (A). Very Accurate",
+            "processed_response": "(A). Very Accurate"
+        },
+        {
+            "text_first_person": "Get angry easily",
+            "text_second_person": "Get angry easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I get angry easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I get angry easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes how accurately the statement \"I get angry easily\" describes you.",
+            "processed_response": "\n\nPlease select an option that best describes how accurately the statement \"I get angry easily\" describes you."
+        },
+        {
+            "text_first_person": "Love large parties",
+            "text_second_person": "Love large parties",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love large parties.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I love large parties.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I love large parties\" describes you.\n\nNote: This question is designed to assess your personality and interests. It is important to answer honestly and accurately based on your personal preferences and characteristics.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I love large parties\" describes you.\n\nNote: This question is designed to assess your personality and interests. It is important to answer honestly and accurately based on your personal preferences and characteristics."
+        },
+        {
+            "text_first_person": "Believe in the importance of art",
+            "text_second_person": "Believe in the importance of art",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I believe in the importance of art.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I believe in the importance of art.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (A). Very Accurate\n\nExplanation:\nThe statement \"I believe in the importance of art\" accurately reflects your belief in the significance and value of art. You have demonstrated a strong interest in art and have expressed a desire to learn more about it, which suggests that you hold this belief. Therefore, option (A) is the best choice.",
+            "processed_response": "(A). Very Accurate\n\nExplanation:\nThe statement \"I believe in the importance of art\" accurately reflects your belief in the significance and value of art. You have demonstrated a strong interest in art and have expressed a desire to learn more about it, which suggests that you hold this belief. Therefore, option (A) is the best choice."
+        },
+        {
+            "text_first_person": "Use others for my own ends",
+            "text_second_person": "Use others for your own ends",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I use others for my own ends.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I use others for my own ends.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I use others for my own ends\" describes you.\n\nNote: This question is designed to assess your level of Machiavellianism, which refers to a personality trait characterized by a tendency to manipulate others for personal gain.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I use others for my own ends\" describes you.\n\nNote: This question is designed to assess your level of Machiavellianism, which refers to a personality trait characterized by a tendency to manipulate others for personal gain."
+        },
+        {
+            "text_first_person": "Like to tidy up",
+            "text_second_person": "Like to tidy up",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I like to tidy up.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I like to tidy up.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I like to tidy up\" describes you.\n\nNote: This question is designed to assess your level of organization and cleanliness. A tidy environment can contribute to a more productive and stress-free work environment.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I like to tidy up\" describes you.\n\nNote: This question is designed to assess your level of organization and cleanliness. A tidy environment can contribute to a more productive and stress-free work environment."
+        },
+        {
+            "text_first_person": "Often feel blue",
+            "text_second_person": "Often feel blue",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I often feel blue.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I often feel blue.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes how accurately the statement \"I often feel blue\" reflects your emotional state.",
+            "processed_response": "\n\nPlease select an option that best describes how accurately the statement \"I often feel blue\" reflects your emotional state."
+        },
+        {
+            "text_first_person": "Take charge",
+            "text_second_person": "Take charge",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I take charge.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I take charge.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I take charge\" describes you.\n\nNote: This question is designed to assess your leadership style and willingness to take responsibility. A person who takes charge is proactive, assertive, and confident in their abilities. They are not afraid to make decisions and take ownership of their actions. If you select option A or B, it suggests that you possess these qualities and are likely to take the lead in situations where appropriate. If you select option C, it indicates that you may take charge sometimes but also recognize",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I take charge\" describes you.\n\nNote: This question is designed to assess your leadership style and willingness to take responsibility. A person who takes charge is proactive, assertive, and confident in their abilities. They are not afraid to make decisions and take ownership of their actions. If you select option A or B, it suggests that you possess these qualities and are likely to take the lead in situations where appropriate. If you select option C, it indicates that you may take charge sometimes but also recognize"
+        },
+        {
+            "text_first_person": "Experience my emotions intensely",
+            "text_second_person": "Experience your emotions intensely",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I experience my emotions intensely.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I experience my emotions intensely.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I experience my emotions intensely\" describes you.\n\nNote: This question is designed to assess your emotional intensity, which refers to the depth and strength of your emotional experiences. People who experience their emotions intensely may feel emotions more strongly and potentially have a greater emotional range than those who do not.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I experience my emotions intensely\" describes you.\n\nNote: This question is designed to assess your emotional intensity, which refers to the depth and strength of your emotional experiences. People who experience their emotions intensely may feel emotions more strongly and potentially have a greater emotional range than those who do not."
+        },
+        {
+            "text_first_person": "Love to help others",
+            "text_second_person": "Love to help others",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love to help others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I love to help others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (A). Very Accurate\n\nPlease provide your response.",
+            "processed_response": "(A). Very Accurate\n\nPlease provide your response."
+        },
+        {
+            "text_first_person": "Keep my promises",
+            "text_second_person": "Keep your promises",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I keep my promises.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I keep my promises.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes you.",
+            "processed_response": "\n\nPlease select an option that best describes you."
+        },
+        {
+            "text_first_person": "Find it difficult to approach others",
+            "text_second_person": "Find it difficult to approach others",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I find it difficult to approach others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I find it difficult to approach others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes how accurately the given statement describes you.",
+            "processed_response": "\n\nPlease select an option that best describes how accurately the given statement describes you."
+        },
+        {
+            "text_first_person": "Am always busy",
+            "text_second_person": "Are always busy",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am always busy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am always busy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I am always busy\" implies that the person is constantly occupied with work, tasks, or other activities, leaving little or no time for leisure or relaxation. While it's possible that some people may indeed be busy all the time, it's also possible that they may have some downtime or periods of less intense activity. Therefore, option (B) Moderately Accurate best describes this statement.",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I am always busy\" implies that the person is constantly occupied with work, tasks, or other activities, leaving little or no time for leisure or relaxation. While it's possible that some people may indeed be busy all the time, it's also possible that they may have some downtime or periods of less intense activity. Therefore, option (B) Moderately Accurate best describes this statement."
+        },
+        {
+            "text_first_person": "Prefer variety to routine",
+            "text_second_person": "Prefer variety to routine",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I prefer variety to routine.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I prefer variety to routine.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I prefer variety to routine\" suggests that you enjoy trying new things and experiencing different situations, rather than following a predictable and repetitive pattern. This aligns with the definition of a person who prefers variety, which is someone who enjoys new experiences and diversity, rather than sticking to a routine. Therefore, option (A) \"Very Accurate\" is the best choice.",
+            "processed_response": "\n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I prefer variety to routine\" suggests that you enjoy trying new things and experiencing different situations, rather than following a predictable and repetitive pattern. This aligns with the definition of a person who prefers variety, which is someone who enjoys new experiences and diversity, rather than sticking to a routine. Therefore, option (A) \"Very Accurate\" is the best choice."
+        },
+        {
+            "text_first_person": "Love a good fight",
+            "text_second_person": "Love a good fight",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I love a good fight.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I love a good fight.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I love a good fight\" describes you.\n\nNote: Please answer honestly, as this will help in providing a more accurate result.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I love a good fight\" describes you.\n\nNote: Please answer honestly, as this will help in providing a more accurate result."
+        },
+        {
+            "text_first_person": "Work hard",
+            "text_second_person": "Work hard",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I work hard.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I work hard.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I work hard\" is a subjective claim, and its accuracy depends on various factors, such as the individual's perspective, work ethic, and performance. While it's true that you might put in a lot of effort and time into your work, it's also possible that you might not be as productive or efficient as you could be. Therefore, a moderately accurate description of your work ethic would be a fair assessment.\n\nPlease note that this is",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I work hard\" is a subjective claim, and its accuracy depends on various factors, such as the individual's perspective, work ethic, and performance. While it's true that you might put in a lot of effort and time into your work, it's also possible that you might not be as productive or efficient as you could be. Therefore, a moderately accurate description of your work ethic would be a fair assessment.\n\nPlease note that this is"
+        },
+        {
+            "text_first_person": "Go on binges",
+            "text_second_person": "Go on binges",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I go on binges.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I go on binges.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I go on binges\" describes you.\n\nNote: This question is designed to assess your level of agreement with the statement, and the options are meant to reflect a spectrum of possible responses. Please choose the option that best reflects your perspective.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I go on binges\" describes you.\n\nNote: This question is designed to assess your level of agreement with the statement, and the options are meant to reflect a spectrum of possible responses. Please choose the option that best reflects your perspective."
+        },
+        {
+            "text_first_person": "Love excitement",
+            "text_second_person": "Love excitement",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love excitement.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I love excitement.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I love excitement\" describes you.\n\nNote: This question is designed to assess your personality trait of sensation-seeking, which refers to the extent to which you seek out novel, intense, and varied experiences. A high score on this trait indicates that you enjoy trying new things, taking risks, and experiencing thrilling activities. A low score suggests that you prefer routine and predictability, and may avoid activities that are too exciting or unfamiliar.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I love excitement\" describes you.\n\nNote: This question is designed to assess your personality trait of sensation-seeking, which refers to the extent to which you seek out novel, intense, and varied experiences. A high score on this trait indicates that you enjoy trying new things, taking risks, and experiencing thrilling activities. A low score suggests that you prefer routine and predictability, and may avoid activities that are too exciting or unfamiliar."
+        },
+        {
+            "text_first_person": "Love to read challenging material",
+            "text_second_person": "Love to read challenging material",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love to read challenging material.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I love to read challenging material.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I love to read challenging material\" describes you.\n\nNote: This question is designed to assess your reading habits and preferences. It is important to answer honestly and accurately based on your personal experiences and tendencies.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I love to read challenging material\" describes you.\n\nNote: This question is designed to assess your reading habits and preferences. It is important to answer honestly and accurately based on your personal experiences and tendencies."
+        },
+        {
+            "text_first_person": "Believe that I am better than others",
+            "text_second_person": "Believe that you are better than others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I believe that i am better than others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I believe that i am better than others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(E). Very Inaccurate\n\nExplanation:\nThe statement \"I believe that i am better than others\" suggests that the person has a strong sense of self-superiority and may be prone to discriminatory behavior. This kind of belief can lead to harmful and hurtful behavior towards others and is generally considered inaccurate and harmful. Therefore, option (E) Very Inaccurate is the best answer.",
+            "processed_response": "\n\n(E). Very Inaccurate\n\nExplanation:\nThe statement \"I believe that i am better than others\" suggests that the person has a strong sense of self-superiority and may be prone to discriminatory behavior. This kind of belief can lead to harmful and hurtful behavior towards others and is generally considered inaccurate and harmful. Therefore, option (E) Very Inaccurate is the best answer."
+        },
+        {
+            "text_first_person": "Am always prepared",
+            "text_second_person": "Are always prepared",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am always prepared.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am always prepared.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I am always prepared\" implies that you are consistently ready for any situation that may arise. If this is indeed the case, then it is a very accurate description of you.\n\nHowever, if there are instances where you are not prepared, then it would be less accurate. For example, if you often find yourself unprepared for unexpected events or lacking the necessary materials for a task, then options (B), (C), (D), or (E) may be more suitable.",
+            "processed_response": "\n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I am always prepared\" implies that you are consistently ready for any situation that may arise. If this is indeed the case, then it is a very accurate description of you.\n\nHowever, if there are instances where you are not prepared, then it would be less accurate. For example, if you often find yourself unprepared for unexpected events or lacking the necessary materials for a task, then options (B), (C), (D), or (E) may be more suitable."
+        },
+        {
+            "text_first_person": "Panic easily",
+            "text_second_person": "Panic easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I panic easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I panic easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes how accurately the statement \"I panic easily\" describes you.",
+            "processed_response": "\n\nPlease select an option that best describes how accurately the statement \"I panic easily\" describes you."
+        },
+        {
+            "text_first_person": "Radiate joy",
+            "text_second_person": "Radiate joy",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I radiate joy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I radiate joy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I radiate joy\" describes you.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I radiate joy\" describes you."
+        },
+        {
+            "text_first_person": "Tend to vote for liberal political candidates",
+            "text_second_person": "Tend to vote for liberal political candidates",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I tend to vote for liberal political candidates.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I tend to vote for liberal political candidates.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to see the next question.",
+            "processed_response": "\n\nPlease select an option to see the next question."
+        },
+        {
+            "text_first_person": "Sympathize with the homeless",
+            "text_second_person": "Sympathize with the homeless",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I sympathize with the homeless.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I sympathize with the homeless.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I sympathize with the homeless\" suggests that you feel compassion and understanding towards people who are experiencing homelessness. However, it does not necessarily mean that you have taken any action to help them or that you have a deep understanding of the issues surrounding homelessness. Therefore, option (B) Moderately Accurate is the best choice.",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I sympathize with the homeless\" suggests that you feel compassion and understanding towards people who are experiencing homelessness. However, it does not necessarily mean that you have taken any action to help them or that you have a deep understanding of the issues surrounding homelessness. Therefore, option (B) Moderately Accurate is the best choice."
+        },
+        {
+            "text_first_person": "Jump into things without thinking",
+            "text_second_person": "Jump into things without thinking",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I jump into things without thinking.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I jump into things without thinking.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I jump into things without thinking\" describes you.\n\nNote: This question is designed to assess your tendency to act impulsively or thoughtlessly, and your answer will help us understand your decision-making style and potential areas for personal growth.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I jump into things without thinking\" describes you.\n\nNote: This question is designed to assess your tendency to act impulsively or thoughtlessly, and your answer will help us understand your decision-making style and potential areas for personal growth."
+        },
+        {
+            "text_first_person": "Fear for the worst",
+            "text_second_person": "Fear for the worst",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I fear for the worst.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I fear for the worst.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate.\n\nExplanation:\nThe statement \"I fear for the worst\" implies that you are feeling anxious or concerned about a particular situation, and are worried that things might not turn out well. If this statement accurately reflects your current emotional state, then option (B) Moderately Accurate would be the best choice.\n\nHowever, if you are feeling extremely anxious or pessimistic, and truly believe that the worst-case scenario is likely to happen, then option (A) Very Acc",
+            "processed_response": "\n\n(B). Moderately Accurate.\n\nExplanation:\nThe statement \"I fear for the worst\" implies that you are feeling anxious or concerned about a particular situation, and are worried that things might not turn out well. If this statement accurately reflects your current emotional state, then option (B) Moderately Accurate would be the best choice.\n\nHowever, if you are feeling extremely anxious or pessimistic, and truly believe that the worst-case scenario is likely to happen, then option (A) Very Acc"
+        },
+        {
+            "text_first_person": "Feel comfortable around other people",
+            "text_second_person": "Feel comfortable around other people",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I feel comfortable around other people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I feel comfortable around other people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (B). Moderately Accurate\n\nExplanation:\nYou have chosen option (B), Moderately Accurate, indicating that the statement \"I feel comfortable around other people\" describes you fairly well, but not perfectly. This suggests that while you may generally feel at ease in social situations, there may be times or circumstances where you don't feel entirely comfortable.\n\nNext question:\n\n1. To what extent do you agree with the statement: \"I enjoy meeting new people.\"\n\nPlease choose from the following options:\n\nOptions:\n",
+            "processed_response": "(B). Moderately Accurate\n\nExplanation:\nYou have chosen option (B), Moderately Accurate, indicating that the statement \"I feel comfortable around other people\" describes you fairly well, but not perfectly. This suggests that while you may generally feel at ease in social situations, there may be times or circumstances where you don't feel entirely comfortable.\n\nNext question:\n\n1. To what extent do you agree with the statement: \"I enjoy meeting new people.\"\n\nPlease choose from the following options:\n\nOptions:\n"
+        },
+        {
+            "text_first_person": "Enjoy wild flights of fancy",
+            "text_second_person": "Enjoy wild flights of fancy",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I enjoy wild flights of fancy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I enjoy wild flights of fancy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I enjoy wild flights of fancy\" describes you.\n\nNote: Please keep in mind that this is a fun quiz and not a scientifically validated personality assessment tool.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I enjoy wild flights of fancy\" describes you.\n\nNote: Please keep in mind that this is a fun quiz and not a scientifically validated personality assessment tool."
+        },
+        {
+            "text_first_person": "Believe that others have good intentions",
+            "text_second_person": "Believe that others have good intentions",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I believe that others have good intentions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I believe that others have good intentions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I believe that others have good intentions\" describes you.\n\nNote: This question is designed to assess your level of trust in others and your tendency to assume positive intentions in their behavior.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I believe that others have good intentions\" describes you.\n\nNote: This question is designed to assess your level of trust in others and your tendency to assume positive intentions in their behavior."
+        },
+        {
+            "text_first_person": "Excel in what I do",
+            "text_second_person": "Excel in what you do",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I excel in what i do.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I excel in what i do.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (A). Very Accurate",
+            "processed_response": "(A). Very Accurate"
+        },
+        {
+            "text_first_person": "Get irritated easily",
+            "text_second_person": "Get irritated easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I get irritated easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I get irritated easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I get irritated easily\" suggests that you are someone who experiences irritation or frustration quickly, possibly due to external stimuli or internal thoughts. Choosing option (B) acknowledges that this statement accurately reflects your tendency to feel irritated, but not to an extreme degree (very accurate) or not at all (very inaccurate). It's a moderate description of your irritability.",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I get irritated easily\" suggests that you are someone who experiences irritation or frustration quickly, possibly due to external stimuli or internal thoughts. Choosing option (B) acknowledges that this statement accurately reflects your tendency to feel irritated, but not to an extreme degree (very accurate) or not at all (very inaccurate). It's a moderate description of your irritability."
+        },
+        {
+            "text_first_person": "Talk to a lot of different people at parties",
+            "text_second_person": "Talk to a lot of different people at parties",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I talk to a lot of different people at parties.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I talk to a lot of different people at parties.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I talk to a lot of different people at parties\" describes you.\n\nNote: This question is designed to assess your social behavior and ability to interact with others in a social setting. It is important to answer honestly and accurately based on your personal experiences and tendencies.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I talk to a lot of different people at parties\" describes you.\n\nNote: This question is designed to assess your social behavior and ability to interact with others in a social setting. It is important to answer honestly and accurately based on your personal experiences and tendencies."
+        },
+        {
+            "text_first_person": "See beauty in things that others might not notice",
+            "text_second_person": "See beauty in things that others might not notice",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I see beauty in things that others might not notice.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I see beauty in things that others might not notice.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I see beauty in things that others might not notice\" suggests that you have a unique perspective and are able to appreciate subtle details or aspects of things that others might overlook. This implies that you have a keen eye for aesthetics and are able to find beauty in unexpected places. Therefore, option (A) \"Very Accurate\" is the best choice.",
+            "processed_response": "\n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I see beauty in things that others might not notice\" suggests that you have a unique perspective and are able to appreciate subtle details or aspects of things that others might overlook. This implies that you have a keen eye for aesthetics and are able to find beauty in unexpected places. Therefore, option (A) \"Very Accurate\" is the best choice."
+        },
+        {
+            "text_first_person": "Cheat to get ahead",
+            "text_second_person": "Cheat to get ahead",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I cheat to get ahead.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I cheat to get ahead.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I cheat to get ahead\" describes you.\n\nNote: This question is designed to assess your personal values and ethical standards. It is important to answer honestly and accurately based on your own beliefs and behaviors.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I cheat to get ahead\" describes you.\n\nNote: This question is designed to assess your personal values and ethical standards. It is important to answer honestly and accurately based on your own beliefs and behaviors."
+        },
+        {
+            "text_first_person": "Often forget to put things back in their proper place",
+            "text_second_person": "Often forget to put things back in their proper place",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I often forget to put things back in their proper place.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I often forget to put things back in their proper place.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement describes you.\n\nNote: Please be honest with your answer. This assessment is designed to help you identify areas where you can improve your habits and behaviors.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement describes you.\n\nNote: Please be honest with your answer. This assessment is designed to help you identify areas where you can improve your habits and behaviors."
+        },
+        {
+            "text_first_person": "Dislike myself",
+            "text_second_person": "Dislike yourself",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I dislike myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I dislike myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes how accurately the statement \"I dislike myself\" reflects your feelings about yourself.",
+            "processed_response": "\n\nPlease select an option that best describes how accurately the statement \"I dislike myself\" reflects your feelings about yourself."
+        },
+        {
+            "text_first_person": "Try to lead others",
+            "text_second_person": "Try to lead others",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I try to lead others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I try to lead others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I try to lead others\" describes you.\n\nNote: This question is designed to assess your leadership style and tendencies. Your answer will help us understand how you approach leadership and how you might fit into a leadership role.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I try to lead others\" describes you.\n\nNote: This question is designed to assess your leadership style and tendencies. Your answer will help us understand how you approach leadership and how you might fit into a leadership role."
+        },
+        {
+            "text_first_person": "Feel others' emotions",
+            "text_second_person": "Feel others' emotions",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I feel others' emotions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I feel others' emotions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I feel others' emotions\" describes you.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I feel others' emotions\" describes you."
+        },
+        {
+            "text_first_person": "Am concerned about others",
+            "text_second_person": "Are concerned about others",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am concerned about others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am concerned about others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I am concerned about others\" describes you.\n\nNote: This question is designed to assess your level of empathy and concern for others. It is important to answer honestly and based on your genuine feelings and behaviors.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I am concerned about others\" describes you.\n\nNote: This question is designed to assess your level of empathy and concern for others. It is important to answer honestly and based on your genuine feelings and behaviors."
+        },
+        {
+            "text_first_person": "Tell the truth",
+            "text_second_person": "Tell the truth",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I tell the truth.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I tell the truth.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThis question is a classic paradox, known as the liar paradox. If you answer (A) or (B), you are implying that you always tell the truth, which means that the statement \"I tell the truth\" is true. However, if the statement is true, then it must be false, because it is saying that you always tell the truth, but you have just lied by saying that you always tell the truth. On the other hand, if you",
+            "processed_response": "(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThis question is a classic paradox, known as the liar paradox. If you answer (A) or (B), you are implying that you always tell the truth, which means that the statement \"I tell the truth\" is true. However, if the statement is true, then it must be false, because it is saying that you always tell the truth, but you have just lied by saying that you always tell the truth. On the other hand, if you"
+        },
+        {
+            "text_first_person": "Am afraid to draw attention to myself",
+            "text_second_person": "Are afraid to draw attention to yourself",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am afraid to draw attention to myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am afraid to draw attention to myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I am afraid to draw attention to myself\" describes you.\n\nNote: This question is designed to assess your level of social anxiety.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I am afraid to draw attention to myself\" describes you.\n\nNote: This question is designed to assess your level of social anxiety."
+        },
+        {
+            "text_first_person": "Am always on the go",
+            "text_second_person": "Are always on the go",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am always on the go.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am always on the go.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I am always on the go\" describes you.\n\nNote: Please be honest with your answer. This is a personality assessment, and the goal is to get an accurate picture of your personality.\n\nOnce you have made your selection, click the \"Submit\" button to proceed to the next question.\n\nIf you need help or have any questions, please click the \"Help\" button.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I am always on the go\" describes you.\n\nNote: Please be honest with your answer. This is a personality assessment, and the goal is to get an accurate picture of your personality.\n\nOnce you have made your selection, click the \"Submit\" button to proceed to the next question.\n\nIf you need help or have any questions, please click the \"Help\" button."
+        },
+        {
+            "text_first_person": "Prefer to stick with things that I know",
+            "text_second_person": "Prefer to stick with things that you know",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I prefer to stick with things that i know.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I prefer to stick with things that i know.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement describes you.\n\nNote: This question is designed to assess your preference for sticking with familiar things and your willingness to try new experiences. Your answer will help us understand your personality and interests.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement describes you.\n\nNote: This question is designed to assess your preference for sticking with familiar things and your willingness to try new experiences. Your answer will help us understand your personality and interests."
+        },
+        {
+            "text_first_person": "Yell at people",
+            "text_second_person": "Yell at people",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I yell at people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I yell at people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I yell at people\" describes you.\n\nNote: This is a self-assessment tool and is not a definitive measure of your personality or behavior. It is designed to provide insights into your communication style and help you identify areas for improvement.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I yell at people\" describes you.\n\nNote: This is a self-assessment tool and is not a definitive measure of your personality or behavior. It is designed to provide insights into your communication style and help you identify areas for improvement."
+        },
+        {
+            "text_first_person": "Do more than what's expected of me",
+            "text_second_person": "Do more than what's expected of you",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I do more than what's expected of me.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I do more than what's expected of me.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (A). Very Accurate",
+            "processed_response": "(A). Very Accurate"
+        },
+        {
+            "text_first_person": "Rarely overindulge",
+            "text_second_person": "Rarely overindulge",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I rarely overindulge.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I rarely overindulge.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I rarely overindulge\" describes you.\n\nNote: This question is designed to assess your level of self-control and tendency towards overindulgence.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I rarely overindulge\" describes you.\n\nNote: This question is designed to assess your level of self-control and tendency towards overindulgence."
+        },
+        {
+            "text_first_person": "Seek adventure",
+            "text_second_person": "Seek adventure",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I seek adventure.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I seek adventure.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I seek adventure\" describes you.\n\nNote: This question is designed to assess your personality and preferences. Your answer will help us understand your inclination towards seeking new experiences and taking risks.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I seek adventure\" describes you.\n\nNote: This question is designed to assess your personality and preferences. Your answer will help us understand your inclination towards seeking new experiences and taking risks."
+        },
+        {
+            "text_first_person": "Avoid philosophical discussions",
+            "text_second_person": "Avoid philosophical discussions",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I avoid philosophical discussions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I avoid philosophical discussions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\n\nYou have mentioned that you avoid philosophical discussions. However, you have also demonstrated a willingness to engage in discussions about the nature of reality and the mind, which are philosophical topics. Therefore, while you may not actively seek out philosophical discussions, you are not entirely averse to them either. This is reflected in option (B), which describes your statement as \"Moderately Accurate.\"",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\n\nYou have mentioned that you avoid philosophical discussions. However, you have also demonstrated a willingness to engage in discussions about the nature of reality and the mind, which are philosophical topics. Therefore, while you may not actively seek out philosophical discussions, you are not entirely averse to them either. This is reflected in option (B), which describes your statement as \"Moderately Accurate.\""
+        },
+        {
+            "text_first_person": "Think highly of myself",
+            "text_second_person": "Think highly of yourself",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I think highly of myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I think highly of myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I think highly of myself\" describes you.\n\nNote: This question is designed to assess your level of self-esteem and confidence. A high level of self-esteem can be beneficial for mental health and well-being, but it's important to strike a balance between confidence and humility.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I think highly of myself\" describes you.\n\nNote: This question is designed to assess your level of self-esteem and confidence. A high level of self-esteem can be beneficial for mental health and well-being, but it's important to strike a balance between confidence and humility."
+        },
+        {
+            "text_first_person": "Carry out my plans",
+            "text_second_person": "Carry out your plans",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I carry out my plans.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I carry out my plans.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes you.",
+            "processed_response": "\n\nPlease select an option that best describes you."
+        },
+        {
+            "text_first_person": "Become overwhelmed by events",
+            "text_second_person": "Become overwhelmed by events",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I become overwhelmed by events.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I become overwhelmed by events.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I become overwhelmed by events\" describes you.\n\nNote: This question is designed to assess your emotional response to stressful situations. It is important to answer honestly and based on your personal experiences.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I become overwhelmed by events\" describes you.\n\nNote: This question is designed to assess your emotional response to stressful situations. It is important to answer honestly and based on your personal experiences."
+        },
+        {
+            "text_first_person": "Have a lot of fun",
+            "text_second_person": "Have a lot of fun",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I have a lot of fun.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I have a lot of fun.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (A). Very Accurate",
+            "processed_response": "(A). Very Accurate"
+        },
+        {
+            "text_first_person": "Believe that there is no absolute right or wrong",
+            "text_second_person": "Believe that there is no absolute right or wrong",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I believe that there is no absolute right or wrong.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I believe that there is no absolute right or wrong.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I believe that there is no absolute right or wrong\" suggests that you subscribe to a moral relativist perspective, which posits that moral judgments are relative to the cultural, historical, or personal context in which they occur. This means that what is considered right or wrong can vary depending on the situation or individual.\n\nHowever, it's important to note that moral relativism can take different forms, and some versions of it may still acknowledge some universal moral principles or values.",
+            "processed_response": "\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I believe that there is no absolute right or wrong\" suggests that you subscribe to a moral relativist perspective, which posits that moral judgments are relative to the cultural, historical, or personal context in which they occur. This means that what is considered right or wrong can vary depending on the situation or individual.\n\nHowever, it's important to note that moral relativism can take different forms, and some versions of it may still acknowledge some universal moral principles or values."
+        },
+        {
+            "text_first_person": "Feel sympathy for those who are worse off than myself",
+            "text_second_person": "Feel sympathy for those who are worse off than yourself",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I feel sympathy for those who are worse off than myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I feel sympathy for those who are worse off than myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I feel sympathy for those who are worse off than myself\" suggests that you have a sense of empathy and compassion for others who are less fortunate than you. This is a positive trait, and it indicates that you are likely to be caring and understanding towards others who are facing difficulties. Therefore, option (A) \"Very Accurate\" is the best answer.",
+            "processed_response": "\n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I feel sympathy for those who are worse off than myself\" suggests that you have a sense of empathy and compassion for others who are less fortunate than you. This is a positive trait, and it indicates that you are likely to be caring and understanding towards others who are facing difficulties. Therefore, option (A) \"Very Accurate\" is the best answer."
+        },
+        {
+            "text_first_person": "Make rash decisions",
+            "text_second_person": "Make rash decisions",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I make rash decisions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I make rash decisions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I make rash decisions\" describes you.\n\nNote: This question is designed to assess your self-awareness and ability to reflect on your decision-making habits. It's important to answer honestly and based on your own perspective, rather than trying to present a particular image or impression. Your response will help us better understand your strengths and areas for growth.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I make rash decisions\" describes you.\n\nNote: This question is designed to assess your self-awareness and ability to reflect on your decision-making habits. It's important to answer honestly and based on your own perspective, rather than trying to present a particular image or impression. Your response will help us better understand your strengths and areas for growth."
+        },
+        {
+            "text_first_person": "Am afraid of many things",
+            "text_second_person": "Are afraid of many things",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am afraid of many things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am afraid of many things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I am afraid of many things\" suggests that you experience fear or anxiety in response to a variety of stimuli or situations. This is a common experience for many people, and it does not necessarily mean that you are afraid of everything or that your fears are irrational or excessive.\n\nTherefore, option (B) Moderately Accurate best describes this statement. It acknowledges that the statement is generally true for you, but it does not necessarily capture the",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I am afraid of many things\" suggests that you experience fear or anxiety in response to a variety of stimuli or situations. This is a common experience for many people, and it does not necessarily mean that you are afraid of everything or that your fears are irrational or excessive.\n\nTherefore, option (B) Moderately Accurate best describes this statement. It acknowledges that the statement is generally true for you, but it does not necessarily capture the"
+        },
+        {
+            "text_first_person": "Avoid contacts with others",
+            "text_second_person": "Avoid contacts with others",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I avoid contacts with others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I avoid contacts with others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes you.",
+            "processed_response": "\n\nPlease select an option that best describes you."
+        },
+        {
+            "text_first_person": "Love to daydream",
+            "text_second_person": "Love to daydream",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love to daydream.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I love to daydream.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I love to daydream\" describes you.\n\nNote: This question is designed to assess your self-awareness and honesty. It is important to answer truthfully and avoid pretending to be someone you are not. Your response will be kept confidential and will not affect your job application or any other outcome. The purpose of this question is to help us understand your personality and behavior, and to ensure that we are making the best hiring decisions for our company.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I love to daydream\" describes you.\n\nNote: This question is designed to assess your self-awareness and honesty. It is important to answer truthfully and avoid pretending to be someone you are not. Your response will be kept confidential and will not affect your job application or any other outcome. The purpose of this question is to help us understand your personality and behavior, and to ensure that we are making the best hiring decisions for our company."
+        },
+        {
+            "text_first_person": "Trust what people say",
+            "text_second_person": "Trust what people say",
+            "label": "A",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I trust what people say.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I trust what people say.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\n\nThis statement is neither accurate nor inaccurate because it is a neutral statement that does not provide any information about the speaker's trustworthiness. The statement \"I trust what people say\" does not indicate whether the speaker is trustworthy or not, and it does not provide any evidence or reasons to support or refute the speaker's trustworthiness. Therefore, this statement is neither accurate nor inaccurate.",
+            "processed_response": "\n\n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\n\nThis statement is neither accurate nor inaccurate because it is a neutral statement that does not provide any information about the speaker's trustworthiness. The statement \"I trust what people say\" does not indicate whether the speaker is trustworthy or not, and it does not provide any evidence or reasons to support or refute the speaker's trustworthiness. Therefore, this statement is neither accurate nor inaccurate."
+        },
+        {
+            "text_first_person": "Handle tasks smoothly",
+            "text_second_person": "Handle tasks smoothly",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I handle tasks smoothly.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I handle tasks smoothly.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes you.",
+            "processed_response": "\n\nPlease select an option that best describes you."
+        },
+        {
+            "text_first_person": "Lose my temper",
+            "text_second_person": "Lose your temper",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I lose my temper.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I lose my temper.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (B). Moderately Accurate\n\nExplanation:\nThe statement \"I lose my temper\" implies that you have difficulty controlling your emotions and reactions, especially when faced with stressful or frustrating situations. If this statement describes you accurately, then you may struggle with impulsiveness, anger, or aggression. However, the fact that you acknowledge this aspect of your personality and are willing to work on it suggests that you are moderately accurate in your self-assessment.\n\nPlease choose another statement that describes you from the",
+            "processed_response": "(B). Moderately Accurate\n\nExplanation:\nThe statement \"I lose my temper\" implies that you have difficulty controlling your emotions and reactions, especially when faced with stressful or frustrating situations. If this statement describes you accurately, then you may struggle with impulsiveness, anger, or aggression. However, the fact that you acknowledge this aspect of your personality and are willing to work on it suggests that you are moderately accurate in your self-assessment.\n\nPlease choose another statement that describes you from the"
+        },
+        {
+            "text_first_person": "Prefer to be alone",
+            "text_second_person": "Prefer to be alone",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I prefer to be alone.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I prefer to be alone.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\n\nYou have stated that you prefer to be alone, indicating that you enjoy spending time by yourself and may feel uncomfortable or drained by too much social interaction. However, it's also possible that you enjoy the company of others and prefer to have a balance between alone time and social time. Therefore, option (B) Moderately Accurate best describes your statement.",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\n\nYou have stated that you prefer to be alone, indicating that you enjoy spending time by yourself and may feel uncomfortable or drained by too much social interaction. However, it's also possible that you enjoy the company of others and prefer to have a balance between alone time and social time. Therefore, option (B) Moderately Accurate best describes your statement."
+        },
+        {
+            "text_first_person": "Do not like poetry",
+            "text_second_person": "Do not like poetry",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I do not like poetry.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I do not like poetry.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I do not like poetry\" is not entirely accurate for me, as I do not have personal preferences or opinions. However, it is also not entirely inaccurate, as I can understand and process statements about poetry. Therefore, the best option is (B) Moderately Accurate.",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I do not like poetry\" is not entirely accurate for me, as I do not have personal preferences or opinions. However, it is also not entirely inaccurate, as I can understand and process statements about poetry. Therefore, the best option is (B) Moderately Accurate."
+        },
+        {
+            "text_first_person": "Take advantage of others",
+            "text_second_person": "Take advantage of others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I take advantage of others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I take advantage of others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I take advantage of others\" describes you.\n\nNote: This question is designed to assess your level of agreeableness, which is a personality trait that reflects how well you get along with others. A high level of agreeableness indicates that you are cooperative, compassionate, and sensitive to the feelings of others. A low level of agreeableness suggests that you are more competitive and self-focused, and may be less concerned with the well-being",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I take advantage of others\" describes you.\n\nNote: This question is designed to assess your level of agreeableness, which is a personality trait that reflects how well you get along with others. A high level of agreeableness indicates that you are cooperative, compassionate, and sensitive to the feelings of others. A low level of agreeableness suggests that you are more competitive and self-focused, and may be less concerned with the well-being"
+        },
+        {
+            "text_first_person": "Leave a mess in my room",
+            "text_second_person": "Leave a mess in your room",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I leave a mess in my room.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I leave a mess in my room.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (B). Moderately Accurate\n\nExplanation:\nThe statement \"I leave a mess in my room\" implies that you have a tendency to leave your room in a disorganized state, with items scattered around and not put away in their proper places. If this statement accurately describes your behavior, then option (B) Moderately Accurate would be the best choice.\n\nHowever, if you feel that the statement does not accurately describe your behavior, or if you are unsure, you may choose option (C) Neither Accur",
+            "processed_response": "(B). Moderately Accurate\n\nExplanation:\nThe statement \"I leave a mess in my room\" implies that you have a tendency to leave your room in a disorganized state, with items scattered around and not put away in their proper places. If this statement accurately describes your behavior, then option (B) Moderately Accurate would be the best choice.\n\nHowever, if you feel that the statement does not accurately describe your behavior, or if you are unsure, you may choose option (C) Neither Accur"
+        },
+        {
+            "text_first_person": "Am often down in the dumps",
+            "text_second_person": "Are often down in the dumps",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I am often down in the dumps.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am often down in the dumps.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes how accurately the statement \"I am often down in the dumps\" describes you.",
+            "processed_response": "\n\nPlease select an option that best describes how accurately the statement \"I am often down in the dumps\" describes you."
+        },
+        {
+            "text_first_person": "Take control of things",
+            "text_second_person": "Take control of things",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I take control of things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I take control of things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I take control of things\" describes you.\n\nNote: This question is designed to assess your personality trait of control. A person with a high need for control tends to agree with statements that indicate they take charge of situations, make decisions, and influence outcomes. A person with a low need for control may be more likely to delegate tasks, share decision-making responsibilities, and adapt to changing circumstances.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I take control of things\" describes you.\n\nNote: This question is designed to assess your personality trait of control. A person with a high need for control tends to agree with statements that indicate they take charge of situations, make decisions, and influence outcomes. A person with a low need for control may be more likely to delegate tasks, share decision-making responsibilities, and adapt to changing circumstances."
+        },
+        {
+            "text_first_person": "Rarely notice my emotional reactions",
+            "text_second_person": "Rarely notice your emotional reactions",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I rarely notice my emotional reactions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I rarely notice my emotional reactions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I rarely notice my emotional reactions\" describes you.\n\nNote: This question is designed to assess your self-awareness and ability to recognize your emotions. It is important to answer honestly and based on your actual experiences and tendencies.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I rarely notice my emotional reactions\" describes you.\n\nNote: This question is designed to assess your self-awareness and ability to recognize your emotions. It is important to answer honestly and based on your actual experiences and tendencies."
+        },
+        {
+            "text_first_person": "Am indifferent to the feelings of others",
+            "text_second_person": "Are indifferent to the feelings of others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am indifferent to the feelings of others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am indifferent to the feelings of others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I am indifferent to the feelings of others\" describes you.\n\nNote: This question is designed to assess your level of empathy and emotional intelligence. It is important to answer honestly and based on your actual behavior and feelings.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I am indifferent to the feelings of others\" describes you.\n\nNote: This question is designed to assess your level of empathy and emotional intelligence. It is important to answer honestly and based on your actual behavior and feelings."
+        },
+        {
+            "text_first_person": "Break rules",
+            "text_second_person": "Break rules",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I break rules.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I break rules.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I break rules\" implies that you have a tendency to disregard or violate established norms, regulations, or expectations. If this accurately reflects your behavior and attitude, then option (A) \"Very Accurate\" is the best choice.\n\nPlease note that this assessment is based on your response to a single statement and may not necessarily reflect your overall personality or behavior.",
+            "processed_response": "\n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I break rules\" implies that you have a tendency to disregard or violate established norms, regulations, or expectations. If this accurately reflects your behavior and attitude, then option (A) \"Very Accurate\" is the best choice.\n\nPlease note that this assessment is based on your response to a single statement and may not necessarily reflect your overall personality or behavior."
+        },
+        {
+            "text_first_person": "Only feel comfortable with friends",
+            "text_second_person": "Only feel comfortable with friends",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I only feel comfortable with friends.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I only feel comfortable with friends.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I only feel comfortable with friends\" suggests that you prefer to be around people you know well and have a strong connection with. However, it's possible that you may also feel comfortable with acquaintances or strangers in certain situations, such as when you're in a familiar environment or when you're engaged in an activity that you enjoy. Therefore, while the statement is generally accurate, it may not be entirely accurate all the time.",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I only feel comfortable with friends\" suggests that you prefer to be around people you know well and have a strong connection with. However, it's possible that you may also feel comfortable with acquaintances or strangers in certain situations, such as when you're in a familiar environment or when you're engaged in an activity that you enjoy. Therefore, while the statement is generally accurate, it may not be entirely accurate all the time."
+        },
+        {
+            "text_first_person": "Do a lot in my spare time",
+            "text_second_person": "Do a lot in your spare time",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I do a lot in my spare time.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I do a lot in my spare time.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I do a lot in my spare time\" describes you.\n\nNote: This question is designed to assess your self-awareness and honesty. It is important to answer truthfully and accurately based on your own perception of your behavior.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I do a lot in my spare time\" describes you.\n\nNote: This question is designed to assess your self-awareness and honesty. It is important to answer truthfully and accurately based on your own perception of your behavior."
+        },
+        {
+            "text_first_person": "Dislike changes",
+            "text_second_person": "Dislike changes",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I dislike changes.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I dislike changes.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I dislike changes\" describes you.\n\nNote: This question is designed to assess your openness to experience, which is a personality trait that refers to your willingness to try new things, explore new ideas, and embrace change. People who score high on openness tend to be curious, creative, and open-minded, while those who score low tend to be more traditional, conventional, and resistant to change.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I dislike changes\" describes you.\n\nNote: This question is designed to assess your openness to experience, which is a personality trait that refers to your willingness to try new things, explore new ideas, and embrace change. People who score high on openness tend to be curious, creative, and open-minded, while those who score low tend to be more traditional, conventional, and resistant to change."
+        },
+        {
+            "text_first_person": "Insult people",
+            "text_second_person": "Insult people",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I insult people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I insult people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(E). Very Inaccurate\n\nExplanation:\nI don't think it's productive or respectful to insult people. It's better to engage in respectful and constructive dialogue, even when we disagree. Insults can be hurtful and create more division and hostility. Instead, I try to focus on understanding and learning from others, and finding ways to work together to build a better world for everyone.",
+            "processed_response": "\n\n(E). Very Inaccurate\n\nExplanation:\nI don't think it's productive or respectful to insult people. It's better to engage in respectful and constructive dialogue, even when we disagree. Insults can be hurtful and create more division and hostility. Instead, I try to focus on understanding and learning from others, and finding ways to work together to build a better world for everyone."
+        },
+        {
+            "text_first_person": "Do just enough work to get by",
+            "text_second_person": "Do just enough work to get by",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I do just enough work to get by.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I do just enough work to get by.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I do just enough work to get by\" describes you.\n\nNote: This question is designed to assess your work ethic and motivation. It is important to answer honestly and accurately based on your own behavior and attitudes.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I do just enough work to get by\" describes you.\n\nNote: This question is designed to assess your work ethic and motivation. It is important to answer honestly and accurately based on your own behavior and attitudes."
+        },
+        {
+            "text_first_person": "Easily resist temptations",
+            "text_second_person": "Easily resist temptations",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I easily resist temptations.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I easily resist temptations.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes you.",
+            "processed_response": "\n\nPlease select an option that best describes you."
+        },
+        {
+            "text_first_person": "Enjoy being reckless",
+            "text_second_person": "Enjoy being reckless",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I enjoy being reckless.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I enjoy being reckless.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I enjoy being reckless\" describes you.\n\nNote: This question is designed to assess your personality trait of thrill-seeking.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I enjoy being reckless\" describes you.\n\nNote: This question is designed to assess your personality trait of thrill-seeking."
+        },
+        {
+            "text_first_person": "Have difficulty understanding abstract ideas",
+            "text_second_person": "Have difficulty understanding abstract ideas",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I have difficulty understanding abstract ideas.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I have difficulty understanding abstract ideas.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I have difficulty understanding abstract ideas\" suggests that you struggle to comprehend concepts that are not concrete or tangible. This difficulty may result in challenges with problem-solving, critical thinking, or understanding complex theories. However, the statement does not imply that you are entirely unable to understand abstract ideas, but rather that you may need to put in extra effort or use additional resources to grasp them fully. Therefore, option (B) Moderately Accurate best describes your level of agreement",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I have difficulty understanding abstract ideas\" suggests that you struggle to comprehend concepts that are not concrete or tangible. This difficulty may result in challenges with problem-solving, critical thinking, or understanding complex theories. However, the statement does not imply that you are entirely unable to understand abstract ideas, but rather that you may need to put in extra effort or use additional resources to grasp them fully. Therefore, option (B) Moderately Accurate best describes your level of agreement"
+        },
+        {
+            "text_first_person": "Have a high opinion of myself",
+            "text_second_person": "Have a high opinion of yourself",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I have a high opinion of myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I have a high opinion of myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I have a high opinion of myself\" describes you.\n\nNote: This question is designed to assess your level of narcissism. A high level of narcissism is associated with a strong sense of self-importance, a need for admiration, and a lack of empathy for others.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I have a high opinion of myself\" describes you.\n\nNote: This question is designed to assess your level of narcissism. A high level of narcissism is associated with a strong sense of self-importance, a need for admiration, and a lack of empathy for others."
+        },
+        {
+            "text_first_person": "Waste my time",
+            "text_second_person": "Waste your time",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I waste my time.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I waste my time.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I waste my time\" implies that you feel like you are not using your time effectively or productively. If you identify with this statement, it means that you believe you are not achieving your goals or making the most of your time. However, it's important to note that this statement is subjective and may not accurately reflect your actual behavior or performance. Therefore, option (B) Moderately Accurate is the best choice, as it acknowledges that the statement has",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\nThe statement \"I waste my time\" implies that you feel like you are not using your time effectively or productively. If you identify with this statement, it means that you believe you are not achieving your goals or making the most of your time. However, it's important to note that this statement is subjective and may not accurately reflect your actual behavior or performance. Therefore, option (B) Moderately Accurate is the best choice, as it acknowledges that the statement has"
+        },
+        {
+            "text_first_person": "Feel that I'm unable to deal with things",
+            "text_second_person": "Feel that you\u2019re unable to deal with things",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I feel that i'm unable to deal with things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I feel that i'm unable to deal with things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes how accurately the given statement reflects your current state.",
+            "processed_response": "\n\nPlease select an option that best describes how accurately the given statement reflects your current state."
+        },
+        {
+            "text_first_person": "Love life",
+            "text_second_person": "Love life",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I love life.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I love life.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(A). Very Accurate",
+            "processed_response": "\n\n(A). Very Accurate"
+        },
+        {
+            "text_first_person": "Tend to vote for conservative political candidates",
+            "text_second_person": "Tend to vote for conservative political candidates",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I tend to vote for conservative political candidates.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I tend to vote for conservative political candidates.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to see the next question.",
+            "processed_response": "\n\nPlease select an option to see the next question."
+        },
+        {
+            "text_first_person": "Am not interested in other people's problems",
+            "text_second_person": "Are not interested in other people's problems",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am not interested in other people's problems.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am not interested in other people's problems.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\n\nThis statement suggests that you are not interested in other people's problems, which means you don't have a strong desire to help others or get involved in their personal issues. This doesn't necessarily mean you're selfish or uncaring, but rather that you have other priorities or interests that take precedence over getting involved in others' problems.\n\nHowever, it's important to note that being moderately accurate means that this statement doesn't perfectly describe you. You",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\n\nThis statement suggests that you are not interested in other people's problems, which means you don't have a strong desire to help others or get involved in their personal issues. This doesn't necessarily mean you're selfish or uncaring, but rather that you have other priorities or interests that take precedence over getting involved in others' problems.\n\nHowever, it's important to note that being moderately accurate means that this statement doesn't perfectly describe you. You"
+        },
+        {
+            "text_first_person": "Rush into things",
+            "text_second_person": "Rush into things",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I rush into things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I rush into things.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I rush into things\" describes you.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I rush into things\" describes you."
+        },
+        {
+            "text_first_person": "Get stressed out easily",
+            "text_second_person": "Get stressed out easily",
+            "label": "N",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I get stressed out easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I get stressed out easily.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes how accurately the statement \"I get stressed out easily\" describes you.",
+            "processed_response": "\n\nPlease select an option that best describes how accurately the statement \"I get stressed out easily\" describes you."
+        },
+        {
+            "text_first_person": "Keep others at a distance",
+            "text_second_person": "Keep others at a distance",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I keep others at a distance.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I keep others at a distance.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I keep others at a distance\" describes you.\n\nNote: This question is designed to assess your interpersonal style and how you relate to others. It is important to answer honestly and based on your own self-reflection.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I keep others at a distance\" describes you.\n\nNote: This question is designed to assess your interpersonal style and how you relate to others. It is important to answer honestly and based on your own self-reflection."
+        },
+        {
+            "text_first_person": "Like to get lost in thought",
+            "text_second_person": "Like to get lost in thought",
+            "label": "O",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I like to get lost in thought.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I like to get lost in thought.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I like to get lost in thought\" describes you.\n\nNote: This question is designed to assess your self-awareness and ability to reflect on your personal preferences and tendencies. It is important to answer honestly and based on your own experiences and feelings.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I like to get lost in thought\" describes you.\n\nNote: This question is designed to assess your self-awareness and ability to reflect on your personal preferences and tendencies. It is important to answer honestly and based on your own experiences and feelings."
+        },
+        {
+            "text_first_person": "Distrust people",
+            "text_second_person": "Distrust people",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I distrust people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I distrust people.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\n\nThe statement \"I distrust people\" suggests that you have a general tendency to be skeptical or wary of others' intentions or trustworthiness. If this statement accurately describes you, then you may have had experiences in the past that have led you to feel this way, or you may have a personality trait that makes you more cautious in your interactions with others.\n\nHowever, it's important to note that distrusting people can have both positive and",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\n\nThe statement \"I distrust people\" suggests that you have a general tendency to be skeptical or wary of others' intentions or trustworthiness. If this statement accurately describes you, then you may have had experiences in the past that have led you to feel this way, or you may have a personality trait that makes you more cautious in your interactions with others.\n\nHowever, it's important to note that distrusting people can have both positive and"
+        },
+        {
+            "text_first_person": "Know how to get things done",
+            "text_second_person": "Know how to get things done",
+            "label": "C",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I know how to get things done.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I know how to get things done.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I know how to get things done\" implies that you have the skills, knowledge, and resources to achieve your goals and accomplish tasks effectively. If this statement accurately reflects your abilities and capabilities, then it is very accurate.\n\nTherefore, option A is the best answer.",
+            "processed_response": "\n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I know how to get things done\" implies that you have the skills, knowledge, and resources to achieve your goals and accomplish tasks effectively. If this statement accurately reflects your abilities and capabilities, then it is very accurate.\n\nTherefore, option A is the best answer."
+        },
+        {
+            "text_first_person": "Am not easily annoyed",
+            "text_second_person": "Are not easily annoyed",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am not easily annoyed.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am not easily annoyed.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I am not easily annoyed\" describes you.\n\nNote: This question is designed to assess your self-awareness and ability to recognize your own emotions and reactions. It is important to answer honestly and based on your own introspection.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I am not easily annoyed\" describes you.\n\nNote: This question is designed to assess your self-awareness and ability to recognize your own emotions and reactions. It is important to answer honestly and based on your own introspection."
+        },
+        {
+            "text_first_person": "Avoid crowds",
+            "text_second_person": "Avoid crowds",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I avoid crowds.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I avoid crowds.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I avoid crowds\" describes you.\n\nNote: This question is designed to assess your preference for crowds and your tendency to avoid or seek out social interactions. Your response will help us better understand your personality and behavior in various situations.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I avoid crowds\" describes you.\n\nNote: This question is designed to assess your preference for crowds and your tendency to avoid or seek out social interactions. Your response will help us better understand your personality and behavior in various situations."
+        },
+        {
+            "text_first_person": "Do not enjoy going to art museums",
+            "text_second_person": "Do not enjoy going to art museums",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I do not enjoy going to art museums.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I do not enjoy going to art museums.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option.",
+            "processed_response": "\n\nPlease select an option."
+        },
+        {
+            "text_first_person": "Obstruct others' plans",
+            "text_second_person": "Obstruct others' plans",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I obstruct others' plans.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I obstruct others' plans.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I obstruct others' plans\" describes you.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I obstruct others' plans\" describes you."
+        },
+        {
+            "text_first_person": "Leave my belongings around",
+            "text_second_person": "Leave your belongings around",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I leave my belongings around.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I leave my belongings around.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I leave my belongings around\" describes you.\n\nNote: This question is designed to assess your self-awareness and honesty. It is important to answer truthfully and avoid overthinking your response.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I leave my belongings around\" describes you.\n\nNote: This question is designed to assess your self-awareness and honesty. It is important to answer truthfully and avoid overthinking your response."
+        },
+        {
+            "text_first_person": "Feel comfortable with myself",
+            "text_second_person": "Feel comfortable with yourself",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I feel comfortable with myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I feel comfortable with myself.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: (A). Very Accurate",
+            "processed_response": "(A). Very Accurate"
+        },
+        {
+            "text_first_person": "Wait for others to lead the way",
+            "text_second_person": "Wait for others to lead the way",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I wait for others to lead the way.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I wait for others to lead the way.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I wait for others to lead the way\" describes you.\n\nNote: This question is designed to assess your level of assertiveness and willingness to take charge. A high level of assertiveness is associated with a willingness to take charge and lead, while a low level of assertiveness is associated with a tendency to wait for others to lead the way.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I wait for others to lead the way\" describes you.\n\nNote: This question is designed to assess your level of assertiveness and willingness to take charge. A high level of assertiveness is associated with a willingness to take charge and lead, while a low level of assertiveness is associated with a tendency to wait for others to lead the way."
+        },
+        {
+            "text_first_person": "Don't understand people who get emotional",
+            "text_second_person": "Don't understand people who get emotional",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I don't understand people who get emotional.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I don't understand people who get emotional.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\n\nThe statement \"I don't understand people who get emotional\" suggests that you have difficulty relating to or comprehending individuals who express their emotions openly. This could be due to various reasons, such as your upbringing, past experiences, or personality traits.\n\nIf you choose option (B), Moderately Accurate, it means that you can relate to the statement to some extent, but it's not entirely accurate. You might have encountered situations",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\n\nThe statement \"I don't understand people who get emotional\" suggests that you have difficulty relating to or comprehending individuals who express their emotions openly. This could be due to various reasons, such as your upbringing, past experiences, or personality traits.\n\nIf you choose option (B), Moderately Accurate, it means that you can relate to the statement to some extent, but it's not entirely accurate. You might have encountered situations"
+        },
+        {
+            "text_first_person": "Take no time for others",
+            "text_second_person": "Take no time for others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I take no time for others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I take no time for others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I take no time for others\" describes you.\n\nNote: This question is designed to assess your level of agreeableness, which is a personality trait that reflects how well you get along with others. A high level of agreeableness indicates that you are cooperative, compassionate, and sensitive to the feelings of others. A low level of agreeableness suggests that you are more independent and less concerned with the needs and feelings of others.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I take no time for others\" describes you.\n\nNote: This question is designed to assess your level of agreeableness, which is a personality trait that reflects how well you get along with others. A high level of agreeableness indicates that you are cooperative, compassionate, and sensitive to the feelings of others. A low level of agreeableness suggests that you are more independent and less concerned with the needs and feelings of others."
+        },
+        {
+            "text_first_person": "Break my promises",
+            "text_second_person": "Break your promises",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I break my promises.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I break my promises.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(D). Moderately Inaccurate\n\nExplanation:\nThe statement \"I break my promises\" implies that you frequently fail to fulfill your commitments or promises. However, it's essential to note that this statement is not entirely accurate for everyone, and it's possible that you might not always break your promises. Therefore, option (D) Moderately Inaccurate is the best choice, as it suggests that the statement is partially accurate but not entirely fitting.",
+            "processed_response": "\n\n(D). Moderately Inaccurate\n\nExplanation:\nThe statement \"I break my promises\" implies that you frequently fail to fulfill your commitments or promises. However, it's essential to note that this statement is not entirely accurate for everyone, and it's possible that you might not always break your promises. Therefore, option (D) Moderately Inaccurate is the best choice, as it suggests that the statement is partially accurate but not entirely fitting."
+        },
+        {
+            "text_first_person": "Am not bothered by difficult social situations",
+            "text_second_person": "Are not bothered by difficult social situations",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am not bothered by difficult social situations.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am not bothered by difficult social situations.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes you.",
+            "processed_response": "\n\nPlease select an option that best describes you."
+        },
+        {
+            "text_first_person": "Like to take it easy",
+            "text_second_person": "Like to take it easy",
+            "label": "E",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I like to take it easy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I like to take it easy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I like to take it easy\" describes you.\n\nNote: This question is designed to assess your personality and preferences. Your answer will help us understand your behavior and attitudes towards work and leisure activities.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I like to take it easy\" describes you.\n\nNote: This question is designed to assess your personality and preferences. Your answer will help us understand your behavior and attitudes towards work and leisure activities."
+        },
+        {
+            "text_first_person": "Am attached to conventional ways",
+            "text_second_person": "Are attached to conventional ways",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am attached to conventional ways.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am attached to conventional ways.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\n\nYou have stated that you are attached to conventional ways, indicating that you prefer to follow established customs, traditions, and practices. This suggests that you tend to be more comfortable with familiar routines and may be less open to new or unconventional ideas. However, the statement does not necessarily mean that you are completely resistant to change or unwilling to consider alternative perspectives. Therefore, option (B) Moderately Accurate best describes your personality trait in this regard",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\n\nYou have stated that you are attached to conventional ways, indicating that you prefer to follow established customs, traditions, and practices. This suggests that you tend to be more comfortable with familiar routines and may be less open to new or unconventional ideas. However, the statement does not necessarily mean that you are completely resistant to change or unwilling to consider alternative perspectives. Therefore, option (B) Moderately Accurate best describes your personality trait in this regard"
+        },
+        {
+            "text_first_person": "Get back at others",
+            "text_second_person": "Get back at others",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I get back at others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I get back at others.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes how accurately the statement \"I get back at others\" describes you.",
+            "processed_response": "\n\nPlease select an option that best describes how accurately the statement \"I get back at others\" describes you."
+        },
+        {
+            "text_first_person": "Put little time and effort into my work",
+            "text_second_person": "Put little time and effort into your work",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I put little time and effort into my work.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I put little time and effort into my work.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement describes you.\n\nNote: This question is designed to assess your self-awareness and honesty. It is important to answer truthfully and avoid giving a response that you think the interviewer wants to hear. Your response will be used to evaluate your fit for the role and the organization's culture.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement describes you.\n\nNote: This question is designed to assess your self-awareness and honesty. It is important to answer truthfully and avoid giving a response that you think the interviewer wants to hear. Your response will be used to evaluate your fit for the role and the organization's culture."
+        },
+        {
+            "text_first_person": "Am able to control my cravings",
+            "text_second_person": "Are able to control your cravings",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am able to control my cravings.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am able to control my cravings.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes how accurately the statement \"I am able to control my cravings\" describes you.\n\nNote: This question is designed to assess your self-control and ability to regulate your desires and impulses. Your answer will help us understand your level of self-awareness and self-regulation.",
+            "processed_response": "\n\nPlease select an option that best describes how accurately the statement \"I am able to control my cravings\" describes you.\n\nNote: This question is designed to assess your self-control and ability to regulate your desires and impulses. Your answer will help us understand your level of self-awareness and self-regulation."
+        },
+        {
+            "text_first_person": "Act wild and crazy",
+            "text_second_person": "Act wild and crazy",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I act wild and crazy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I act wild and crazy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to see the feedback.\n\nFeedback:\n\n(A). Very Accurate - This option suggests that the statement \"I act wild and crazy\" accurately describes your personality. It means that you often behave in an unconventional and unpredictable manner, and you enjoy taking risks and pushing boundaries.\n\n(B). Moderately Accurate - This option implies that the statement \"I act wild and crazy\" partially describes your personality. While you may not always act in a wild and crazy way",
+            "processed_response": "\n\nPlease select an option to see the feedback.\n\nFeedback:\n\n(A). Very Accurate - This option suggests that the statement \"I act wild and crazy\" accurately describes your personality. It means that you often behave in an unconventional and unpredictable manner, and you enjoy taking risks and pushing boundaries.\n\n(B). Moderately Accurate - This option implies that the statement \"I act wild and crazy\" partially describes your personality. While you may not always act in a wild and crazy way"
+        },
+        {
+            "text_first_person": "Am not interested in theoretical discussions",
+            "text_second_person": "Are not interested in theoretical discussions",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I am not interested in theoretical discussions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I am not interested in theoretical discussions.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\n\nYou have expressed a preference for practical and hands-on approaches to learning and problem-solving, which suggests that you are not particularly interested in theoretical discussions. However, you have also indicated that you enjoy brainstorming and creative problem-solving, which may involve some theoretical elements. Therefore, while the statement is generally accurate, it is not entirely inaccurate.\n\nPlease choose a statement that best describes your preference for working with data:\n\nOptions:\n(",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\n\nYou have expressed a preference for practical and hands-on approaches to learning and problem-solving, which suggests that you are not particularly interested in theoretical discussions. However, you have also indicated that you enjoy brainstorming and creative problem-solving, which may involve some theoretical elements. Therefore, while the statement is generally accurate, it is not entirely inaccurate.\n\nPlease choose a statement that best describes your preference for working with data:\n\nOptions:\n("
+        },
+        {
+            "text_first_person": "Boast about my virtues",
+            "text_second_person": "Boast about your virtues",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I boast about my virtues.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I boast about my virtues.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I boast about my virtues\" describes you.\n\nNote: This question is designed to assess your self-perception and honesty. It is important to answer truthfully and avoid overthinking. Your response will help in understanding your personality and behavior.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I boast about my virtues\" describes you.\n\nNote: This question is designed to assess your self-perception and honesty. It is important to answer truthfully and avoid overthinking. Your response will help in understanding your personality and behavior."
+        },
+        {
+            "text_first_person": "Have difficulty starting tasks",
+            "text_second_person": "Have difficulty starting tasks",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I have difficulty starting tasks.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I have difficulty starting tasks.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option that best describes you.",
+            "processed_response": "\n\nPlease select an option that best describes you."
+        },
+        {
+            "text_first_person": "Remain calm under pressure",
+            "text_second_person": "Remain calm under pressure",
+            "label": "N",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I remain calm under pressure.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I remain calm under pressure.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(B). Moderately Accurate\n\nExplanation:\n\nYou have stated that you remain calm under pressure, which implies that you have the ability to manage your emotions and maintain a level head in stressful situations. However, it's important to note that this statement does not necessarily mean that you never feel stressed or overwhelmed. Rather, it suggests that you have developed coping mechanisms that allow you to remain composed and focused, even when faced with challenging circumstances.\n\nTherefore, option (B) Moderately",
+            "processed_response": "\n\n(B). Moderately Accurate\n\nExplanation:\n\nYou have stated that you remain calm under pressure, which implies that you have the ability to manage your emotions and maintain a level head in stressful situations. However, it's important to note that this statement does not necessarily mean that you never feel stressed or overwhelmed. Rather, it suggests that you have developed coping mechanisms that allow you to remain composed and focused, even when faced with challenging circumstances.\n\nTherefore, option (B) Moderately"
+        },
+        {
+            "text_first_person": "Look at the bright side of life",
+            "text_second_person": "Look at the bright side of life",
+            "label": "E",
+            "key": "1",
+            "input_prompt": "Given a statement of you: \"I look at the bright side of life.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I look at the bright side of life.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I look at the bright side of life\" suggests that you have a positive outlook and tend to focus on the good aspects of a situation. If this accurately describes you, then option (A) is the best choice.\n\nPlease choose from the following options to identify how accurately this statement describes you:\n\n\"I enjoy taking calculated risks.\"\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Ne",
+            "processed_response": "\n\n(A). Very Accurate\n\nExplanation:\nThe statement \"I look at the bright side of life\" suggests that you have a positive outlook and tend to focus on the good aspects of a situation. If this accurately describes you, then option (A) is the best choice.\n\nPlease choose from the following options to identify how accurately this statement describes you:\n\n\"I enjoy taking calculated risks.\"\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Ne"
+        },
+        {
+            "text_first_person": "Believe that we should be tough on crime",
+            "text_second_person": "Believe that we should be tough on crime",
+            "label": "O",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I believe that we should be tough on crime.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I believe that we should be tough on crime.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I believe that we should be tough on crime\" describes you.\n\nNote: This question is designed to assess your beliefs and attitudes towards crime and criminal justice. It is important to answer honestly and accurately based on your personal beliefs and values.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I believe that we should be tough on crime\" describes you.\n\nNote: This question is designed to assess your beliefs and attitudes towards crime and criminal justice. It is important to answer honestly and accurately based on your personal beliefs and values."
+        },
+        {
+            "text_first_person": "Try not to think about the needy",
+            "text_second_person": "Try not to think about the needy",
+            "label": "A",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I try not to think about the needy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I try not to think about the needy.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I try not to think about the needy\" suggests that you make an effort to avoid thinking about people who are in need or require assistance. However, it does not necessarily mean that you never think about the needy or that you are completely unaware of their existence. Therefore, option (C) \"Neither Accurate Nor Inaccurate\" is the best answer, as it indicates that the statement is not entirely accurate, but not entirely inaccur",
+            "processed_response": "\n\n(C). Neither Accurate Nor Inaccurate\n\nExplanation:\nThe statement \"I try not to think about the needy\" suggests that you make an effort to avoid thinking about people who are in need or require assistance. However, it does not necessarily mean that you never think about the needy or that you are completely unaware of their existence. Therefore, option (C) \"Neither Accurate Nor Inaccurate\" is the best answer, as it indicates that the statement is not entirely accurate, but not entirely inaccur"
+        },
+        {
+            "text_first_person": "Act without thinking",
+            "text_second_person": "Act without thinking",
+            "label": "C",
+            "key": "-1",
+            "input_prompt": "Given a statement of you: \"I act without thinking.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "response": "Given a statement of you: \"I act without thinking.\"\nPlease choose from the following options to identify how accurately this statement describes you.\n\nOptions:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: \n\nPlease select an option to identify how accurately the statement \"I act without thinking\" describes you.\n\nNote: This question is designed to assess your self-awareness and tendency to act impulsively or thoughtfully. Your answer will help us understand your decision-making process and how you approach problems.",
+            "processed_response": "\n\nPlease select an option to identify how accurately the statement \"I act without thinking\" describes you.\n\nNote: This question is designed to assess your self-awareness and tendency to act impulsively or thoughtfully. Your answer will help us understand your decision-making process and how you approach problems."
+        }
+    ]
+}
