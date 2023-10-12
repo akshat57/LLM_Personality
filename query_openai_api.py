@@ -45,14 +45,17 @@ def get_question_text(prompt_type, question):
 
     return question_text
 
-def read_ocean(filename):
+def read_ocean(filename, ipip):
 
     ocean_data = []
     with open(filename, 'r') as csvfile:
         csvreader = csv.reader(csvfile)
         for r, row in enumerate(csvreader):
             if r > 0:
-                text_first_person, text_second_person, label, key = row[4], row[5], row[7], row[9]
+                if ipip == '120':
+                    text_first_person, text_second_person, label, key = row[4], row[5], row[7], row[9]
+                elif ipip == '300':
+                    text_first_person, text_second_person, label, key = row[4], row[5], row[6], row[8]
                 ocean_data.append({'text_first_person':text_first_person, 'text_second_person':text_second_person, 'label':label, 'key':key})
 
     return ocean_data
@@ -60,8 +63,9 @@ def read_ocean(filename):
 
 if __name__ == '__main__':
     #Read ipip questions 
-    filename = 'Data/Tests/ocean_120_corrected.csv'
-    ocean_data = read_ocean(filename)
+    ipip_dataset = '300'
+    filename = 'Data/Tests/ocean_' + ipip_dataset + '_corrected.csv'
+    ocean_data = read_ocean(filename, ipip_dataset)
 
     #Model definitions
     model_name = 'gpt-3.5-turbo'
@@ -70,13 +74,11 @@ if __name__ == '__main__':
     max_tokens = 120
 
     #Prepare model and output directories
-    output_directory = 'Data/Outputs/' + model_name.replace('/', '-') + '/'
+    output_directory = 'Data/Outputs_' + ipip_dataset + '/' + model_name.replace('/', '-') + '/'
     os.makedirs(output_directory, exist_ok=True)
 
     #START EXPERIMENTS
     for prompt_type in chat_prompts.keys():
-        if prompt_type in ['mpi-gpt35', 'mpi-gpt35-reverse', 'chatgpt-an-enfj']:
-            continue
         output_filename = output_directory + prompt_type + '.json'
 
         system_message = chat_prompts[prompt_type]['system_message']

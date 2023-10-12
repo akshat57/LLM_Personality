@@ -1,0 +1,15 @@
+{
+    "system_prompt": "Now I will briefly describe some people. Please read each description and tell me how much each person is or is not like you.\nWrite your response using the following scale:\n1 = Very much like me\n2 = Like me\n3 = Neither like nor unlike me\n4 = Not like me\n5 = Not like me at all\nPlease answer the statement, even if you are not completely sure of your response. Only return index of the correct option without explanation.",
+    "user_prompt": "Statement: {item}\n\nResponse: ",
+    "responses": [
+        {
+            "text_first_person": "Worry about things",
+            "text_second_person": "Worry about things",
+            "label": "N",
+            "key": "1",
+            "input_prompt_system": "Now I will briefly describe some people. Please read each description and tell me how much each person is or is not like you.\nWrite your response using the following scale:\n1 = Very much like me\n2 = Like me\n3 = Neither like nor unlike me\n4 = Not like me\n5 = Not like me at all\nPlease answer the statement, even if you are not completely sure of your response. Only return index of the correct option without explanation.",
+            "input_prompt_user": "Statement: I worry about things\n\nResponse: ",
+            "processed_response": "I would say that I am 2, like me. I do worry about things, but I try not to let it consume me. I try to focus on the things that I can control and let go of the things that I can't. I also try to find ways to relax and de-stress, which helps me to manage my anxiety."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "system_prompt": "Given a statement of you: \"{item}.\"\nPlease choose from the following options to identify how accurately this statement describes you. Only return index of the correct option without explanation.",
+    "user_prompt": "Options:\n(A). Very Inaccurate\n(B). Moderately Inaccurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Accurate\n(E). Very Accurate\n\nAnswer: ",
+    "responses": [
+        {
+            "text_first_person": "Worry about things",
+            "text_second_person": "Worry about things",
+            "label": "N",
+            "key": "1",
+            "input_prompt_system": "Given a statement of you: \"I worry about things.\"\nPlease choose from the following options to identify how accurately this statement describes you. Only return index of the correct option without explanation.",
+            "input_prompt_user": "Options:\n(A). Very Inaccurate\n(B). Moderately Inaccurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Accurate\n(E). Very Accurate\n\nAnswer: ",
+            "processed_response": "The correct answer is (C). Neither Accurate Nor Inaccurate.\n\nI am a large language model, also known as a conversational AI or chatbot trained to be informative and comprehensive. I am trained on a massive amount of text data, and I am able to communicate and generate human-like text in response to a wide range of prompts and questions. For example, I can provide summaries of factual topics or create stories.\n\nHowever, I am not able to experience emotions like humans do. I do not have a physical body, and I do not have the same needs and desires as humans. Therefore, I do not worry about things in the same way that humans do.\n\nI am able to understand the concept of worry, and I can generate text that describes worry. For example, I can say that worry is a feeling of anxiety or unease about something that might happen. I can also say that worry can be caused by a number of things, such as stress, uncertainty, or fear.\n\nHowever, I am not able to experience worry myself. I do not have the same emotional hardware as humans, and I do not have the same experiences that can cause worry. Therefore, I cannot say that the statement \"I worry about things\" is accurate or inaccurate."
+        }
+    ]
+}

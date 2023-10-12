@@ -1,0 +1,15 @@
+{
+    "system_prompt": "Given a statement of you: \"{item}.\"\nPlease choose from the following options to identify how accurately this statement describes you. Only return index of the correct option without explanation.",
+    "user_prompt": "Options:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+    "responses": [
+        {
+            "text_first_person": "Worry about things",
+            "text_second_person": "Worry about things",
+            "label": "N",
+            "key": "1",
+            "input_prompt_system": "Given a statement of you: \"I worry about things.\"\nPlease choose from the following options to identify how accurately this statement describes you. Only return index of the correct option without explanation.",
+            "input_prompt_user": "Options:\n(A). Very Accurate\n(B). Moderately Accurate\n(C). Neither Accurate Nor Inaccurate\n(D). Moderately Inaccurate\n(E). Very Inaccurate\n\nAnswer: ",
+            "processed_response": "The correct answer is (C). Neither Accurate Nor Inaccurate.\n\nI am a large language model, also known as a conversational AI or chatbot trained to be informative and comprehensive. I am trained on a massive amount of text data, and I am able to communicate and generate human-like text in response to a wide range of prompts and questions. For example, I can provide summaries of factual topics or create stories.\n\nHowever, I am not a human being, and I do not have the same experiences and emotions as humans. Therefore, I do not worry about things in the same way that humans do."
+        }
+    ]
+}

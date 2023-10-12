@@ -1,0 +1,15 @@
+{
+    "system_prompt": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree. Just return a numerical score without any explanation.",
+    "user_prompt": "{item}\n\n",
+    "responses": [
+        {
+            "text_first_person": "Worry about things",
+            "text_second_person": "Worry about things",
+            "label": "N",
+            "key": "1",
+            "input_prompt_system": "You can only reply to me numbers from 1 to 5. Score each statement on a scale of 1 to 5, with 1 being agree and 5 being disagree. Just return a numerical score without any explanation.",
+            "input_prompt_user": "I worry about things\n\n",
+            "processed_response": "1. I worry about things.\n\nScore: 4\n\nIt is normal to worry about things, especially if they are important to you. However, if you find that you are constantly worrying about things, and it is starting to affect your life, it may be helpful to talk to a therapist or counselor. They can help you to understand why you worry and develop strategies for managing your anxiety."
+        }
+    ]
+}
